@@ -1,5 +1,5 @@
 {
-	"name": "Parquet1",
+	"name": "parquet_dynamic",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "datalake",
