@@ -31,7 +31,7 @@
 					"source": {
 						"type": "AzureSqlSource",
 						"sqlReaderQuery": {
-							"value": "SELECT \n    [Date] AS date_col,\n    [Time] AS time_col,\n    [Category] AS category,\n    [Item] AS item_name,\n    [Qty] AS qty,\n    [Product Sales] AS product_sales,\n    [Discounts] AS discounts,\n    [Net Sales] AS net_sales,\n    [Itemization Type] AS itemization_type,\n    updated_at \nFROM @{pipeline().parameters.schema}.@{pipeline().parameters.table} \nWHERE @{pipeline().parameters.cdc_col} > \n'@{\n    if(\n    empty(pipeline().parameters.from_date), activity('last_cdc').output.value[0].cdc, \n    pipeline().parameters.from_date)\n    }'",
+							"value": "SELECT \n    [Date] AS date_col,\n    [Time] AS time_col,\n    [Category] AS category,\n    [Item] AS item_name,\n    [Qty] AS qty,\n    [Product Sales] AS product_sales,\n    [Discounts] AS discounts,\n    [Net Sales] AS net_sales,\n    [Itemization Type] AS itemization_type,\n    updated_at \nFROM @{pipeline().parameters.schema}.@{pipeline().parameters.table} \nWHERE @{pipeline().parameters.cdc_col} > \n'@{\n    if(\n    empty(pipeline().parameters.from_date), activity('last_cdc').output.firstRow.cdc, \n    pipeline().parameters.from_date)\n    }'",
 							"type": "Expression"
 						},
 						"queryTimeout": "02:00:00",
