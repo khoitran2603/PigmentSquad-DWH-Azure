@@ -8,6 +8,11 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
+					"items": {
+						"value": "@pipeline().parameters.loop_input",
+						"type": "Expression"
+					},
+					"isSequential": true,
 					"activities": [
 						{
 							"name": "AzureSQLToLake",
@@ -38,7 +43,7 @@
 								"source": {
 									"type": "AzureSqlSource",
 									"sqlReaderQuery": {
-										"value": "SELECT \n    [Date] AS date_col,\n    [Time] AS time_col,\n    [Category] AS category,\n    [Item] AS item_name,\n    [Qty] AS qty,\n    [Product Sales] AS product_sales,\n    [Discounts] AS discounts,\n    [Net Sales] AS net_sales,\n    [Itemization Type] AS itemization_type,\n    updated_at\nFROM @{pipeline().parameters.schema}.@{pipeline().parameters.table}\nSELECT * \nFROM @{pipeline().parameters.schema}.@{pipeline().parameters.table} \nWHERE @{pipeline().parameters.cdc_col} > \n'@{\n    if(\n    empty(pipeline().parameters.from_date), activity('last_cdc').output.value[0].cdc, \n    pipeline().parameters.from_date)\n    }'",
+										"value": "SELECT \n    [Date] AS date_col,\n    [Time] AS time_col,\n    [Category] AS category,\n    [Item] AS item_name,\n    [Qty] AS qty,\n    [Product Sales] AS product_sales,\n    [Discounts] AS discounts,\n    [Net Sales] AS net_sales,\n    [Itemization Type] AS itemization_type,\n    updated_at\nFROM @{item().schema}.@{item().table} \nWHERE @{item().cdc_col} > \n'@{\n    if(\n    empty(item().from_date), activity('last_cdc').output.value[0].cdc, \n    item().from_date)\n    }'",
 										"type": "Expression"
 									},
 									"queryTimeout": "02:00:00",
@@ -76,11 +81,11 @@
 									"parameters": {
 										"container": "bronze",
 										"folder": {
-											"value": "@pipeline().parameters.table",
+											"value": "@item().table",
 											"type": "Expression"
 										},
 										"file": {
-											"value": "@concat(pipeline().parameters.table,'_',variables('current'))",
+											"value": "@concat(item().table,'_',variables('current'))",
 											"type": "Expression"
 										}
 									}
@@ -117,7 +122,7 @@
 									"parameters": {
 										"container": "bronze",
 										"folder": {
-											"value": "@{pipeline().parameters.table}_cdc",
+											"value": "@{item().table}_cdc",
 											"type": "Expression"
 										},
 										"file": "cdc.json"
@@ -179,10 +184,13 @@
 												"parameters": {
 													"container": "bronze",
 													"folder": {
-														"value": "@pipeline().parameters.table",
+														"value": "@item().table",
 														"type": "Expression"
 													},
-													"file": "@concat(pipeline().parameters.table,'_',variables('current'))"
+													"file": {
+														"value": "@concat(item().table,'_',variables('current'))",
+														"type": "Expression"
+													}
 												}
 											},
 											"enableLogging": false,
@@ -216,7 +224,7 @@
 												{
 													"type": "Query",
 													"text": {
-														"value": "SELECT\n    MAX(@{pipeline().parameters.cdc_col}) AS cdc \nFROM @{pipeline().parameters.table}",
+														"value": "SELECT\n    MAX(@{item().cdc_col}) AS cdc \nFROM @{item().schema}.@{item().table}",
 														"type": "Expression"
 													}
 												}
@@ -281,7 +289,10 @@
 												"type": "DatasetReference",
 												"parameters": {
 													"container": "bronze",
-													"folder": "cdc",
+													"folder": {
+														"value": "@{item().table}_cdc",
+														"type": "Expression"
+													},
 													"file": "empty.json"
 												}
 											}
@@ -292,7 +303,10 @@
 												"type": "DatasetReference",
 												"parameters": {
 													"container": "bronze",
-													"folder": "@{pipeline().parameters.table}_cdc",
+													"folder": {
+														"value": "@{item().table}_cdc",
+														"type": "Expression"
+													},
 													"file": "cdc.json"
 												}
 											}
@@ -307,7 +321,15 @@
 		],
 		"parameters": {
 			"loop_input": {
-				"type": "array"
+				"type": "array",
+				"defaultValue": [
+					{
+						"schema": "dbo",
+						"table": "pos_prd_sales",
+						"cdc_col": "updated_at",
+						"from_date": ""
+					}
+				]
 			}
 		},
 		"variables": {
