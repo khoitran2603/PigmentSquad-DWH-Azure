@@ -1,0 +1,1472 @@
+Date,Time,Category,Item,Qty,Product Sales,Discounts,Net Sales,Transaction ID,Itemization Type
+31/08/2024,23:02:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,juL9tEViCCy7EaQLsDiU7eghskeZY,Service
+31/08/2024,22:56:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TG9qhXFl2MubeXQIg76bMA2WzZDZY,Service
+31/08/2024,21:12:59,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,Xyayz9AjbHAzSVPOYJEiahXevueZY,Physical Good
+31/08/2024,21:12:36,Bear Stick / Bear Brick,Bear Stick - Heart,1,$45.00,-$45.00,$0.00,9T7L3GYuzbkvoPImjnVLqjsoGbIZY,Physical Good
+31/08/2024,21:10:26,None,Dino,1,$36.31,$0.00,$36.31,PY34snJEw55ksdxuvaqvx3UkEMfZY,Physical Good
+31/08/2024,21:09:57,None,Cat - Bottle,1,$40.84,$0.00,$40.84,XGImYvGRnCZ65rIVlASYF0wshlRZY,Physical Good
+31/08/2024,20:42:37,Stitch,Mitch - Dragon Hat,1,$40.84,$0.00,$40.84,9hqPy2jDnYFmdhZzxuhJHgR4UeOZY,Physical Good
+31/08/2024,20:42:11,None,Teddy with Tote,1,$36.31,$0.00,$36.31,dpW3pzJCbX5NIrPa74cWrZgiaFEZY,Physical Good
+31/08/2024,20:37:41,None,Luff - on Rock,1,$45.00,-$45.00,$0.00,zYWcsVgtRoyUZu8WAj2tR0ihupdZY,Physical Good
+31/08/2024,20:37:41,Sanrio,Kuro – Magician Hat,1,$45.00,-$45.00,$0.00,zYWcsVgtRoyUZu8WAj2tR0ihupdZY,Physical Good
+31/08/2024,19:36:34,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,bK9QU3Z5ME0HfdHzMpE0XkAiK1DZY,Physical Good
+31/08/2024,19:36:34,None,Puppy,1,$36.31,$0.00,$36.31,bK9QU3Z5ME0HfdHzMpE0XkAiK1DZY,Physical Good
+31/08/2024,18:11:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BhpDvTMypP0mJ7NvVWSdYPtMHyQZY,Service
+31/08/2024,18:11:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BhpDvTMypP0mJ7NvVWSdYPtMHyQZY,Service
+31/08/2024,18:11:25,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,BhpDvTMypP0mJ7NvVWSdYPtMHyQZY,Physical Good
+31/08/2024,18:05:43,None,Gloss Varnish,1,$4.55,$0.00,$4.55,5j2KUP0r8llRkNRVTsdT6OrZAwdZY,Service
+31/08/2024,18:05:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NDP7WqpX4RUTduDnqvzbbbRvZ5AZY,Service
+31/08/2024,17:39:59,None,Apple Baby,1,$31.82,$0.00,$31.82,5N7eqv2hiCtBIimHYZsPeZfbgbAZY,Physical Good
+31/08/2024,17:39:18,None,Astro Boy,1,$45.00,-$45.00,$0.00,FpawPcD8GyGMc42jrC6HE1seV,Physical Good
+31/08/2024,17:13:18,None,Dino,1,$36.31,$0.00,$36.31,PcROfcoc0AXAD1lqBM22VU1sW75YY,Physical Good
+31/08/2024,17:12:50,None,Rabbit - Glasses,1,$36.31,$0.00,$36.31,5ZpcbjP2pXnCQnO9OzEqucI1FKKZY,Physical Good
+31/08/2024,17:06:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XsXK4sVIdoRQRddHgdphtFanb96YY,Service
+31/08/2024,16:39:14,Disney Characters,Monster - Suli & Mike,1,$54.46,$0.00,$54.46,LMENgihbqtJlJh4xrfTfBnrAJPbZY,Physical Good
+31/08/2024,16:39:14,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,LMENgihbqtJlJh4xrfTfBnrAJPbZY,Physical Good
+31/08/2024,16:31:17,Couple,Couple - Rabbit,1,$49.92,$0.00,$49.92,3SCou9e4iKwMEbhGavgGpmcInJ7YY,Physical Good
+31/08/2024,16:29:45,None,Ducky Star,1,$45.00,-$45.00,$0.00,P6Gl08ztiKvYUXJZiYjIdUkyfNWZY,Physical Good
+31/08/2024,16:02:57,None,Custom Amount,1,$40.00,-$40.00,$0.00,Bj0sFfpXhXchVHOr8yo4YP5TUeNZY,
+31/08/2024,16:02:57,None,Dino - Baby,1,$40.00,-$40.00,$0.00,Bj0sFfpXhXchVHOr8yo4YP5TUeNZY,Physical Good
+31/08/2024,16:00:34,Disney Characters,Dom - Square,1,$36.30,$0.00,$36.30,PQtpMyPzkA6bgfbSw8bVAoYRMmZZY,Physical Good
+31/08/2024,16:00:34,Disney Characters,Terry - Cheesy Mouse,1,$36.31,$0.00,$36.31,PQtpMyPzkA6bgfbSw8bVAoYRMmZZY,Physical Good
+31/08/2024,15:56:15,None,Custom Amount,1,$36.31,$0.00,$36.31,berq24OJVwK4mEAXDyMwWQvdmN9YY,
+31/08/2024,15:49:20,None,Pat,2,$72.61,$0.00,$72.61,bAYmVeV8KVjbTy8WTiRU1DzS8HFZY,Physical Good
+31/08/2024,15:41:59,Bear Stick / Bear Brick,Bear Stick - Heart,1,$40.84,$0.00,$40.84,V3xyU6KyXPnW9o9tVMTc74CcpB8YY,Physical Good
+31/08/2024,15:41:32,None,Lion King,1,$36.31,$0.00,$36.31,3MxDxCAFYx4aoTWAvut4GQ3pFfIZY,Physical Good
+31/08/2024,15:18:47,None,Rabbit – Fish,1,$36.30,$0.00,$36.30,RVLpbjZPwTpcva2a7iFygA8EDcIZY,Physical Good
+31/08/2024,15:18:47,None,Lion King,1,$36.31,$0.00,$36.31,RVLpbjZPwTpcva2a7iFygA8EDcIZY,Physical Good
+31/08/2024,14:54:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TObVoZADfvopXKJnEOjfZKQizz9YY,Service
+31/08/2024,14:54:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TObVoZADfvopXKJnEOjfZKQizz9YY,Service
+31/08/2024,14:54:31,Disney Characters,Monster - Suli & Mike,1,$54.46,$0.00,$54.46,9fRXz7MaHTEAPjdKSdGZKnf9XtJZY,Physical Good
+31/08/2024,14:54:31,None,Pat,1,$36.30,$0.00,$36.30,9fRXz7MaHTEAPjdKSdGZKnf9XtJZY,Physical Good
+31/08/2024,14:50:42,None,Rabbit - Beannie,1,$36.31,$0.00,$36.31,F54zOzaSEicoWDWJQGsmgn6nHMTZY,Physical Good
+31/08/2024,14:50:07,None,Puppy,1,$36.31,$0.00,$36.31,3SwFJTBrfTUfRDJPRuemgi7YqLeZY,Physical Good
+31/08/2024,14:33:01,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,tDHXzZtRTNfOB6VVUWMixJ4qFgSZY,Physical Good
+31/08/2024,14:33:01,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,tDHXzZtRTNfOB6VVUWMixJ4qFgSZY,Physical Good
+31/08/2024,14:33:01,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,tDHXzZtRTNfOB6VVUWMixJ4qFgSZY,Physical Good
+31/08/2024,14:32:10,Disney Characters,Dom - Square,1,$36.31,$0.00,$36.31,Jlj8riYiiozxqvUfxQVjCgYdQufZY,Physical Good
+31/08/2024,14:29:42,None,Carrot,1,$31.82,$0.00,$31.82,be9BkoUZqkhLRuShY94HGclx5vXZY,Physical Good
+31/08/2024,14:27:48,None,Custom Amount,1,$31.82,$0.00,$31.82,L0ETQ6Ptsr9lvc9LSuocY18gn5EZY,
+31/08/2024,14:27:01,None,Holder - Lucky Cat,1,$45.38,$0.00,$45.38,ns9TBl4NyPcpW5pgRaSFkeTJrWeZY,Physical Good
+31/08/2024,14:24:57,None,Rabbit - Carrot,1,$31.77,$0.00,$31.77,pxvlifTJQWAbMzNFURIDWbrQvG7YY,Physical Good
+31/08/2024,14:24:57,None,Dragon - Baby,1,$36.30,$0.00,$36.30,pxvlifTJQWAbMzNFURIDWbrQvG7YY,Physical Good
+31/08/2024,14:24:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pxvlifTJQWAbMzNFURIDWbrQvG7YY,Service
+31/08/2024,14:24:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pxvlifTJQWAbMzNFURIDWbrQvG7YY,Service
+31/08/2024,14:22:47,Stitch,Mitch – Baseball Hat,1,$40.84,$0.00,$40.84,zk2rzyDOs4DW0cKN8lj32nRPazLZY,Physical Good
+31/08/2024,14:22:47,Stitch,Mitch - Tiger Hat,1,$40.85,$0.00,$40.85,zk2rzyDOs4DW0cKN8lj32nRPazLZY,Physical Good
+31/08/2024,14:22:47,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,zk2rzyDOs4DW0cKN8lj32nRPazLZY,Physical Good
+31/08/2024,14:22:47,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,zk2rzyDOs4DW0cKN8lj32nRPazLZY,Physical Good
+31/08/2024,13:59:17,Bear Stick / Bear Brick,Bear Stick - OG,1,$40.84,$0.00,$40.84,viAA81SCjVP8mEq4Addvdqecb8PZY,Physical Good
+31/08/2024,13:59:17,None,Bear Holder - C,1,$59.00,$0.00,$59.00,viAA81SCjVP8mEq4Addvdqecb8PZY,Physical Good
+31/08/2024,13:49:13,None,Fox - Nine Tailed,1,$52.75,-$30.56,$22.19,zu71ux173i6Bo2zFeF9tsSuBfIEZY,Physical Good
+31/08/2024,13:49:13,None,Astronaut,1,$33.56,-$19.44,$14.12,zu71ux173i6Bo2zFeF9tsSuBfIEZY,Physical Good
+31/08/2024,13:48:25,None,Gloss Varnish,1,$4.55,$0.00,$4.55,7iJMghGnPckTdcEKDNtNMx6kVd7YY,Service
+31/08/2024,13:47:32,None,Gloss Varnish,1,$4.55,$0.00,$4.55,LapCbM6rH7JD9JgF3nXMipdPnnMZY,Service
+31/08/2024,13:43:00,None,Gloss Varnish,1,$4.55,$0.00,$4.55,LwQ8LTt1ndnVsL5lsOrwqy4YkOVZY,Service
+31/08/2024,13:39:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XI9QLx062CRoUGd4kCgVOkde3vbZY,Service
+31/08/2024,13:19:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NDJYWWpQgrsSFF5ihBV9UJJkOSHZY,Service
+31/08/2024,12:26:32,None,Astronaut,1,$31.77,$0.00,$31.77,VXTR5HOjguU20Iv0gkUqufi1EUSZY,Physical Good
+31/08/2024,12:21:45,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,z4aILC193oIQP5TE9dhpOV9zuJ6YY,Physical Good
+31/08/2024,12:21:45,None,Dino - Disco,1,$40.84,$0.00,$40.84,z4aILC193oIQP5TE9dhpOV9zuJ6YY,Physical Good
+31/08/2024,11:41:34,None,Rabbit - Beannie,1,$36.30,$0.00,$36.30,XKe487cVUvFhralXIO6mRBUeE7fZY,Physical Good
+31/08/2024,11:41:34,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,XKe487cVUvFhralXIO6mRBUeE7fZY,Physical Good
+31/08/2024,11:41:34,None,Piggy - Birthday,1,$36.31,$0.00,$36.31,XKe487cVUvFhralXIO6mRBUeE7fZY,Physical Good
+31/08/2024,11:24:53,None,Custom Amount,1,$40.91,$0.00,$40.91,17BZRsBfcpBVsDlQ43rJJkSmNKGZY,
+31/08/2024,11:22:43,Stitch,Mitch - Dragon Hat,1,$40.84,$0.00,$40.84,vKEaUKpCvTziNwDXFn0NoERXl6AZY,Physical Good
+31/08/2024,11:08:56,Bear Stick / Bear Brick,Bear Stick - Rainbow Heart,1,$43.15,-$25.00,$18.15,ZX4IHLxnSP131sHsRls451RiwVaZY,Physical Good
+30/08/2024,19:26:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BNJOsyzkRT35Kc3irllQ35WTEPMZY,Service
+30/08/2024,19:08:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dDfLOEzUe5s8yAEAzlfOaLbKUwdZY,Service
+30/08/2024,18:59:40,None,Dino - Baby Dummy,1,$40.00,-$40.00,$0.00,LESCWoC6hqsqRJ0tJuHwuWcOljfZY,Physical Good
+30/08/2024,18:44:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,V5yEm5hUgi8Khzferima2i5I7hYZY,Service
+30/08/2024,18:43:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nG6LrcdFdGLAkia4QShDaiXiauGZY,Service
+30/08/2024,18:43:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FfleI3xOltMge3nvSXbb1xwtDZLZY,Service
+30/08/2024,18:28:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7eHQqTvgYNpr6nacOXD6B9TBHDgZY,Service
+30/08/2024,17:35:16,None,Dino - Baby Dummy,1,$36.31,$0.00,$36.31,9tuAsAUJlii9jaXDrXCl05BNLhaZY,Physical Good
+30/08/2024,17:34:32,None,Rabbit – Fish,1,$36.31,$0.00,$36.31,XY1MJbMHiFPbaUK5Jh0hAgwI5LMZY,Physical Good
+30/08/2024,16:30:31,None,Pat,1,$36.31,$0.00,$36.31,HuyJjiYBKcMfcMzi8DMJrybVyOVZY,Physical Good
+30/08/2024,16:30:01,None,Rabbit - Carrot,1,$31.77,$0.00,$31.77,P4PKZKtmHfhu3EjPuC2NGp6xcYOZY,Physical Good
+30/08/2024,16:28:01,Sanrio,Kuro – Magician Hat,1,$42.09,-$13.50,$28.59,xRTUoFdmXC2sVkrA4swgJoQCKOJZY,Physical Good
+30/08/2024,15:54:27,Beverages,Drink - Red Bull,1,$5.00,-$5.00,$0.00,LAMAwZGdRThJRRJQ0KlsolKmzjfZY,Physical Good
+30/08/2024,14:36:43,None,Rabbit - Ice Cream,1,$37.41,-$12.00,$25.41,BhbIhNWmM3mTgAVjljUaYScZ4aIZY,Physical Good
+30/08/2024,14:35:46,None,Piggy – Bottle,1,$37.41,-$12.00,$25.41,LMwfpqgsHcTnO4tXaPAq7TUDmwBZY,Physical Good
+30/08/2024,14:28:02,None,Piggy - Birthday,1,$37.41,-$12.00,$25.41,Bfueh4T2Ildy0WN9zUmgFcq2kQVZY,Physical Good
+30/08/2024,14:26:59,Sanrio,Kuro - Clown Hat,1,$42.09,-$13.50,$28.59,lFcwoIJEyX6Iz0MM0EGylU2FbsVZY,Physical Good
+30/08/2024,14:21:11,None,Dino - Baby,1,$38.48,-$23.53,$14.95,rUA5qIFGWjNAzWjRmy8inf6159dZY,Physical Good
+30/08/2024,14:21:11,None,Ducky Star,1,$43.29,-$26.47,$16.82,rUA5qIFGWjNAzWjRmy8inf6159dZY,Physical Good
+30/08/2024,14:19:52,None,Dino,1,$36.36,$0.00,$36.36,f4LoeruDQlkKn2qYY3GC9q0QHbaZY,Physical Good
+30/08/2024,14:19:52,None,Rabbit - Glasses,1,$36.37,$0.00,$36.37,f4LoeruDQlkKn2qYY3GC9q0QHbaZY,Physical Good
+30/08/2024,14:19:05,None,Rabbit - Beannie,1,$37.45,-$12.00,$25.45,JJVM3sYmilS3Xq3GwPKe9Y0EJTfZY,Physical Good
+30/08/2024,14:19:05,None,Custom Amount,1,$46.82,-$15.00,$31.82,JJVM3sYmilS3Xq3GwPKe9Y0EJTfZY,
+30/08/2024,11:12:35,None,Fox - Nine Tailed,1,$49.92,$0.00,$49.92,1pENOTvqWHXmlbjY4WIyZvE15MRZY,Physical Good
+30/08/2024,11:12:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1pENOTvqWHXmlbjY4WIyZvE15MRZY,Service
+30/08/2024,11:12:00,None,Ducky Star,1,$40.91,$0.00,$40.91,1TNNqH3KrhLlVVc5llGmSGrNFYNZY,Physical Good
+30/08/2024,11:12:00,None,Gloss Varnish,1,$4.55,$0.00,$4.55,1TNNqH3KrhLlVVc5llGmSGrNFYNZY,Service
+30/08/2024,11:12:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1TNNqH3KrhLlVVc5llGmSGrNFYNZY,Service
+30/08/2024,11:12:00,None,Luff - Pirate Boy,1,$40.91,$0.00,$40.91,1TNNqH3KrhLlVVc5llGmSGrNFYNZY,Physical Good
+30/08/2024,11:06:43,Sanrio,Kuro – Magician Hat,1,$40.84,$0.00,$40.84,rQsarwKMDAwlGFaZ2wpg2blLO1FZY,Physical Good
+30/08/2024,11:06:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rQsarwKMDAwlGFaZ2wpg2blLO1FZY,Service
+29/08/2024,21:56:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zoYB5oj7FFkiRJ4kHesyIRuVIFMZY,Service
+29/08/2024,21:56:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zoYB5oj7FFkiRJ4kHesyIRuVIFMZY,Service
+29/08/2024,20:25:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FjH4eRmsxDs3HlcVKNnhUtM3JpJZY,Service
+29/08/2024,20:25:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FjH4eRmsxDs3HlcVKNnhUtM3JpJZY,Service
+29/08/2024,19:50:58,None,Ducky Star,1,$42.73,-$20.45,$22.28,1FGR4vOYPUxl7BBV37wRh5SZDAZZY,Physical Good
+29/08/2024,19:50:58,None,Piggy – Bottle,1,$37.99,-$18.18,$19.81,1FGR4vOYPUxl7BBV37wRh5SZDAZZY,Physical Good
+29/08/2024,19:50:58,None,Bear Holder - C,1,$61.73,-$29.55,$32.18,1FGR4vOYPUxl7BBV37wRh5SZDAZZY,Physical Good
+29/08/2024,19:50:58,None,Gloss Varnish,1,$4.75,-$2.27,$2.48,1FGR4vOYPUxl7BBV37wRh5SZDAZZY,Service
+29/08/2024,19:50:58,None,Gloss Varnish,1,$4.75,-$2.28,$2.47,1FGR4vOYPUxl7BBV37wRh5SZDAZZY,Service
+29/08/2024,19:50:58,None,Gloss Varnish,1,$4.74,-$2.27,$2.47,1FGR4vOYPUxl7BBV37wRh5SZDAZZY,Service
+29/08/2024,18:48:25,Beverages,Drink - Yellow Red Bull,1,$4.77,-$2.50,$2.27,ZdbqKi0DvFNyzMnYOozVqfRdlsTZY,Physical Good
+29/08/2024,18:00:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ju5SCtKxDNWunQcBhh5QnHDW53dZY,Service
+29/08/2024,17:25:19,Beverages,Drink - 0 Degree Iced Tea,2,$8.17,$0.00,$8.17,7q7VvUcq1WqdJNYaI26YqSdRMWfZY,Physical Good
+29/08/2024,17:15:23,None,Custom Amount,1,$32.74,-$10.50,$22.24,zilnVwUAcHDvadGqVlpQ3DqTW6TZY,
+29/08/2024,17:15:23,None,Dino,1,$37.41,-$12.00,$25.41,zilnVwUAcHDvadGqVlpQ3DqTW6TZY,Physical Good
+29/08/2024,17:05:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tDzlCZkjOTlQLjMlYg3FWvpeV,Service
+29/08/2024,16:46:56,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,TQITIbo1r9VKaXaxV9Wya60fjOZZY,Physical Good
+29/08/2024,16:46:12,None,Strawberry Bear - Princess,1,$40.84,$0.00,$40.84,X4lmXLqloAdUptQ789KwMmDlS65YY,Physical Good
+29/08/2024,15:46:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,9JCzediZabwF3Ls8kcigQh6hY6QZY,Service
+29/08/2024,14:51:28,None,Repeat painting,1,$9.08,$0.00,$9.08,FHnlvIEujhXRYMMOSTkMEddG5vNZY,Service
+29/08/2024,14:50:58,None,Rabbit - Asian Costume,1,$37.41,-$12.00,$25.41,bivbGKneqQHsusHLiUPvyRdiBb7YY,Physical Good
+29/08/2024,14:21:23,None,Dino - Disco,1,$43.78,-$31.75,$12.03,PWUXsdMIorMXYUNXFgcWhK6eDlaZY,Physical Good
+29/08/2024,14:20:37,None,Holder - Lucky Cat 2,-1,-$48.59,$34.68,-$13.91,D6RJwqXJAbSiBeF0RqWCdRxeV,Physical Good
+29/08/2024,14:17:22,None,Strawberry Bear - Princess,1,$43.73,-$31.21,$12.52,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,Couple,Couple - Banana,1,$53.44,-$38.14,$15.30,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,Sanrio,Kuro – Magician Hat,1,$43.73,-$31.21,$12.52,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,Larva - Small B,1,$26.24,-$18.73,$7.51,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,SP - Gold Hat,1,$48.58,-$34.67,$13.91,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,Luff - Pirate Boy,1,$43.72,-$31.20,$12.52,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,Couple,Couple – Resting Bear,1,$53.44,-$38.14,$15.30,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$43.73,-$31.21,$12.52,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,SP - Gold Hat,1,$48.58,-$34.67,$13.91,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,Carrot,1,$34.01,-$24.27,$9.74,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,SP - Gold Hat,1,$48.58,-$34.67,$13.91,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,14:17:22,None,Holder - Lucky Cat 2,1,$48.59,-$34.68,$13.91,fQZvzGnGK8Yui2Put2i3LjkCszRZY,Physical Good
+29/08/2024,13:48:59,Couple,Couple – Resting Bear,1,$51.44,-$16.50,$34.94,Jzo1ldkm72g0QsC2YHEFeV2oQcSZY,Physical Good
+28/08/2024,22:06:25,Beverages,Drink - Banana Milk,1,$3.58,-$1.88,$1.70,Xeo6RVQp65HNWNGCLKOeWeJQ4nTZY,Physical Good
+28/08/2024,19:49:54,SP GIRL - SKULLPANDA,SP - Umbrella,1,$56.12,-$18.00,$38.12,htrTUC4M2DQxITMoD4zpifz5YE7YY,Physical Good
+28/08/2024,14:44:27,SP GIRL - SKULLPANDA,SP - Cat,1,$41.47,-$6.75,$34.72,TGhErQmS2NUw3gUDGjNhvoC4SnSZY,Physical Good
+28/08/2024,14:43:46,None,Custom Amount,-1,-$36.86,$6.00,-$30.86,JhHd35OYmiE7h9Gq25HYWJteV,
+28/08/2024,14:38:26,None,Custom Amount,1,$36.86,-$6.00,$30.86,rMeamK18jWePGUx2gVXF1sv0QPRZY,
+28/08/2024,14:38:26,SP GIRL - SKULLPANDA,SP - Rosy,1,$41.46,-$6.75,$34.71,rMeamK18jWePGUx2gVXF1sv0QPRZY,Physical Good
+28/08/2024,14:38:26,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,rMeamK18jWePGUx2gVXF1sv0QPRZY,Physical Good
+28/08/2024,14:20:56,None,Dor - Bat,1,$46.82,-$15.00,$31.82,veAXqINxeA3275IkSoqXFjoI1uSZY,Physical Good
+28/08/2024,14:20:56,None,Piggy - Queen,1,$37.45,-$12.00,$25.45,veAXqINxeA3275IkSoqXFjoI1uSZY,Physical Good
+28/08/2024,14:11:01,None,Carrot,1,$32.74,-$10.50,$22.24,XqyaqKq2d5qoEkmnNZjPRhxFuDIZY,Physical Good
+28/08/2024,14:10:28,None,Rabbit - Glasses,1,$37.41,-$12.00,$25.41,Xm8ejLY0iidPn3hd9K0gMfg6M0HZY,Physical Good
+28/08/2024,14:10:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Xm8ejLY0iidPn3hd9K0gMfg6M0HZY,Service
+28/08/2024,14:09:52,None,Larva - Small A,1,$25.25,-$8.10,$17.15,fwjkxJY8oYadFhdDkPP0bW5YbzdZY,Physical Good
+28/08/2024,13:52:37,None,Repeat painting,1,$9.08,$0.00,$9.08,P6oM464xsRDxmRw0onc2rYd6bzTZY,Service
+28/08/2024,13:05:34,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,r089uXVc8mSO5tGM5DsYurnlP8IZY,Physical Good
+28/08/2024,13:05:34,Beverages,Drink - FANTA,1,$2.72,$0.00,$2.72,r089uXVc8mSO5tGM5DsYurnlP8IZY,Physical Good
+28/08/2024,13:05:08,None,Fox - Nine Tailed,1,$50.68,-$8.25,$42.43,VDNjlz77z3ePp3O2kaGPK8jlH27YY,Physical Good
+28/08/2024,13:05:08,None,SP - Gold Hat,1,$46.08,-$7.50,$38.58,VDNjlz77z3ePp3O2kaGPK8jlH27YY,Physical Good
+27/08/2024,22:25:48,Beverages,Drink - Banana Milk,1,$3.58,-$1.88,$1.70,pdhtEa7S7GbiO4cpaggOi5rEan5YY,Physical Good
+27/08/2024,20:34:03,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,DAU17Oq6BGvbBKYjGvXl5VBVWnWZY,Physical Good
+27/08/2024,20:34:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DAU17Oq6BGvbBKYjGvXl5VBVWnWZY,Service
+27/08/2024,19:43:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,x13DbjsCPeb9J59sLZVdVui7ZsHZY,Service
+27/08/2024,19:36:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zM2H0XckGm3zGf4ha9CjTdP0hFUZY,Service
+27/08/2024,19:24:38,Couple,Couple – Resting Bear,1,$51.44,-$16.50,$34.94,dRy3DlxQ6RiUvy9hFsHhT0F47hEZY,Physical Good
+27/08/2024,19:24:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dRy3DlxQ6RiUvy9hFsHhT0F47hEZY,Service
+27/08/2024,18:17:30,Beverages,Drink - Yellow Red Bull,1,$4.77,-$2.50,$2.27,FHrpQ6RmoNOLdMbnHwT7fpok3x8YY,Physical Good
+27/08/2024,17:56:30,Beverages,Drink - 0 Degree Iced Tea,1,$4.50,-$4.50,$0.00,jEoUmbqteQwKXVFNFumriknatjIZY,Physical Good
+27/08/2024,17:34:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XgdOybQBqEjYZ3agX67tDt4BNzTZY,Service
+27/08/2024,17:33:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Lg0i3fE46lyzVEUCOqY4QC5UlL8YY,Service
+27/08/2024,17:06:03,None,Take-home kit,1,$2.72,$0.00,$2.72,zgC8W1DXkh18Dc5jDpyQWEwGKUdZY,Physical Good
+27/08/2024,16:42:23,None,Kuro - Princess,1,$42.09,-$13.50,$28.59,DIgbUwpkgQ11kdjyHtZ8ilLBjHDZY,Physical Good
+27/08/2024,16:41:32,None,Pat,1,$37.41,-$12.00,$25.41,jSlFPeoMmAhPZUmZk3w5fRqh8BfZY,Physical Good
+27/08/2024,16:40:34,None,Holder - Lucky Cat,1,$45.38,$0.00,$45.38,RjIywaxCEtGPq2Zrl4w0DHbIMmbZY,Physical Good
+27/08/2024,16:23:42,Beverages,Drink - 0 Degree Iced Tea,1,$4.29,-$2.25,$2.04,5BxQMvmY4LTe31807Ic9DlBJbeeZY,Physical Good
+27/08/2024,15:05:30,None,Fox - Nine Tailed,1,$49.92,$0.00,$49.92,fk9IjB0HcnOyyjBqENaE4OmNMoVZY,Physical Good
+27/08/2024,15:02:17,None,Larva - Small B,1,$24.51,$0.00,$24.51,NhEsKSa1FqUfsB8C6MZuHtzPopEZY,Physical Good
+27/08/2024,14:54:30,Couple,Couple – Resting Bear,1,$50.68,-$8.25,$42.43,hZH4XPaTezZcpsVE2MWrlAxe1CgZY,Physical Good
+27/08/2024,14:51:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Hiy0iEOb3X2ZZtAvdtsq8xga7jEZY,Service
+27/08/2024,14:50:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DgsLurqiqeDBDVxQ4PASq5ydNERZY,Service
+27/08/2024,14:17:56,None,Holder - Lucky Cat,1,$46.77,-$15.00,$31.77,H4NSCAhNOUfNDx0ktvVt9Q98cAVZY,Physical Good
+27/08/2024,14:15:56,None,Dor,1,$37.41,-$12.00,$25.41,NN6QMIhrUlXqUeZPWWDl6YE4scMZY,Physical Good
+27/08/2024,13:49:16,Couple,Couple - Loving Bear,1,$51.50,-$16.50,$35.00,t9eqCjfBLtdACp6O4hoF5RP9RDPZY,Physical Good
+27/08/2024,13:47:58,None,Dino - Baby,-1,-$37.45,$12.00,-$25.45,x3ENgjFiBH7R0ggiO70iLr3eV,Physical Good
+27/08/2024,13:47:58,None,Rabbit - Carrot,-1,-$32.30,$5.25,-$27.05,x3ENgjFiBH7R0ggiO70iLr3eV,Physical Good
+27/08/2024,13:44:57,None,Dino - Baby,1,$37.45,-$12.00,$25.45,DoySRD2gIpTq7rKXVct9rq2uPwLZY,Physical Good
+27/08/2024,13:44:57,None,Rabbit - Carrot,1,$32.30,-$5.25,$27.05,DoySRD2gIpTq7rKXVct9rq2uPwLZY,Physical Good
+27/08/2024,13:23:53,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,7sOs496YCVsvpFUYCZSuugCyHWVZY,Physical Good
+27/08/2024,13:17:36,Beverages,Drink - Yellow Red Bull,1,$5.00,-$5.00,$0.00,9b9MgMjvu6uaqpsursBCb6evx4XZY,Physical Good
+27/08/2024,12:45:18,None,Holder - Lucky Cat,1,$46.77,-$15.00,$31.77,PyYyo9V07e2TOnIXHOwcH9zT83GZY,Physical Good
+27/08/2024,12:45:18,None,Fox - Nine Tailed,1,$51.44,-$16.50,$34.94,PyYyo9V07e2TOnIXHOwcH9zT83GZY,Physical Good
+27/08/2024,12:45:18,None,SP - Gold Hat,1,$45.38,$0.00,$45.38,PyYyo9V07e2TOnIXHOwcH9zT83GZY,Physical Good
+27/08/2024,12:26:34,None,Rabbit - Happy Sleepy,1,$36.86,-$6.00,$30.86,pLgnGJDs90SOA22R5rNLE9ebWfFZY,Physical Good
+27/08/2024,12:26:34,None,Dino - Baby,1,$36.86,-$6.00,$30.86,pLgnGJDs90SOA22R5rNLE9ebWfFZY,Physical Good
+26/08/2024,20:33:28,None,Gloss Varnish,1,$4.55,$0.00,$4.55,30fy6yYePo9k7TA5dt5MppRjlqdZY,Service
+26/08/2024,19:04:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rWdrDwVe1sHPQZIGcrnyuMCpZ4QZY,Service
+26/08/2024,18:28:47,None,Gloss Varnish,1,$4.55,$0.00,$4.55,p3Mwn4ADidA58DBhBKToPaOrwSPZY,Service
+26/08/2024,17:37:42,None,Gloss Varnish,1,$4.55,$0.00,$4.55,fIlztk7qJm4AtqlMorXBfR6ZtXOZY,Service
+26/08/2024,17:29:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dxKnB76uKpQUJBwe3tn82FqswmBZY,Service
+26/08/2024,17:28:01,None,Holder - Lucky Cat,1,$46.82,-$15.00,$31.82,HE9Tuvx9MpfpyBnrDAOSMeysT3UZY,Physical Good
+26/08/2024,17:22:28,None,Dino - Baby,1,$37.41,-$12.00,$25.41,veykfYw044U669WQs3RqFh7hsDIZY,Physical Good
+26/08/2024,17:17:43,None,Gloss Varnish,1,$4.55,$0.00,$4.55,zkYSCWulnJwJUtDBtpLZlTPAjoZZY,Service
+26/08/2024,17:03:18,None,Rabbit – Fish,1,$36.31,$0.00,$36.31,ZzKsUtLptbOImbf8d3M03mCIEMHZY,Physical Good
+26/08/2024,15:47:03,None,Kuro - Princess,1,$42.09,-$13.50,$28.59,tzVYmN7PrqYuBoK0UZJYk45rfmdZY,Physical Good
+26/08/2024,15:46:03,None,Repeat painting,1,$9.09,$0.00,$9.09,tR0mrqP8l06vPHghhAr1xIzlVzLZY,Service
+26/08/2024,15:45:44,None,Fox - Nine Tailed,1,$50.00,$0.00,$50.00,5tpfrLC1C3zRwct1IKMXHE1yrr6YY,Physical Good
+26/08/2024,15:44:59,Couple,Couple - Banana,1,$51.50,-$16.50,$35.00,jWZceIhe0AX5lE1u48QCa3dher7YY,Physical Good
+26/08/2024,15:38:58,Bear Stick / Bear Brick,Bear Stick - Heart,1,$42.09,-$13.50,$28.59,nsLCHGQD8XHEJrnir8m3D6KkfKJZY,Physical Good
+26/08/2024,15:08:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NxiVPf523ZufgswJvFdM7OcodkIZY,Service
+26/08/2024,15:07:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lJslF1CwVjQ6K4qh5gOlPSjaU1DZY,Service
+26/08/2024,14:47:22,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,vcXPWPNXA9p96hPI33IRTnMrQKAZY,Physical Good
+26/08/2024,14:30:27,None,Astronaut - Waving,1,$32.74,-$10.50,$22.24,7Qa9I2dp2IM9fV3FG2jI5vaEMI8YY,Physical Good
+26/08/2024,14:30:27,None,Fox - Nine Tailed,1,$51.44,-$16.50,$34.94,7Qa9I2dp2IM9fV3FG2jI5vaEMI8YY,Physical Good
+26/08/2024,13:50:06,Couple,Couple - Banana,1,$51.44,-$16.50,$34.94,3cNP8Nt8YUWsSIucTTAKSypVmCPZY,Physical Good
+26/08/2024,13:48:48,None,Astronaut,1,$31.77,$0.00,$31.77,htfPmfohkAq7kqgCGEUS7c1eV,Physical Good
+26/08/2024,13:46:19,None,Bear - Honey,1,$36.86,-$6.00,$30.86,PqU0DcKW3NiQ4ktrfzbg0jEoNgVZY,Physical Good
+26/08/2024,13:45:21,None,Rabbit – Fish,1,$36.91,-$6.00,$30.91,LgWpCDMJWF6hRacjLbXzteysReOZY,Physical Good
+26/08/2024,13:36:32,None,Bear - Honey,1,$36.86,-$6.00,$30.86,lzNv0NnTrtcqZDj18rgBoPovHKRZY,Physical Good
+26/08/2024,13:36:32,None,Puppy,1,$36.86,-$6.00,$30.86,lzNv0NnTrtcqZDj18rgBoPovHKRZY,Physical Good
+26/08/2024,12:47:48,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$46.82,-$15.00,$31.82,7elLOkgos573H7CMHYIowKqiJfUZY,Physical Good
+26/08/2024,12:47:24,None,Piggy – Happy,1,$37.41,-$12.00,$25.41,lD5tAqyHUsrse3PgJIcDnnqmPkaZY,Physical Good
+26/08/2024,12:46:52,None,Piggy - Birthday,1,$37.45,-$12.00,$25.45,36gbtBik6iYnuJVjKtavEC1VhacZY,Physical Good
+26/08/2024,11:55:42,Beverages,Drink - 0 Degree Iced Tea,1,$4.29,-$2.25,$2.04,phTnL7WiR1Srybh3FjKO8qxHggaZY,Physical Good
+25/08/2024,22:42:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JjWcuczEsb1PNCQaimYVOJNM7QGZY,Service
+25/08/2024,22:42:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JjWcuczEsb1PNCQaimYVOJNM7QGZY,Service
+25/08/2024,22:42:29,None,Gloss Varnish,1,$4.53,$0.00,$4.53,JjWcuczEsb1PNCQaimYVOJNM7QGZY,Service
+25/08/2024,20:30:00,Beverages,Drink - Red Bull,1,$5.00,-$5.00,$0.00,x1PpsZ60GKguvHBb128GryYtaFEZY,Physical Good
+25/08/2024,20:20:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tT7LufTy0COXYfH3m7QDChQjkCKZY,Service
+25/08/2024,19:22:55,Couple,Couple - Lucky Cat,1,$49.92,$0.00,$49.92,N5gmJ1KRnSaZaguvzcJ3KMwC6g7YY,Physical Good
+25/08/2024,18:01:17,None,Holder - Lucky Cat,1,$45.38,$0.00,$45.38,dJOb1F3GckkC923Q3RNkwut3M2LZY,Physical Good
+25/08/2024,18:00:44,None,Dino - Baby,1,$36.31,$0.00,$36.31,H0R1hKGzmzCFS5JCWokygY2YpAMZY,Physical Good
+25/08/2024,17:51:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,p1l7myD3Fae5Gw6uZKouJcU9RgcZY,Service
+25/08/2024,17:42:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Bhraxvgs4knrQ1zHog3urGsPTfZZY,Service
+25/08/2024,17:34:20,Beverages,Drink - COKE,2,$5.44,$0.00,$5.44,P8DDrPzGDozSIQFRZEMw7KbGGeKZY,Physical Good
+25/08/2024,17:34:20,Beverages,Drink - FANTA,1,$2.73,$0.00,$2.73,P8DDrPzGDozSIQFRZEMw7KbGGeKZY,Physical Good
+25/08/2024,17:34:20,Beverages,Drink - VANILLA COKE,1,$2.72,$0.00,$2.72,P8DDrPzGDozSIQFRZEMw7KbGGeKZY,Physical Good
+25/08/2024,17:27:20,None,Gloss Varnish,1,$4.55,$0.00,$4.55,nYDLfsWZJW50pFLv7je4Al3JeZ7YY,Service
+25/08/2024,17:25:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NDRSoTGKmTnhmjklVjtFSDqhmUBZY,Service
+25/08/2024,17:21:49,None,Gloss Varnish,1,$4.55,$0.00,$4.55,riPXhBzxAvsGBzv3edI80WmbOJBZY,Service
+25/08/2024,17:13:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,djte3681YWulhiAUasGFgbBJAdGZY,Service
+25/08/2024,17:13:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,djte3681YWulhiAUasGFgbBJAdGZY,Service
+25/08/2024,17:08:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,z0ouGuKu6ULTiiGNdfGwSguSvxWZY,Service
+25/08/2024,16:57:55,None,Bear - Honey,1,$36.30,$0.00,$36.30,zidPhnAjMBQY3ASqawDNFAmivkfZY,Physical Good
+25/08/2024,16:57:55,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,zidPhnAjMBQY3ASqawDNFAmivkfZY,Physical Good
+25/08/2024,16:26:11,Couple,Couple – Resting Bear,1,$52.23,-$25.00,$27.23,BFnpHPEAqkWC6hqZpkhBN92ADjcZY,Physical Good
+25/08/2024,16:25:49,None,Superhero - Purple Dude,1,$45.38,$0.00,$45.38,j06tvvvoqdWlRfBvP9fJgwVNVlTZY,Physical Good
+25/08/2024,16:25:22,Sanrio,Kuro – Magician Hat,1,$40.84,$0.00,$40.84,jCzwtrXqfmC7sEaBURE4vLWEx67YY,Physical Good
+25/08/2024,16:24:29,None,SP - Gold Hat,1,$45.38,$0.00,$45.38,juFkjPEB8AE6Qq4wap5I59KNqGMZY,Physical Good
+25/08/2024,16:19:47,None,Rabbit - Ice Cream,1,$38.44,-$23.08,$15.36,NBq9ercNiN1KDB0xqDuu5zveV,Physical Good
+25/08/2024,16:19:47,None,Dor - Fal,1,$48.04,-$28.84,$19.20,NBq9ercNiN1KDB0xqDuu5zveV,Physical Good
+25/08/2024,16:19:47,None,Bear - Honey,1,$38.44,-$23.08,$15.36,NBq9ercNiN1KDB0xqDuu5zveV,Physical Good
+25/08/2024,15:51:23,Bear Stick / Bear Brick,Bear Stick - Heart,1,$40.84,$0.00,$40.84,PuIHY8Qc2oL7hZim1Y84UGsKg1YZY,Physical Good
+25/08/2024,14:58:24,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,t9WcRFD9xHD38AXbjZtpDnZPmKMZY,Physical Good
+25/08/2024,14:58:07,None,Dino - Baby,1,$36.31,$0.00,$36.31,z46mzXZIs1Vww4N7jPdbfVW2b4BZY,Physical Good
+25/08/2024,14:51:14,None,Puppy,1,$36.31,$0.00,$36.31,dt22QlWarOhWNLlzc5L84EP7aPYZY,Physical Good
+25/08/2024,14:49:47,None,Dino - Baby,1,$36.36,$0.00,$36.36,3iE7tR57DfxVFGTX0z6qf5OqI0QZY,Physical Good
+25/08/2024,14:42:39,None,Rabbit - Happy Sleepy,2,$76.96,-$47.06,$29.90,5lJJZAqKCXFumH204lNLn08SF4ZZY,Physical Good
+25/08/2024,14:42:39,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$48.10,-$29.41,$18.69,5lJJZAqKCXFumH204lNLn08SF4ZZY,Physical Good
+25/08/2024,14:42:39,None,Rabbit – Fish,2,$76.95,-$47.06,$29.89,5lJJZAqKCXFumH204lNLn08SF4ZZY,Physical Good
+25/08/2024,14:42:39,None,Dino - Disco,1,$43.29,-$26.47,$16.82,5lJJZAqKCXFumH204lNLn08SF4ZZY,Physical Good
+25/08/2024,14:40:30,None,Rabbit - Carrot,1,$31.82,$0.00,$31.82,9j9Q1NjVe0DzX5Kd0Nji7E8qn55YY,Physical Good
+25/08/2024,14:38:08,Beverages,Drink - Milkis,2,$5.45,$0.00,$5.45,95IG6i55HjiFyh68Vy2uQA8ca7XZY,Physical Good
+25/08/2024,14:34:19,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,HeOrQ3DA0tiOsXbngZE0DlOYsMEZY,Physical Good
+25/08/2024,14:03:52,None,Dino - Baby,1,$36.31,$0.00,$36.31,xHUJkH3KD2V5DSxfSFbekf9NV6OZY,Physical Good
+25/08/2024,14:03:31,None,Holder - Lucky Cat,1,$45.38,$0.00,$45.38,1DnITnCIBl7cTL0zkRji6IYmeZXZY,Physical Good
+25/08/2024,14:02:40,Beverages,Drink - FANTA,1,$2.72,$0.00,$2.72,d943z7fJgemxJqyVLKzLVQZW1uKZY,Physical Good
+25/08/2024,14:02:40,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,d943z7fJgemxJqyVLKzLVQZW1uKZY,Physical Good
+25/08/2024,13:53:37,None,Rabbit – Broccoli,1,$36.31,$0.00,$36.31,7aZkZcnR4Jj6nuIB4HyleSi4W3FZY,Physical Good
+25/08/2024,13:53:37,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,7aZkZcnR4Jj6nuIB4HyleSi4W3FZY,Physical Good
+25/08/2024,13:52:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Tqn2dhBGjoZypeuJS5GkrKBFwKLZY,Service
+25/08/2024,13:42:58,None,Bear Holder - C,2,$117.99,$0.00,$117.99,FPvrhGdt15Qfz0oJIZUKkuz9BjCZY,Physical Good
+25/08/2024,13:40:53,Sanrio,Kuro - Bowtied,1,$40.84,$0.00,$40.84,z6rueiEeM9Nv1oG5fAzYqqyUGPNZY,Physical Good
+25/08/2024,13:40:53,None,Rabbit - Glasses,1,$36.31,$0.00,$36.31,z6rueiEeM9Nv1oG5fAzYqqyUGPNZY,Physical Good
+25/08/2024,13:40:53,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,z6rueiEeM9Nv1oG5fAzYqqyUGPNZY,Physical Good
+25/08/2024,13:30:12,None,Fox - Nine Tailed,1,$52.59,-$28.95,$23.64,JrySdvmUI4zqILfTcCCZCNwDKcDZY,Physical Good
+25/08/2024,13:30:12,None,Rabbit - Beannie,1,$38.25,-$21.05,$17.20,JrySdvmUI4zqILfTcCCZCNwDKcDZY,Physical Good
+25/08/2024,12:04:41,Couple,Couple - Loving Bear,1,$49.92,$0.00,$49.92,dhqjNlJmoKGBCBIlrHH0JjJxGQcZY,Physical Good
+25/08/2024,11:45:13,None,Custom Amount,1,$9.08,$0.00,$9.08,lxQhsjC4j3gyoeh2iJTOM9Ali7HZY,
+25/08/2024,11:42:46,None,Strawberry Bear,1,$40.84,$0.00,$40.84,BZ5rKx2xn5bkQmJ1ZTN39JdJtkIZY,Physical Good
+25/08/2024,11:42:46,Bear Stick / Bear Brick,Bear Stick - Rainbow Heart,1,$40.84,$0.00,$40.84,BZ5rKx2xn5bkQmJ1ZTN39JdJtkIZY,Physical Good
+25/08/2024,11:42:46,None,Cat - Lady,1,$36.31,$0.00,$36.31,BZ5rKx2xn5bkQmJ1ZTN39JdJtkIZY,Physical Good
+24/08/2024,23:01:04,None,Take-home kit,1,$2.73,$0.00,$2.73,DQUX0lsQybrcY54qI0pAKzju9GUZY,Physical Good
+24/08/2024,22:35:59,None,Astro Boy,1,$45.00,-$45.00,$0.00,FZCQWhh8jIoM4WIjZKnzok8uh3fZY,Physical Good
+24/08/2024,22:23:52,None,Astronaut - Waving,1,$35.00,-$35.00,$0.00,hreBkPpTV6VWeGXmTrGSmXbPWHLZY,Physical Good
+24/08/2024,22:22:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3GeFfJ9O1c3YShmeZP7KPg0eV,Service
+24/08/2024,22:22:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3GeFfJ9O1c3YShmeZP7KPg0eV,Service
+24/08/2024,20:58:30,None,Holder - Lucky Cat,1,$50.00,-$50.00,$0.00,70i6JMwDH5T3sL4bc2xTFPDNAhAZY,Physical Good
+24/08/2024,20:56:30,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,zQWWkF9NmXrUSOBZiYKOsmqSQ0QZY,Physical Good
+24/08/2024,20:56:30,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,zQWWkF9NmXrUSOBZiYKOsmqSQ0QZY,Physical Good
+24/08/2024,20:54:28,None,Lion King,1,$36.31,$0.00,$36.31,rOfwME7JShjDGlFQ9XR5uIJKs9OZY,Physical Good
+24/08/2024,20:53:56,Couple,Couple – Resting Bear,1,$49.92,$0.00,$49.92,zs8Ygko3ncYeiDAn8xm4lrp7IOfZY,Physical Good
+24/08/2024,20:53:56,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,zs8Ygko3ncYeiDAn8xm4lrp7IOfZY,Physical Good
+24/08/2024,20:51:52,None,Larva - Small B,1,$27.00,-$27.00,$0.00,xRvwhWx0scGk9ShsVzBwoizTT9UZY,Physical Good
+24/08/2024,20:28:50,None,Rabbit – Fish,1,$36.31,$0.00,$36.31,rIiFOWGSYyw2XtmigFGk41SBsV7YY,Physical Good
+24/08/2024,20:28:11,Couple,Couple - Rabbit,1,$49.92,$0.00,$49.92,Fha6eRBBgegQQqURJprXI8if1teZY,Physical Good
+24/08/2024,19:40:58,None,Larva - Small B,1,$27.00,-$27.00,$0.00,RZpbroUfVYFsObGnUeMFxKGYAtRZY,Physical Good
+24/08/2024,19:39:49,Beverages,Drink - WATER,1,$2.73,$0.00,$2.73,zY6ovw8VzlfqfZY2xTk4iEChY8PZY,Physical Good
+24/08/2024,19:39:35,None,Holder - Lucky Cat,1,$50.00,-$50.00,$0.00,1l25R8R8NKDLI2Rzba8tw4ReQwLZY,Physical Good
+24/08/2024,19:27:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FrNVGmSkwSp26zt9bJUFOOXZKrWZY,Service
+24/08/2024,19:27:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FrNVGmSkwSp26zt9bJUFOOXZKrWZY,Service
+24/08/2024,19:07:41,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hNhusOlR5yMZBubPb2TZNv0HU2GZY,Service
+24/08/2024,18:43:34,None,Lion King,1,$40.00,-$40.00,$0.00,tf5BF6gJTk2YHFPlDsvMFxM3G28YY,Physical Good
+24/08/2024,18:33:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dv7gqSxUn6xCJ6SXIt0441qait8YY,Service
+24/08/2024,17:28:16,None,Rabbit - Glasses,2,$74.82,-$24.00,$50.82,Jd9TrcKMZBBSLBafaXsxJi8JaeBZY,Physical Good
+24/08/2024,17:28:16,None,Apple Baby,1,$32.74,-$10.50,$22.24,Jd9TrcKMZBBSLBafaXsxJi8JaeBZY,Physical Good
+24/08/2024,17:25:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7UEnHGER5qssRs4imdrBJGb64m7YY,Service
+24/08/2024,17:22:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jqzEgXCniyKQGafIKvQ7iTTnpBWZY,Service
+24/08/2024,16:57:16,None,Astro Bear,1,$45.38,$0.00,$45.38,3Y1wgI5TcImpDoBywo9VOfuC6KSZY,Physical Good
+24/08/2024,16:57:16,None,Puppy,1,$36.31,$0.00,$36.31,3Y1wgI5TcImpDoBywo9VOfuC6KSZY,Physical Good
+24/08/2024,16:56:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,536twQKDkHMCib5pIqTqtn1peScZY,Service
+24/08/2024,16:44:00,None,Astronaut,1,$31.77,$0.00,$31.77,VhsrDsSVZ4a5CMRaSyLKOfdQv6KZY,Physical Good
+24/08/2024,16:36:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TYYjthdg8NgTl4v1ohAZmJomNKEZY,Service
+24/08/2024,16:19:39,None,Astronaut - Waving,1,$31.77,$0.00,$31.77,ZLILtKsAWYD5hZecz1N121laI8FZY,Physical Good
+24/08/2024,15:29:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dD7h7727X59yg9vuTBTNts5ZMESZY,Service
+24/08/2024,15:27:10,None,Rabbit - Asian Costume,1,$38.61,-$25.00,$13.61,zAg5MvPReEYuPYjgj2obYFZmQKCZY,Physical Good
+24/08/2024,15:26:41,None,Dor - Captain US,1,$47.69,-$25.00,$22.69,t540iU9cKv5k7bczzTK68AqnCyBZY,Physical Good
+24/08/2024,15:25:46,None,Fox - Nine Tailed,1,$52.23,-$25.00,$27.23,RHm6VquqB33dKJUe6DkMirc9biNZY,Physical Good
+24/08/2024,15:16:08,None,Gloss Varnish,1,$4.55,$0.00,$4.55,xzEQTegZHJxD4wLQLrHIIM1ElDDZY,Service
+24/08/2024,15:14:16,None,Gloss Varnish,4,$18.15,$0.00,$18.15,xjyV94yIT2I5PHzUHTVZP0JW89bZY,Service
+24/08/2024,15:04:57,None,Rabbit - Happy Sleepy,1,$36.36,$0.00,$36.36,55jRnJLWtB7ZgyEoLJw35p1WPNSZY,Physical Good
+24/08/2024,15:04:57,None,Dino - Baby,1,$36.37,$0.00,$36.37,55jRnJLWtB7ZgyEoLJw35p1WPNSZY,Physical Good
+24/08/2024,15:04:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,55jRnJLWtB7ZgyEoLJw35p1WPNSZY,Service
+24/08/2024,15:04:57,None,Gloss Varnish,1,$4.55,$0.00,$4.55,55jRnJLWtB7ZgyEoLJw35p1WPNSZY,Service
+24/08/2024,15:02:20,None,Lion King,1,$38.61,-$25.00,$13.61,fu4ZWlk8UANY8DKzuqxB58fZFTEZY,Physical Good
+24/08/2024,15:01:51,None,Fox - Nine Tailed,1,$52.23,-$25.00,$27.23,DKLKrtXyb050SMIKrUJ5tBIXbDYZY,Physical Good
+24/08/2024,14:45:39,Couple,Couple - Rabbit,1,$49.92,$0.00,$49.92,ny6y4CPXjQdEAe3PoBQwaqOwyHWZY,Physical Good
+24/08/2024,14:35:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JdvYZmlIAUiw50OKWpF7k5WeUnPZY,Service
+24/08/2024,14:34:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pR37D9z92E7LIMijXkm6OBKp37OZY,Service
+24/08/2024,14:08:46,None,Rabbit - Happy Sleepy,1,$38.62,-$25.00,$13.62,HSq6gXVPKMWPOOmbnWUmfz8zcpZZY,Physical Good
+24/08/2024,14:08:46,None,Rabbit - Glasses,1,$38.61,-$25.00,$13.61,HSq6gXVPKMWPOOmbnWUmfz8zcpZZY,Physical Good
+24/08/2024,14:07:37,None,Gloss Varnish,1,$4.55,$0.00,$4.55,1P5coUvXph5h028pbHYpnwuIeFGZY,Service
+24/08/2024,13:58:43,Couple,Couple - Loving Bear,1,$49.92,$0.00,$49.92,Xi6kuV5D3mBjpXMhN5pq3Kkv4QPZY,Physical Good
+24/08/2024,13:56:57,None,Piggy - Birthday,1,$38.64,-$25.00,$13.64,B9XNcL80w7mgtKUIvdcBhmFmsVfZY,Physical Good
+24/08/2024,13:56:01,None,Chicken Mama,1,$38.64,-$25.00,$13.64,bMCQnHmjoUtsGQBh0V3sD0ChO8DZY,Physical Good
+24/08/2024,13:51:03,Couple,Couple - Lucky Cat,1,$55.00,-$55.00,$0.00,PCydzWp6jm6kAGllVhXnrQnhaqMZY,Physical Good
+24/08/2024,13:15:24,None,Lion King,1,$36.36,$0.00,$36.36,N5gcBWl6b2oXmWzO0v5WGuPwMp9YY,Physical Good
+24/08/2024,13:15:24,None,Fox - Nine Tailed,1,$50.00,$0.00,$50.00,N5gcBWl6b2oXmWzO0v5WGuPwMp9YY,Physical Good
+24/08/2024,13:09:34,None,Dino - Baby,1,$36.31,$0.00,$36.31,jcmbuYyMod3gzyoEQZ1S8p1hzjAZY,Physical Good
+24/08/2024,12:21:54,None,Piggy - Queen,1,$38.44,-$23.15,$15.29,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,None,Rabbit - Ice Cream,1,$38.44,-$23.15,$15.29,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,None,Rabbit - Beannie,1,$38.44,-$23.15,$15.29,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,None,Dino - Baby,1,$38.45,-$23.15,$15.30,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,None,Chicken Mama,1,$38.44,-$23.14,$15.30,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,Beverages,Drink - Red Bull,1,$4.81,-$2.89,$1.92,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,Beverages,Drink - SPRITE,1,$2.88,-$1.74,$1.14,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,Beverages,Drink - Lipton PEACH,1,$4.81,-$2.89,$1.92,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,12:21:54,Beverages,Drink - WATER,1,$2.88,-$1.74,$1.14,jmvBRitKdWyZvR41AuLKqYEdyXMZY,Physical Good
+24/08/2024,11:44:49,None,Rabbit - Asian Costume,1,$36.31,$0.00,$36.31,lnrLl9o3Z2UwQp1hUxwOMFeypwbZY,Physical Good
+24/08/2024,11:42:19,None,Puppy,1,$36.31,$0.00,$36.31,VDZNzxN2wPavbSwa4sQ5HHoA3VRZY,Physical Good
+24/08/2024,11:42:19,None,Astro Boy,1,$40.84,$0.00,$40.84,VDZNzxN2wPavbSwa4sQ5HHoA3VRZY,Physical Good
+24/08/2024,11:21:45,Beverages,Drink - 0 Degree Iced Tea,1,$4.29,-$2.25,$2.04,nKqyVLo57kiNVqLHcXDwEiEWFmWZY,Physical Good
+24/08/2024,11:13:30,None,Fox - Nine Tailed,1,$49.92,$0.00,$49.92,VZKuqhDapNKgCYZw31GnijhhUBZZY,Physical Good
+24/08/2024,11:12:52,None,Astronaut - Waving,1,$31.77,$0.00,$31.77,3onvgKH17Uo2XSt3JluxGr7HVNAZY,Physical Good
+24/08/2024,11:12:09,None,Rabbit - Beannie,1,$38.48,-$23.53,$14.95,B7ggXJmjw8mCxcwAY79rwloyJpDZY,Physical Good
+24/08/2024,11:12:09,None,Kuro - Princess,1,$43.29,-$26.47,$16.82,B7ggXJmjw8mCxcwAY79rwloyJpDZY,Physical Good
+23/08/2024,23:04:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lFUiGtLMcYuIpwMHY6DNCCYBguJZY,Service
+23/08/2024,23:02:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,df55Mxz61NsSdj6HIfZbV4F178eZY,Service
+23/08/2024,23:02:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,df55Mxz61NsSdj6HIfZbV4F178eZY,Service
+23/08/2024,23:01:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NtmML87oxYdpPAMD2a7mmCvBq2EZY,Service
+23/08/2024,22:10:39,None,Larva - Small B,1,$24.51,$0.00,$24.51,DK3qX3yg0hn0t3e9Sv5GLqOBvoWZY,Physical Good
+23/08/2024,22:10:39,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,DK3qX3yg0hn0t3e9Sv5GLqOBvoWZY,Physical Good
+23/08/2024,22:10:39,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,DK3qX3yg0hn0t3e9Sv5GLqOBvoWZY,Physical Good
+23/08/2024,22:10:39,None,Larva - Small A,1,$24.51,$0.00,$24.51,DK3qX3yg0hn0t3e9Sv5GLqOBvoWZY,Physical Good
+23/08/2024,22:09:57,None,Larva - Small B,1,$24.51,$0.00,$24.51,DUGrXmTS3Q7hqDRD4t8iBIp1XVEZY,Physical Good
+23/08/2024,22:09:57,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,DUGrXmTS3Q7hqDRD4t8iBIp1XVEZY,Physical Good
+23/08/2024,20:35:24,Couple,Couple – Resting Bear,1,$51.44,-$16.50,$34.94,LISZKCdCVs9POjRTefsovW7bFnGZY,Physical Good
+23/08/2024,19:26:29,None,Dino - Disco,1,$40.91,$0.00,$40.91,PKilm5gezo4rlXq130RCNzzweVFZY,Physical Good
+23/08/2024,19:25:57,None,Rabbit - Ice Cream,1,$36.31,$0.00,$36.31,3mmRO4DgrjroZCwa9ItUzAm81yOZY,Physical Good
+23/08/2024,18:21:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,h1pKX1wCCMv39t0kmkTKlEtCaXPZY,Service
+23/08/2024,17:14:17,Bear Stick / Bear Brick,Bear Stick - OG,1,$42.09,-$13.50,$28.59,faeJaJcgp3Apvu12cWX928Mxr4BZY,Physical Good
+23/08/2024,17:14:17,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$42.09,-$13.50,$28.59,faeJaJcgp3Apvu12cWX928Mxr4BZY,Physical Good
+23/08/2024,17:07:53,Beverages,Drink - COKE ZERO,1,$2.86,-$1.50,$1.36,zcyxwFWm8VIaeE9GF4OmAkDJu2DZY,Physical Good
+23/08/2024,16:56:50,None,Ninja Pizza - A,1,$42.09,-$13.50,$28.59,bM2Uj7UY1ukP7iRq7mCTtwI6erfZY,Physical Good
+23/08/2024,16:56:50,None,Ninja Pizza - B,1,$42.09,-$13.50,$28.59,bM2Uj7UY1ukP7iRq7mCTtwI6erfZY,Physical Good
+23/08/2024,16:44:32,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$42.09,-$13.50,$28.59,fAhzyPrQ1jZbh0eNgwwDTZPxk2OZY,Physical Good
+23/08/2024,16:44:32,None,Astronaut,1,$32.74,-$10.50,$22.24,fAhzyPrQ1jZbh0eNgwwDTZPxk2OZY,Physical Good
+23/08/2024,16:44:32,None,Rabbit - Glasses,1,$37.41,-$12.00,$25.41,fAhzyPrQ1jZbh0eNgwwDTZPxk2OZY,Physical Good
+23/08/2024,15:48:02,Couple,Couple - Lucky Cat,1,$49.92,$0.00,$49.92,RXMnkuyXTWSQs9DgjexPW7G0jCFZY,Physical Good
+23/08/2024,15:46:50,None,Rabbit - Happy Sleepy,1,$36.31,$0.00,$36.31,PWo5EfQ7wsJcuTI7bY7X83PCgmEZY,Physical Good
+23/08/2024,15:18:08,None,Dor - Bat,1,$46.76,-$15.00,$31.76,zYqCMKyHbSQ1rFJPB67cp9Bvx5EZY,Physical Good
+23/08/2024,15:18:08,None,Apple Baby,1,$32.74,-$10.50,$22.24,zYqCMKyHbSQ1rFJPB67cp9Bvx5EZY,Physical Good
+23/08/2024,15:09:06,None,Larva - Small A,1,$25.26,-$8.10,$17.16,N5uhL1mun4gUvgTP9gxZXrvxK5WZY,Physical Good
+23/08/2024,15:09:06,None,Larva - Small B,1,$25.25,-$8.10,$17.15,N5uhL1mun4gUvgTP9gxZXrvxK5WZY,Physical Good
+23/08/2024,15:04:27,Bear Stick / Bear Brick,Super Power Rabbit,2,$84.18,-$27.00,$57.18,JdPoF268FcPGLcGoU6oukZTwwnIZY,Physical Good
+23/08/2024,15:04:27,None,Piggy - Birthday,1,$37.41,-$12.00,$25.41,JdPoF268FcPGLcGoU6oukZTwwnIZY,Physical Good
+23/08/2024,15:02:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BdxkkzamLnwDIQhXoNpQhxAFIZaZY,Service
+23/08/2024,14:57:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bmjoU2wc2JYcIokkyU4PEce0MbJZY,Service
+23/08/2024,14:33:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,v0vHmFSRtYouJQgHWBn1HIvjamGZY,Service
+23/08/2024,14:32:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rGtpIGtSNygO0bhiYS6AO823zGRZY,Service
+23/08/2024,14:31:00,Bear Stick / Bear Brick,Bear Stick - Rainbow,2,$81.69,$0.00,$81.69,z2Hl56mGJriih8kTZuWKP6U9PbAZY,Physical Good
+23/08/2024,14:25:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pNdFOBZZCuY54mK2Dxrq6Kxg4kJZY,Service
+23/08/2024,14:11:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1vxUe2ZYW0sSOzLYswxqFNPaUEHZY,Service
+23/08/2024,14:04:22,Disney Characters,Terry - Cheesy Mouse,1,$40.00,-$40.00,$0.00,lFaZ24tz05uFkef29kO7TXLYIHNZY,Physical Good
+23/08/2024,14:04:22,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$50.00,-$50.00,$0.00,lFaZ24tz05uFkef29kO7TXLYIHNZY,Physical Good
+23/08/2024,14:04:22,Stitch,Mitch – Baseball Hat,1,$45.00,-$45.00,$0.00,lFaZ24tz05uFkef29kO7TXLYIHNZY,Physical Good
+23/08/2024,14:04:22,None,Fox - Nine Tailed,2,$110.00,-$110.00,$0.00,lFaZ24tz05uFkef29kO7TXLYIHNZY,Physical Good
+23/08/2024,14:04:22,Sanrio,Kuro – Magician Hat,1,$45.00,-$45.00,$0.00,lFaZ24tz05uFkef29kO7TXLYIHNZY,Physical Good
+23/08/2024,13:58:55,Bear Stick / Bear Brick,Bear Stick - Heart,1,$42.09,-$13.50,$28.59,nm2VCvVQwU7hArEGGYXWfi84uWdZY,Physical Good
+23/08/2024,13:44:28,Bear Stick / Bear Brick,Bear Stick - OG,1,$42.09,-$13.50,$28.59,lZmeppfIBrowg0ZaTdVTEx3Kvy6YY,Physical Good
+23/08/2024,13:43:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JlpTRA6VkYyEVkegZAF2Msr8WBLZY,Service
+23/08/2024,13:36:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dTXhW7KBqkCIibaGap9yRAOcPfLZY,Service
+23/08/2024,13:36:54,Beverages,Drink - FANTA,1,$2.72,$0.00,$2.72,dTXhW7KBqkCIibaGap9yRAOcPfLZY,Physical Good
+23/08/2024,13:34:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Xa2qPEbiaYrM8WaCGpPUZv3wthPZY,Service
+23/08/2024,13:34:05,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Xa2qPEbiaYrM8WaCGpPUZv3wthPZY,Physical Good
+23/08/2024,12:51:45,None,Larva - Small B,1,$25.25,-$8.10,$17.15,L8URKJZS8SxpX9f3lMSn5SGmMeMZY,Physical Good
+23/08/2024,12:51:45,None,Carrot,1,$31.77,$0.00,$31.77,L8URKJZS8SxpX9f3lMSn5SGmMeMZY,Physical Good
+23/08/2024,12:51:45,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,L8URKJZS8SxpX9f3lMSn5SGmMeMZY,Physical Good
+23/08/2024,12:51:45,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,L8URKJZS8SxpX9f3lMSn5SGmMeMZY,Physical Good
+23/08/2024,12:41:46,Beverages,Drink - SPRITE,2,$5.45,$0.00,$5.45,xbKD5GKw7kzuhDE4VvvPaA2ZusQZY,Physical Good
+23/08/2024,11:31:12,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,riv5FNkEUQCuiFSHt5KX2iAfV,Physical Good
+23/08/2024,11:31:12,None,Piggy - Queen,1,$36.31,$0.00,$36.31,riv5FNkEUQCuiFSHt5KX2iAfV,Physical Good
+23/08/2024,11:20:58,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$46.77,-$15.00,$31.77,vqmL59u4Ja8gfGXE5jcGh8cttrAZY,Physical Good
+23/08/2024,11:20:58,None,Holder - Lucky Cat,1,$46.77,-$15.00,$31.77,vqmL59u4Ja8gfGXE5jcGh8cttrAZY,Physical Good
+23/08/2024,11:20:58,None,Dino,1,$37.41,-$12.00,$25.41,vqmL59u4Ja8gfGXE5jcGh8cttrAZY,Physical Good
+23/08/2024,11:20:58,None,Bear - Honey,1,$37.42,-$12.00,$25.42,vqmL59u4Ja8gfGXE5jcGh8cttrAZY,Physical Good
+23/08/2024,11:20:58,None,Rabbit - Happy Sleepy,1,$37.41,-$12.00,$25.41,vqmL59u4Ja8gfGXE5jcGh8cttrAZY,Physical Good
+22/08/2024,20:29:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,H8F9kFba6dTVqIWWAwHv06QYo1RZY,Service
+22/08/2024,20:29:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,H8F9kFba6dTVqIWWAwHv06QYo1RZY,Service
+22/08/2024,20:27:47,Sanrio,Kuro - Clown Hat,1,$40.85,$0.00,$40.85,R5XYM98LlmP51qBWbf7ivqm53xHZY,Physical Good
+22/08/2024,20:27:47,Sanrio,Kuro – Magician Hat,1,$40.84,$0.00,$40.84,R5XYM98LlmP51qBWbf7ivqm53xHZY,Physical Good
+22/08/2024,20:27:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,R5XYM98LlmP51qBWbf7ivqm53xHZY,Service
+22/08/2024,20:27:26,Sanrio,Kuro – Magician Hat,-1,-$40.91,$0.00,-$40.91,joIPnVfeaGOpyFzlFD3pFzqeV,Physical Good
+22/08/2024,20:27:26,Sanrio,Kuro - Clown Hat,-1,-$40.91,$0.00,-$40.91,joIPnVfeaGOpyFzlFD3pFzqeV,Physical Good
+22/08/2024,20:23:11,None,Gloss Varnish,1,$4.55,$0.00,$4.55,LeBzkzELVaosLEekFUOF0aRU6l9YY,Service
+22/08/2024,20:22:24,Sanrio,Kuro - Clown Hat,1,$40.91,$0.00,$40.91,JHGbARP9R7586jgX2Qt4h8thQJDZY,Physical Good
+22/08/2024,20:22:24,Sanrio,Kuro – Magician Hat,1,$40.91,$0.00,$40.91,JHGbARP9R7586jgX2Qt4h8thQJDZY,Physical Good
+22/08/2024,19:57:22,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,lJOiWQJIHIF0IgIy4UsTkIpTbnEZY,Physical Good
+22/08/2024,19:51:30,Couple,Couple - Lucky Cat,1,$51.44,-$16.50,$34.94,jWJat2tIXrnFrPSEO8Iudi51BG7YY,Physical Good
+22/08/2024,19:51:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jWJat2tIXrnFrPSEO8Iudi51BG7YY,Service
+22/08/2024,17:36:50,Sanrio,Kuro - Eclipse,1,$42.09,-$13.50,$28.59,hDQo00iSUPSEBMCzrtyUB84Ht5HZY,Physical Good
+22/08/2024,17:36:12,Disney Characters,Terry - Cheesy Mouse,1,$37.41,-$12.00,$25.41,veWCUVTGaG2agG5CACrYSOo4NWLZY,Physical Good
+22/08/2024,17:31:24,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$45.38,$0.00,$45.38,xdjheU86ye1MZgQJHbn4roT3BtPZY,Physical Good
+22/08/2024,17:31:24,None,Astro Boy,1,$40.85,$0.00,$40.85,xdjheU86ye1MZgQJHbn4roT3BtPZY,Physical Good
+22/08/2024,17:24:49,None,Rabbit – Fish,1,$36.31,$0.00,$36.31,FhKk3xnwaaEHM0oDXI1iYEsPCtWZY,Physical Good
+22/08/2024,15:55:37,None,Rabbit - Ice Cream,1,$37.41,-$12.00,$25.41,JPYWOTTfzfip2keISeTdFWEyZwYZY,Physical Good
+22/08/2024,15:55:37,None,Holder - Lucky Cat,1,$46.77,-$15.00,$31.77,JPYWOTTfzfip2keISeTdFWEyZwYZY,Physical Good
+22/08/2024,14:31:48,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$42.09,-$13.50,$28.59,X20qENv2yx2KB5pzzf18YNc9TEcZY,Physical Good
+22/08/2024,14:31:00,None,Apple Baby,1,$32.74,-$10.50,$22.24,NfBLQjtchIhKisjEXjwmVLPYUnfZY,Physical Good
+21/08/2024,22:29:52,Beverages,Drink - Banana Milk,1,$3.58,-$1.88,$1.70,nyIdCMqtFI6HgujrZ31KVYUmT1CZY,Physical Good
+21/08/2024,19:23:46,None,Dino - Baby,1,$36.30,$0.00,$36.30,D2PVnwqbIqoKO3kmWARl6oldg2aZY,Physical Good
+21/08/2024,19:23:46,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$45.38,$0.00,$45.38,D2PVnwqbIqoKO3kmWARl6oldg2aZY,Physical Good
+21/08/2024,19:23:46,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,D2PVnwqbIqoKO3kmWARl6oldg2aZY,Physical Good
+21/08/2024,19:23:46,Beverages,Drink - VANILLA COKE,1,$2.73,$0.00,$2.73,D2PVnwqbIqoKO3kmWARl6oldg2aZY,Physical Good
+21/08/2024,19:16:08,None,Taylor - Booking for Friday 23 August at 2pm,1,$245.00,$0.00,$245.00,jK7qbQN2jvmesX2kS8hjKQqLy6eZY,
+21/08/2024,18:40:04,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,lVy93yHacb6J2dk2U1K10xneV,Physical Good
+21/08/2024,17:45:10,None,Rabbit - Happy Sleepy,1,$36.31,$0.00,$36.31,dzpcoD763yYTkRC5PiYf1sC6Fm8YY,Physical Good
+21/08/2024,17:45:10,None,Ninja Pizza - A,1,$40.84,$0.00,$40.84,dzpcoD763yYTkRC5PiYf1sC6Fm8YY,Physical Good
+21/08/2024,17:45:10,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$45.38,$0.00,$45.38,dzpcoD763yYTkRC5PiYf1sC6Fm8YY,Physical Good
+21/08/2024,16:55:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,B1B0VyvuVhO0EhwDiUh8te6eV,Service
+21/08/2024,16:55:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,B1B0VyvuVhO0EhwDiUh8te6eV,Service
+21/08/2024,15:32:22,None,Piggy – Bottle,1,$40.00,-$40.00,$0.00,dH1L9iNkDMOWfei0VtObd4gIkqBZY,Physical Good
+21/08/2024,15:31:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ptRHocavFgoYh6v3AYobN1N7t6eZY,Service
+21/08/2024,14:58:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zKh9pOYy3vhoIUG637hzWoY4uALZY,Service
+21/08/2024,14:55:37,Beverages,Drink - Yellow Red Bull,1,$5.00,-$5.00,$0.00,3s3S9Fpbc63x3qZSBUlFPEFjlnIZY,Physical Good
+21/08/2024,14:47:17,None,Lion King,1,$36.86,-$6.00,$30.86,3SCw843L0m9Kc6cDjl8tYnYn7WZZY,Physical Good
+21/08/2024,14:47:17,None,Dino - Disco,1,$41.46,-$6.75,$34.71,3SCw843L0m9Kc6cDjl8tYnYn7WZZY,Physical Good
+21/08/2024,14:47:17,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,3SCw843L0m9Kc6cDjl8tYnYn7WZZY,Physical Good
+21/08/2024,14:47:17,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,3SCw843L0m9Kc6cDjl8tYnYn7WZZY,Physical Good
+21/08/2024,14:29:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fGwpaRmaUHCdLs4QJPeaVnW5IFNZY,Service
+21/08/2024,14:29:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fGwpaRmaUHCdLs4QJPeaVnW5IFNZY,Service
+21/08/2024,14:29:30,None,Gloss Varnish,1,$4.53,$0.00,$4.53,fGwpaRmaUHCdLs4QJPeaVnW5IFNZY,Service
+21/08/2024,13:27:10,None,Rabbit - Beannie,1,$37.41,-$12.00,$25.41,LAmV6iNBZhyMvz581acKF7A9zMSZY,Physical Good
+21/08/2024,13:25:52,None,Rabbit - Glasses,-1,-$37.41,$12.00,-$25.41,BtPp95yinKT7TgR7WqzGHUweV,Physical Good
+21/08/2024,13:15:40,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$42.09,-$13.50,$28.59,pZX76EBwClWL2kb06TiWsw9LxjCZY,Physical Good
+21/08/2024,13:15:40,None,Dino - Baby Dummy,1,$37.42,-$12.00,$25.42,pZX76EBwClWL2kb06TiWsw9LxjCZY,Physical Good
+21/08/2024,13:15:40,None,Rabbit - Glasses,1,$37.41,-$12.00,$25.41,pZX76EBwClWL2kb06TiWsw9LxjCZY,Physical Good
+21/08/2024,12:51:37,None,Dragon - Cute,1,$36.86,-$6.00,$30.86,zsyJm5kNoyQ3D5qzzUwQ8k96LmdZY,Physical Good
+21/08/2024,12:51:37,None,Rabbit – Fish,1,$36.86,-$6.00,$30.86,zsyJm5kNoyQ3D5qzzUwQ8k96LmdZY,Physical Good
+21/08/2024,12:48:32,None,Astronaut,1,$32.25,-$5.25,$27.00,V5A3zU7nDZrIg4N3QttPVnQCqyAZY,Physical Good
+21/08/2024,12:48:32,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,V5A3zU7nDZrIg4N3QttPVnQCqyAZY,Physical Good
+21/08/2024,12:47:07,None,Dino,1,$37.41,-$12.00,$25.41,pZ7xBNIy3FxYiQFDUdC3tfZvIfOZY,Physical Good
+20/08/2024,20:51:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,X4xc75u3zNQkrFw0HHyPzVpOgvYZY,Service
+20/08/2024,20:51:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,X4xc75u3zNQkrFw0HHyPzVpOgvYZY,Service
+20/08/2024,18:23:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vaO3ymh1Q53nFU7335vLZrAqo7YZY,Service
+20/08/2024,18:23:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vaO3ymh1Q53nFU7335vLZrAqo7YZY,Service
+20/08/2024,16:55:18,None,Rabbit – Broccoli,1,$37.41,-$12.00,$25.41,tnlzajRAE0dp1CMZKZzkmNriSRDZY,Physical Good
+20/08/2024,16:48:03,Sanrio,Kuro - Eclipse,1,$40.84,$0.00,$40.84,ZruEmzsIgRR78Q4kpYj9FEUcMVTZY,Physical Good
+20/08/2024,16:47:39,Bear Stick / Bear Brick,Bear Stick - Rainbow Heart,1,$40.84,$0.00,$40.84,TsQgHb2vhCDBkIxRlH1Fu4Rfi4GZY,Physical Good
+20/08/2024,16:30:39,None,Rabbit - Beannie,1,$37.41,-$12.00,$25.41,hv6yoeawWKrt9wNLH6JJfVyfPaeZY,Physical Good
+20/08/2024,16:30:39,None,Kuro - Princess,1,$42.09,-$13.50,$28.59,hv6yoeawWKrt9wNLH6JJfVyfPaeZY,Physical Good
+20/08/2024,15:26:33,Raws/Kaws,Raws - Furry,1,$50.00,-$50.00,$0.00,Jh9eUa025mWIv9aJFWNt9fMq4qfZY,Physical Good
+20/08/2024,15:26:33,Raws/Kaws,Raws - OG,1,$50.00,-$50.00,$0.00,Jh9eUa025mWIv9aJFWNt9fMq4qfZY,Physical Good
+20/08/2024,15:10:04,Couple,Couple – Resting Bear,1,$49.92,$0.00,$49.92,3qikLz8uOlbthCUonOxdEuSS1iSZY,Physical Good
+20/08/2024,15:10:04,None,Custom Amount,1,$31.77,$0.00,$31.77,3qikLz8uOlbthCUonOxdEuSS1iSZY,
+20/08/2024,15:10:04,None,Rabbit - Happy Sleepy,1,$36.30,$0.00,$36.30,3qikLz8uOlbthCUonOxdEuSS1iSZY,Physical Good
+20/08/2024,15:10:04,None,Carrot,1,$31.77,$0.00,$31.77,3qikLz8uOlbthCUonOxdEuSS1iSZY,Physical Good
+19/08/2024,19:37:28,Couple,Couple – Resting Bear,1,$49.92,$0.00,$49.92,fOm2DCnODJebfepTbPj7pSX68dQZY,Physical Good
+19/08/2024,18:27:30,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,7iVOCV3FaBqH7Rrqht9AC0JxurLZY,Physical Good
+19/08/2024,17:43:12,None,Gloss Varnish,1,$4.55,$0.00,$4.55,VDFzKtbKGIIF90d2B0CvloQovRKZY,Service
+19/08/2024,17:43:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PWoPzpU5jlFD7diSQSWfC0woYACZY,Service
+19/08/2024,17:03:25,None,Grandpa,1,$36.30,$0.00,$36.30,d96YlimHNI75ZPfj3xMNvd76IfJZY,Physical Good
+19/08/2024,17:03:25,None,Ducky With Little Bag,1,$36.31,$0.00,$36.31,d96YlimHNI75ZPfj3xMNvd76IfJZY,Physical Good
+19/08/2024,16:04:46,Beverages,Drink - Milkis,2,$5.45,$0.00,$5.45,XueJZnyJTjtEOdwruTnzSqlSf9WZY,Physical Good
+19/08/2024,15:52:19,None,SP - Rabbit Trainer,1,$46.77,-$15.00,$31.77,jkqj1zDYztZH635uby34Ro5wze6YY,Physical Good
+19/08/2024,15:52:19,None,Lion King,1,$37.41,-$12.00,$25.41,jkqj1zDYztZH635uby34Ro5wze6YY,Physical Good
+19/08/2024,15:50:12,None,Teen Ninja - Carmine,1,$40.84,$0.00,$40.84,ZHWDThkWy2qnECA1PVpiQZk4fXSZY,Physical Good
+19/08/2024,15:50:12,None,Holder - Lucky Cat,1,$46.77,-$15.00,$31.77,ZHWDThkWy2qnECA1PVpiQZk4fXSZY,Physical Good
+19/08/2024,14:22:07,SP GIRL - SKULLPANDA,SP - Emperor,1,$42.09,-$13.50,$28.59,d5449QlmThTZxj4Oc3VtgPXNTrQZY,Physical Good
+19/08/2024,14:21:19,Sanrio,Purin,1,$42.14,-$13.50,$28.64,bWj6QxSBerMBRBx18kYIt30GYwdZY,Physical Good
+19/08/2024,14:17:03,Sanrio,Kuro - Eclipse,1,$43.65,-$30.43,$13.22,LOT6hhHh8Novnhx5BLC5toNnHtLZY,Physical Good
+19/08/2024,14:17:03,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$48.51,-$33.82,$14.69,LOT6hhHh8Novnhx5BLC5toNnHtLZY,Physical Good
+19/08/2024,14:16:07,None,Dor - Bat,1,$48.38,-$32.50,$15.88,tvtv2nR74R8AW9VEwwqa7RDFKjOZY,Physical Good
+19/08/2024,13:47:07,None,Apple Baby,1,$32.25,-$5.25,$27.00,PiaRDod1lgpFDhTK4jW4aA52IleZY,Physical Good
+19/08/2024,13:46:28,None,Shin - Racer Boy,1,$41.47,-$6.75,$34.72,bm5RT6GC6HALBodlz7W6HIsTbM6YY,Physical Good
+19/08/2024,13:46:28,None,Rabbit - Asian Costume,1,$36.86,-$6.00,$30.86,bm5RT6GC6HALBodlz7W6HIsTbM6YY,Physical Good
+19/08/2024,13:25:14,Couple,Couple - Loving Bear,1,$50.68,-$8.25,$42.43,t1shFLMnQInK2utoQPrIPR28IoeZY,Physical Good
+19/08/2024,13:04:28,Couple,Couple - Loving Bear,1,$50.68,-$8.25,$42.43,VFA0vUOV7RTKlTXhLgzyIy4zXYLZY,Physical Good
+19/08/2024,13:04:28,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,VFA0vUOV7RTKlTXhLgzyIy4zXYLZY,Physical Good
+19/08/2024,13:04:28,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,VFA0vUOV7RTKlTXhLgzyIy4zXYLZY,Physical Good
+19/08/2024,13:03:10,None,Ninja Pizza - B,-1,-$41.47,$6.75,-$34.72,zSFJtR4OvgbNDsvQAPaqWUleV,Physical Good
+19/08/2024,13:03:10,None,Dino,-1,-$36.86,$6.00,-$30.86,zSFJtR4OvgbNDsvQAPaqWUleV,Physical Good
+19/08/2024,12:57:34,None,Dino,1,$36.86,-$6.00,$30.86,vmGUele3uKBH7gpEnE16yK80coRZY,Physical Good
+19/08/2024,12:57:34,None,Ninja Pizza - B,1,$41.47,-$6.75,$34.72,vmGUele3uKBH7gpEnE16yK80coRZY,Physical Good
+19/08/2024,12:53:28,None,Bear - Honey,1,$37.41,-$12.00,$25.41,V54vf1uArFrGdCYUt5D08uGa33DZY,Physical Good
+19/08/2024,12:53:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,V54vf1uArFrGdCYUt5D08uGa33DZY,Service
+19/08/2024,12:52:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lJUHDQ8JQJ8mq7wL4b5WqoBgEDCZY,Service
+19/08/2024,12:52:45,None,Grandpa,1,$36.86,-$6.00,$30.86,lJUHDQ8JQJ8mq7wL4b5WqoBgEDCZY,Physical Good
+18/08/2024,22:36:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1tU4ANaRsaJx6feQbC07WSLbKKLZY,Service
+18/08/2024,20:54:01,Disney Characters,Dom - Milk Bottle,1,$40.84,$0.00,$40.84,RDCXZD72eokx9j1Mb9LLia5jPw8YY,Physical Good
+18/08/2024,20:54:01,Sanrio,Cina - Bowtied,1,$40.85,$0.00,$40.85,RDCXZD72eokx9j1Mb9LLia5jPw8YY,Physical Good
+18/08/2024,19:59:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rUycI99cn5c5HTIy1Hl5YdHMmDVZY,Service
+18/08/2024,19:59:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rUycI99cn5c5HTIy1Hl5YdHMmDVZY,Service
+18/08/2024,18:52:03,None,Grandma,1,$36.31,$0.00,$36.31,T0iplxiZZa3F98CaEJVHIsH48SHZY,Physical Good
+18/08/2024,18:07:29,None,Piggy – Bottle,1,$36.30,$0.00,$36.30,dVY9hLRDsiOPUdbPwgKWuhxmVNQZY,Physical Good
+18/08/2024,18:07:29,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,dVY9hLRDsiOPUdbPwgKWuhxmVNQZY,Physical Good
+18/08/2024,18:06:20,None,Piggy - Watermelon,1,$40.84,$0.00,$40.84,hFJAI3qrjaiBkd1d2goaILWS8eEZY,Physical Good
+18/08/2024,18:05:42,None,Piggy - Queen,1,$36.31,$0.00,$36.31,1DjcgcY82yeC5cdw2Pj5sHF1EaaZY,Physical Good
+18/08/2024,17:57:58,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,L4QGjqkTCuoKY6Mwdc0toWw7eADZY,Physical Good
+18/08/2024,17:57:58,None,Lion King,1,$36.31,$0.00,$36.31,L4QGjqkTCuoKY6Mwdc0toWw7eADZY,Physical Good
+18/08/2024,17:45:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZnK9D5LPLfIwJ0hZsMYyuqGRuIBZY,Service
+18/08/2024,17:32:32,None,Gloss Varnish,1,$4.55,$0.00,$4.55,lnhYwC4SEvtDjIJoGJQHHHoyhfOZY,Service
+18/08/2024,17:32:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RpVP6DSr66XyNUdtMD1vgvZf5AUZY,Service
+18/08/2024,17:32:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RpVP6DSr66XyNUdtMD1vgvZf5AUZY,Service
+18/08/2024,17:32:14,None,Gloss Varnish,1,$4.53,$0.00,$4.53,RpVP6DSr66XyNUdtMD1vgvZf5AUZY,Service
+18/08/2024,17:04:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PU14uMNdbDa97Wu3kdjkGxmmNvLZY,Service
+18/08/2024,17:04:05,None,Gloss Varnish,1,$4.55,$0.00,$4.55,PU14uMNdbDa97Wu3kdjkGxmmNvLZY,Service
+18/08/2024,16:55:09,None,Fox - Nine Tailed,1,$49.92,$0.00,$49.92,px9Y1ijCqneCyxwI31sLhBQmYtbZY,Physical Good
+18/08/2024,16:55:09,None,Rabbit - Carrot,1,$31.76,$0.00,$31.76,px9Y1ijCqneCyxwI31sLhBQmYtbZY,Physical Good
+18/08/2024,16:55:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,px9Y1ijCqneCyxwI31sLhBQmYtbZY,Service
+18/08/2024,16:55:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,px9Y1ijCqneCyxwI31sLhBQmYtbZY,Service
+18/08/2024,16:45:48,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,vwredGuOcV0waVs2fuDqYzOUXv5YY,Physical Good
+18/08/2024,16:34:12,Couple,Couple - Banana,1,$55.00,-$55.00,$0.00,V1sgAOh4zGa4yIWxNdVXJrMRKNeZY,Physical Good
+18/08/2024,16:33:13,None,Dino - Baby,1,$40.00,-$40.00,$0.00,x3AFwM18nTHXrSPh9T8p0U63UVAZY,Physical Good
+18/08/2024,16:33:13,Couple,Couple – Resting Bear,1,$55.00,-$55.00,$0.00,x3AFwM18nTHXrSPh9T8p0U63UVAZY,Physical Good
+18/08/2024,15:47:43,None,Teddy with Tote,1,$36.30,$0.00,$36.30,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:47:43,None,Rabbit – Fish,1,$36.31,$0.00,$36.31,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:47:43,None,Dino - Baby,1,$36.30,$0.00,$36.30,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:47:43,None,Larva - Small A,1,$24.51,$0.00,$24.51,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:47:43,None,Ducky Star,1,$40.84,$0.00,$40.84,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:47:43,None,Kuro - Princess,1,$40.84,$0.00,$40.84,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:47:43,None,Dino - Disco,1,$40.85,$0.00,$40.85,tLRy3TIXStYBD5t1q9mh0li3HN6YY,Physical Good
+18/08/2024,15:39:38,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$45.38,$0.00,$45.38,f4He8y5Nbl1kOmJW7I6x9dK3eJXZY,Physical Good
+18/08/2024,15:38:47,Stitch,Mitch – Baseball Hat,-1,-$40.84,$0.00,-$40.84,zUwsy4q02Bsvwd04Gqq0yvweV,Physical Good
+18/08/2024,15:23:19,Stitch,Mitch – Baseball Hat,1,$40.84,$0.00,$40.84,dxuLcUaYRSZlTfTYTbZDLh1DgpSZY,Physical Good
+18/08/2024,15:16:59,Beverages,Drink - Banana Milk,1,$3.58,-$1.88,$1.70,PemEzhvVAqbG3aoLu6qRC4TrZTfZY,Physical Good
+18/08/2024,15:14:40,Sanrio,Kuro - Bowtied,1,$40.84,$0.00,$40.84,beZxJoLBkWXzMbBJsUwzrv0LSgLZY,Physical Good
+18/08/2024,15:08:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rqT7B8lRsRWHu7oFHPv4VCj7vcBZY,Service
+18/08/2024,15:07:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hJvqId2oDyQFpjINxC26SvA88MAZY,Service
+18/08/2024,15:07:56,None,Gloss Varnish,1,$4.55,$0.00,$4.55,hJvqId2oDyQFpjINxC26SvA88MAZY,Service
+18/08/2024,15:07:32,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,TEU0pOQtG9Spkg8vOzlsAZUT01cZY,Physical Good
+18/08/2024,15:07:01,None,Dragon - Cute,1,$38.61,-$25.00,$13.61,j6RhLubY1Uix4iVMpQkfsxZ0GlPZY,Physical Good
+18/08/2024,15:06:25,None,Dino - Baby,1,$38.61,-$25.00,$13.61,1bJ7ZsYQ3wB7eXAwdemIEYDTgCHZY,Physical Good
+18/08/2024,15:05:49,None,Rabbit - Carrot,1,$34.08,-$25.00,$9.08,JtVT9Jt7XynXPQF7t6qx8ZXCUPfZY,Physical Good
+18/08/2024,15:04:59,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$43.15,-$25.00,$18.15,B1Nkveij7tM8J8nZGLfdsWJ2UUEZY,Physical Good
+18/08/2024,14:59:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nI5uO5VRpKE4Cv8RlUFzRe2JtrQZY,Service
+18/08/2024,14:17:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bitc4VwSXaAlafYPDzjjNaS0CBfZY,Service
+18/08/2024,14:17:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bitc4VwSXaAlafYPDzjjNaS0CBfZY,Service
+18/08/2024,14:15:52,Couple,Couple – Resting Bear,1,$49.92,$0.00,$49.92,RhrK5FR1MT8FoHtFH7b2vRv7xKYZY,Physical Good
+18/08/2024,14:15:21,Bear Stick / Bear Brick,Bear Stick - OG,1,$40.84,$0.00,$40.84,RbwYyxs12YbS4riGxpowfaZimb8YY,Physical Good
+18/08/2024,14:14:56,None,Larva - Small A,1,$24.51,$0.00,$24.51,R3G0QQxER1iTPnydYeJI2c7dGuKZY,Physical Good
+18/08/2024,14:14:13,None,Larva,1,$31.77,$0.00,$31.77,XgHVj9BkmStXFa9z5eYVLCeuDdDZY,Physical Good
+18/08/2024,14:08:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xnSwF3vDqDmx6hqS1fwbgEvqtJUZY,Service
+18/08/2024,14:06:36,None,Ducky With Little Bag,1,$36.36,$0.00,$36.36,HcPcneVSiBRXjPlQQSW9GMPjmpIZY,Physical Good
+18/08/2024,14:06:19,None,Ducky With Little Bag,1,$37.09,-$8.00,$29.09,fA5Xt29XSsBNiX92ehKbXDYTRsGZY,Physical Good
+18/08/2024,14:04:40,None,Ducky With Little Bag,1,$36.36,$0.00,$36.36,pzWmE5X9hkvI79kYSZY0om2eV,Physical Good
+18/08/2024,13:53:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PkpcnLKWOuiVt05EFqfStkkg80ZZY,Service
+18/08/2024,13:53:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PkpcnLKWOuiVt05EFqfStkkg80ZZY,Service
+18/08/2024,13:49:38,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,7UMP3B0O5bf7B24dOpT4sjrql8HZY,Service
+18/08/2024,13:47:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,LEK20nlArUPLgTTGs1FvFU7S3RCZY,Service
+18/08/2024,13:42:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NX1POugaW4uPX6IB1KEGmCwDbIDZY,Service
+18/08/2024,13:42:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NX1POugaW4uPX6IB1KEGmCwDbIDZY,Service
+18/08/2024,13:41:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XyeaWbHDQqIMmZNRWwNlh4qIzVDZY,Service
+18/08/2024,13:25:47,Pokemon Characters,Pok - Happy Pi,1,$36.31,$0.00,$36.31,RtB8hNYTRUP9BD3veVvaSYgDNccZY,Physical Good
+18/08/2024,13:25:14,None,Ninja Pizza - B,1,$40.84,$0.00,$40.84,FL7uUB9JZ6Hqt8p3VN5jh8dNk1CZY,Physical Good
+18/08/2024,13:23:03,None,Larva,1,$31.77,$0.00,$31.77,NNUFefTgt0eTOOBdrqWBsUSJO9KZY,Physical Good
+18/08/2024,13:23:03,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,NNUFefTgt0eTOOBdrqWBsUSJO9KZY,Physical Good
+18/08/2024,13:22:23,Couple,Couple - Lucky Cat,1,$49.92,$0.00,$49.92,x9hIkVvvCvSNNbvQWT9h9F2zpDaZY,Physical Good
+18/08/2024,13:22:23,Beverages,Drink - Yellow Red Bull,1,$4.54,$0.00,$4.54,x9hIkVvvCvSNNbvQWT9h9F2zpDaZY,Physical Good
+18/08/2024,13:21:08,None,Larva - Small A,1,$24.51,$0.00,$24.51,lVmjkltZm0jg7g8GuMNZobh7IOXZY,Physical Good
+18/08/2024,13:20:30,None,Rabbit – Fish,1,$36.31,$0.00,$36.31,RBPg355AnUVvD9CA39t4g8ZvxqOZY,Physical Good
+18/08/2024,13:03:28,None,Larva,1,$31.77,$0.00,$31.77,pb4DhwU3qNvG2JwIFtcOob9c35WZY,Physical Good
+18/08/2024,13:03:28,Sanrio,Kuro - Bowtied,1,$40.84,$0.00,$40.84,pb4DhwU3qNvG2JwIFtcOob9c35WZY,Physical Good
+18/08/2024,13:03:28,None,Custom Amount,1,$90.76,$0.00,$90.76,pb4DhwU3qNvG2JwIFtcOob9c35WZY,
+18/08/2024,13:03:28,None,Grandma,1,$36.31,$0.00,$36.31,pb4DhwU3qNvG2JwIFtcOob9c35WZY,Physical Good
+18/08/2024,12:59:22,Bear Stick / Bear Brick,Bear Stick - Heart,1,$40.84,$0.00,$40.84,rgQSqvb8jWD4WK0IFlVIIWxiRYfZY,Physical Good
+18/08/2024,12:59:22,None,Luff - Pirate Boy,1,$40.85,$0.00,$40.85,rgQSqvb8jWD4WK0IFlVIIWxiRYfZY,Physical Good
+18/08/2024,12:36:39,None,Apple Baby,1,$31.77,$0.00,$31.77,xDO1CWN6KA7SjvwuWPC986NlOEGZY,Physical Good
+18/08/2024,12:36:39,None,Piggy - Queen,1,$36.30,$0.00,$36.30,xDO1CWN6KA7SjvwuWPC986NlOEGZY,Physical Good
+18/08/2024,12:33:42,None,Ducky Star,1,$40.84,$0.00,$40.84,bIswSmSoKtq6Out6PDRoDFuVpkIZY,Physical Good
+18/08/2024,12:33:42,None,Fox - Nine Tailed,1,$49.92,$0.00,$49.92,bIswSmSoKtq6Out6PDRoDFuVpkIZY,Physical Good
+18/08/2024,12:11:50,None,Dragon - Cute,1,$38.36,-$22.22,$16.14,5HSXpA8SPjLTh8chXbQgVEEvcnSZY,Physical Good
+18/08/2024,12:11:50,Beverages,Drink - Yellow Red Bull,1,$4.79,-$2.78,$2.01,5HSXpA8SPjLTh8chXbQgVEEvcnSZY,Physical Good
+18/08/2024,12:10:27,None,Astronaut - Waving,1,$34.08,-$25.00,$9.08,p3YMScYKem8zEsNfJAfo6qvSVhDZY,Physical Good
+18/08/2024,12:08:23,None,Larva - Small A,1,$26.82,-$25.00,$1.82,vSatLtwhpTtJj3I6vJQPf6POhwFZY,Physical Good
+18/08/2024,12:07:45,Sanrio,Kuro - Eclipse,1,$42.95,-$22.73,$20.22,ZdfUxavFDH42S05cVcqOjgo5wMOZY,Physical Good
+18/08/2024,12:07:45,Beverages,Drink - 0 Degree Iced Tea,1,$4.29,-$2.27,$2.02,ZdfUxavFDH42S05cVcqOjgo5wMOZY,Physical Good
+18/08/2024,12:06:20,SP GIRL - SKULLPANDA,SP - Suit Tie,1,$43.15,-$25.00,$18.15,ruPi0BSMZNZHHA88PE0Uz43814NZY,Physical Good
+18/08/2024,11:49:07,Sanrio,Kuro - Eclipse,1,$40.84,$0.00,$40.84,j4oZrP3INXrBi0ixvrT4bVBR4iLZY,Physical Good
+18/08/2024,11:49:07,None,Astronaut - Waving,1,$31.77,$0.00,$31.77,j4oZrP3INXrBi0ixvrT4bVBR4iLZY,Physical Good
+18/08/2024,11:46:00,None,Larva - Small A,2,$49.01,$0.00,$49.01,V77ALNBVjhJJ6861ykibL6XmqlWZY,Physical Good
+18/08/2024,11:00:09,Beverages,Drink - 0 Degree Iced Tea,1,$4.29,-$2.25,$2.04,LiLjudCSeI9U43M7VqzEMTql6qLZY,Physical Good
+17/08/2024,20:58:25,None,Dino - Disco,1,$42.14,-$13.50,$28.64,vwR7G4gbK1xSW8D771kEnSNBqI9YY,Physical Good
+17/08/2024,20:53:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fcvX5NXvbdaijMBKKWwjiCXVCTYZY,Service
+17/08/2024,20:40:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lxak1qHygDRe4ednTP4LQPZOC5PZY,Service
+17/08/2024,20:40:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lxak1qHygDRe4ednTP4LQPZOC5PZY,Service
+17/08/2024,20:40:34,None,Gloss Varnish,1,$4.53,$0.00,$4.53,lxak1qHygDRe4ednTP4LQPZOC5PZY,Service
+17/08/2024,20:22:46,None,Ducky With Little Bag,1,$36.36,$0.00,$36.36,xVhKWyQLi8fD4f5dWg8aZP7rIXMZY,Physical Good
+17/08/2024,20:06:26,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,Zr8J3yvSqh2PjsaGiQHXZEYov4OZY,Service
+17/08/2024,19:35:57,None,Gloss Varnish,1,$4.55,$0.00,$4.55,BP0XeiLiK8PpHpPaS6gtO7cyvt9YY,Service
+17/08/2024,19:26:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DgshTK3av2SlWVPVNh4LF03OPMcZY,Service
+17/08/2024,18:45:16,None,Dino - I Meet You,1,$36.31,$0.00,$36.31,N77z3iXftoPtHsWQCueYu05rHpTZY,Physical Good
+17/08/2024,18:44:44,None,Piggy - Watermelon,1,$40.84,$0.00,$40.84,Bh7yvIRRWAVI2UWSOUrLpCQTLgYZY,Physical Good
+17/08/2024,18:44:44,None,Fox - Nine Tailed,1,$49.92,$0.00,$49.92,Bh7yvIRRWAVI2UWSOUrLpCQTLgYZY,Physical Good
+17/08/2024,18:38:16,None,Lion King,1,$36.31,$0.00,$36.31,15yWpNOP3MFNJkNf4EkWmcctnLVZY,Physical Good
+17/08/2024,18:33:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Bx9vPYDa5wtgStwpyS8nhAOUnIAZY,Service
+17/08/2024,18:33:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Bx9vPYDa5wtgStwpyS8nhAOUnIAZY,Service
+17/08/2024,18:31:33,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,Xm8wcR1XIwOegxLDSberxwpzGqGZY,Physical Good
+17/08/2024,18:11:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hhVz0a1E2ffUfusg9FjNrdwkikLZY,Service
+17/08/2024,18:09:15,None,Bear Holder - C,2,$122.61,-$50.00,$72.61,xfQ5V5ZNh5ddu1y8fX0jykusSJJZY,Physical Good
+17/08/2024,18:04:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,D46ah7HwsCOfP8HS13xR6L9dlrLZY,Service
+17/08/2024,18:04:01,Couple,Couple - Loving Bear,1,$49.92,$0.00,$49.92,J9D6rfJgn1k3dPS9ANxRqTfsKacZY,Physical Good
+17/08/2024,18:01:05,None,Dragon - Cute,1,$36.31,$0.00,$36.31,d3BBLGBj2Th06s0feJ0ZFuqBS2eZY,Physical Good
+17/08/2024,18:00:27,Sanrio,Kuro - Clown Hat,1,$40.84,$0.00,$40.84,NdesB3FX5XiiOI8kbc8HwefAvESZY,Physical Good
+17/08/2024,16:42:19,None,Bear Holder - A,1,$65.00,-$65.00,$0.00,JFd7WBcStj1QcGATUjfprE19CL9YY,Physical Good
+17/08/2024,16:42:04,None,Piggy – Happy,1,$40.00,-$40.00,$0.00,hfwp5njrIBt2hOvRQ4vicuI8TQOZY,Physical Good
+17/08/2024,16:36:16,None,Teddy with Tote,1,$36.31,$0.00,$36.31,RPUprTcsmqu1W7BqF6LOAuseV,Physical Good
+17/08/2024,16:34:31,None,Ducky With Little Bag,1,$36.36,$0.00,$36.36,511X3G3bMxuIfz7dUR3jLGPEPieZY,Physical Good
+17/08/2024,16:06:48,POP MART Character,Doll - Naughty Girl,1,$36.30,$0.00,$36.30,vqUGwPY9nJYW1HEt3L64eSezB8BZY,Physical Good
+17/08/2024,16:06:48,None,Soy Milk,1,$4.54,$0.00,$4.54,vqUGwPY9nJYW1HEt3L64eSezB8BZY,Physical Good
+17/08/2024,16:04:18,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,hp53uQIQUZmbB9vKdYRN7nhztmKZY,Physical Good
+17/08/2024,16:03:58,SP GIRL - SKULLPANDA,SP - Cat,1,$40.84,$0.00,$40.84,VrvkuhBe97u7eMZMgAMyCk9PJeRZY,Physical Good
+17/08/2024,16:00:48,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,F9YsdkyRXGDXRPllQfJiBkFI4OMZY,Physical Good
+17/08/2024,16:00:48,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,F9YsdkyRXGDXRPllQfJiBkFI4OMZY,Physical Good
+17/08/2024,16:00:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vyI0X9gZAF11dIADrAqUUGSCkQMZY,Service
+17/08/2024,15:31:28,Beverages,Drink - 0 Degree Iced Tea,1,$4.08,$0.00,$4.08,FV6jRNFhYFrjeZoc1vTlTwkE7sBZY,Physical Good
+17/08/2024,15:31:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FV6jRNFhYFrjeZoc1vTlTwkE7sBZY,Service
+17/08/2024,15:18:21,None,Dor - Bat,1,$45.38,$0.00,$45.38,LA4459yDcOSvBOfsDZ1CQsz0grPZY,Physical Good
+17/08/2024,15:18:21,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,LA4459yDcOSvBOfsDZ1CQsz0grPZY,Physical Good
+17/08/2024,15:18:21,None,Astro Boy,1,$40.84,$0.00,$40.84,LA4459yDcOSvBOfsDZ1CQsz0grPZY,Physical Good
+17/08/2024,15:18:21,Beverages,Drink - VANILLA COKE,2,$5.45,$0.00,$5.45,LA4459yDcOSvBOfsDZ1CQsz0grPZY,Physical Good
+17/08/2024,15:09:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rI2vuaKlQ57TEdQG5SpNOHHGmdSZY,Service
+17/08/2024,15:09:33,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,rI2vuaKlQ57TEdQG5SpNOHHGmdSZY,Physical Good
+17/08/2024,15:05:32,Beverages,Drink - Milkis,2,$5.45,$0.00,$5.45,tBwsDHEeXjIh0ayVyvAD8NzTKu7YY,Physical Good
+17/08/2024,14:46:41,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,NNkhy2YGl24eJnMGfIUbZLNGuOaZY,Physical Good
+17/08/2024,14:46:41,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,NNkhy2YGl24eJnMGfIUbZLNGuOaZY,Physical Good
+17/08/2024,14:31:24,Beverages,Drink - Milkis,1,$2.73,$0.00,$2.73,nuux2YNq44TyYu89oyWPd7Jfy5WZY,Physical Good
+17/08/2024,14:25:53,None,Shin - Racer Boy,1,$40.84,$0.00,$40.84,NvlTvkTZyrUt0ilLCVGtrszpczJZY,Physical Good
+17/08/2024,14:25:53,None,Teddy with Tote,1,$36.31,$0.00,$36.31,NvlTvkTZyrUt0ilLCVGtrszpczJZY,Physical Good
+17/08/2024,14:23:29,Couple,Couple – Resting Bear,1,$49.92,$0.00,$49.92,1XRma3uEUenznV7kUbOOkreo2gWZY,Physical Good
+17/08/2024,14:23:29,None,Dragon - Cute,1,$36.31,$0.00,$36.31,1XRma3uEUenznV7kUbOOkreo2gWZY,Physical Good
+17/08/2024,14:23:29,None,Carrot,1,$31.76,$0.00,$31.76,1XRma3uEUenznV7kUbOOkreo2gWZY,Physical Good
+17/08/2024,14:23:29,None,Dino - Baby,1,$36.31,$0.00,$36.31,1XRma3uEUenznV7kUbOOkreo2gWZY,Physical Good
+17/08/2024,14:23:29,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,1XRma3uEUenznV7kUbOOkreo2gWZY,Physical Good
+17/08/2024,14:22:01,Pokemon Characters,Pok - Happy Pi,1,$36.36,$0.00,$36.36,RBlB9rR5F0vEiybba7KoDkAiXNfZY,Physical Good
+17/08/2024,14:22:01,None,Dino - Baby,1,$36.37,$0.00,$36.37,RBlB9rR5F0vEiybba7KoDkAiXNfZY,Physical Good
+17/08/2024,14:09:36,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,D4IDIeb84JiVERzCOd84YcSZMWRZY,Physical Good
+17/08/2024,13:52:22,None,Piggy – Happy,1,$36.36,$0.00,$36.36,ZPwGbBrtonYoRi1yVxrfl5cxKjSZY,Physical Good
+17/08/2024,13:52:22,None,Piggy - Queen,1,$36.37,$0.00,$36.37,ZPwGbBrtonYoRi1yVxrfl5cxKjSZY,Physical Good
+17/08/2024,13:41:59,None,Dor - Bat,1,$45.38,$0.00,$45.38,xr8QRKzLUKzIFBvQNSxNtMW1xVMZY,Physical Good
+17/08/2024,13:41:59,None,Astro Bear,1,$45.38,$0.00,$45.38,xr8QRKzLUKzIFBvQNSxNtMW1xVMZY,Physical Good
+17/08/2024,13:40:25,None,Connan,1,$40.00,-$40.00,$0.00,1pMFR1uGoRwAbUWAYbN9SU4HbqBZY,Physical Good
+17/08/2024,13:40:25,None,Fox - Nine Tailed,1,$55.00,-$55.00,$0.00,1pMFR1uGoRwAbUWAYbN9SU4HbqBZY,Physical Good
+17/08/2024,13:33:57,None,Ducky Star,1,$40.84,$0.00,$40.84,bilwABtNRDdBDGKJR0kU3EQoM5ZZY,Physical Good
+17/08/2024,13:33:19,None,Dragon - Cute,1,$36.31,$0.00,$36.31,1JqCZEOxn67ezheH0vSgPyxFHlZZY,Physical Good
+17/08/2024,13:32:53,None,Dino - Baby,1,$36.31,$0.00,$36.31,n4D5iMOcw2tw503F5brsQA7JPybZY,Physical Good
+17/08/2024,13:29:54,None,Dino - Baby,1,$40.00,-$40.00,$0.00,59RZFKqQkIPtu0r7nUssSpe8CvTZY,Physical Good
+17/08/2024,13:23:40,Stitch,Mitch - Dragon Hat,1,$43.29,-$26.47,$16.82,5TSwUQ1UGIEtFCudcfKhrzEsjH7YY,Physical Good
+17/08/2024,13:23:40,None,Connan,1,$38.48,-$23.53,$14.95,5TSwUQ1UGIEtFCudcfKhrzEsjH7YY,Physical Good
+17/08/2024,13:12:00,None,Capybara - Bathtub,1,$45.38,$0.00,$45.38,7aReCN78qJWgqonlP4JeJx4AfYPZY,Physical Good
+17/08/2024,12:59:07,None,Apple Baby,1,$31.77,$0.00,$31.77,ZbYZSO0J5KDLn3tx52vM0ZOoQcUZY,Physical Good
+17/08/2024,12:59:07,None,Dino - Disco,1,$40.84,$0.00,$40.84,ZbYZSO0J5KDLn3tx52vM0ZOoQcUZY,Physical Good
+17/08/2024,12:38:13,None,Bear - Honey,1,$38.61,-$25.00,$13.61,XaMJPPrwbemgE0a6Ue74h01BnjDZY,Physical Good
+17/08/2024,12:37:38,None,Kuro - Princess,1,$43.15,-$25.00,$18.15,h7AoWeBCzIVawEuErUFh6uheV,Physical Good
+17/08/2024,12:27:40,None,Ninja Pizza - A,1,$40.84,$0.00,$40.84,ZZL1LCqRnOrCpymbzVtEW2a6CtOZY,Physical Good
+17/08/2024,12:27:40,Pokemon Characters,Pok - Water Turtle,1,$40.85,$0.00,$40.85,ZZL1LCqRnOrCpymbzVtEW2a6CtOZY,Physical Good
+17/08/2024,11:42:21,Sanrio,Kuro - Clown Hat,1,$40.91,$0.00,$40.91,bwYeo9c2qYC7GrtyRNc66dRwzlQZY,Physical Good
+17/08/2024,11:17:27,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,D8ipL5dVfFJq6EG5TrzKHz5lEOYZY,Physical Good
+17/08/2024,11:07:58,Couple,Couple - Loving Bear,1,$54.54,-$50.00,$4.54,hDwsmCNjeUzOXZKO8N3aPx7B0UFZY,Physical Good
+16/08/2024,22:47:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pT4NWsmPSpEuYV4liqCwHB3uXfQZY,Service
+16/08/2024,22:47:18,None,Gloss Varnish,1,$4.55,$0.00,$4.55,pT4NWsmPSpEuYV4liqCwHB3uXfQZY,Service
+16/08/2024,22:32:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tDHDvG6Jn0XVCUPAwZ49OuDHprSZY,Service
+16/08/2024,22:32:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,buLo9He3CHpgQc5CgjRoxR8IYEYZY,Service
+16/08/2024,22:31:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TkSLkp7JLwHJ5jOZcdv8HHAmse7YY,Service
+16/08/2024,21:45:28,None,Astronaut - Waving,1,$31.77,$0.00,$31.77,p72mCpEOXUsyPTfxmv1ZQJMGBUOZY,Physical Good
+16/08/2024,21:44:55,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,fW26nrqIg18DnPaDVq1RR3gmjh9YY,Physical Good
+16/08/2024,20:17:31,None,Apple Baby,1,$31.77,$0.00,$31.77,1jZvqVWOkQ6tgO37hsgmXwQpj6CZY,Physical Good
+16/08/2024,20:17:31,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,1jZvqVWOkQ6tgO37hsgmXwQpj6CZY,Physical Good
+16/08/2024,20:17:03,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,nwHzFqvySb1X8CQ2DHB5ibOWYo5YY,Physical Good
+16/08/2024,19:54:09,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.85,$0.00,$40.85,J1bimMgQCwI9UZpBHqQ7l2eERzXZY,Physical Good
+16/08/2024,19:54:09,None,Dor - Bat,1,$45.38,$0.00,$45.38,J1bimMgQCwI9UZpBHqQ7l2eERzXZY,Physical Good
+16/08/2024,19:35:57,None,Cat - Lady,1,$36.31,$0.00,$36.31,7kIPIi9SOuumkvtTv22UXoEWuZSZY,Physical Good
+16/08/2024,19:34:39,SP GIRL - SKULLPANDA,SP - Hair Clips,1,$45.45,$0.00,$45.45,HI7blCcsPGnpZclR4C70ysJ58JBZY,Physical Good
+16/08/2024,19:34:39,None,Gloss Varnish,1,$4.55,$0.00,$4.55,HI7blCcsPGnpZclR4C70ysJ58JBZY,Service
+16/08/2024,19:34:39,None,Dino - Disco,1,$40.91,$0.00,$40.91,HI7blCcsPGnpZclR4C70ysJ58JBZY,Physical Good
+16/08/2024,19:34:39,None,Larva - Small A,1,$24.54,$0.00,$24.54,HI7blCcsPGnpZclR4C70ysJ58JBZY,Physical Good
+16/08/2024,19:34:39,None,Gloss Varnish,1,$4.55,$0.00,$4.55,HI7blCcsPGnpZclR4C70ysJ58JBZY,Service
+16/08/2024,19:32:51,None,Ducky With Little Bag,1,$36.31,$0.00,$36.31,LGX6ypgMNN3tRrbJYsI77xSSmXUZY,Physical Good
+16/08/2024,19:31:32,Stitch,Mitch - Dragon Hat,1,$40.84,$0.00,$40.84,hfWibUEamH8pgChvlWqkMijcfgVZY,Physical Good
+16/08/2024,18:58:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dhEQV9bkIOSuh8B4DeiM5aNkhKXZY,Service
+16/08/2024,18:58:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dhEQV9bkIOSuh8B4DeiM5aNkhKXZY,Service
+16/08/2024,16:26:50,None,Dor - Bat,1,$45.38,$0.00,$45.38,F7dPlgGevUt0zxiejo2srgxnEYfZY,Physical Good
+16/08/2024,16:26:50,None,SP - Rabbit Trainer,1,$45.38,$0.00,$45.38,F7dPlgGevUt0zxiejo2srgxnEYfZY,Physical Good
+16/08/2024,16:26:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,F7dPlgGevUt0zxiejo2srgxnEYfZY,Service
+16/08/2024,16:26:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,F7dPlgGevUt0zxiejo2srgxnEYfZY,Service
+16/08/2024,16:12:09,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,JZjb10QLhRf8tRF2x1l0G79Ojj9YY,Physical Good
+16/08/2024,15:25:18,Sanrio,Kuro - Bowtied,2,$81.69,$0.00,$81.69,XU5JNKuDp29C1TGnbHmuaj2qbCeZY,Physical Good
+16/08/2024,15:25:18,Beverages,Drink - Milkis,2,$5.44,$0.00,$5.44,XU5JNKuDp29C1TGnbHmuaj2qbCeZY,Physical Good
+16/08/2024,15:25:18,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,XU5JNKuDp29C1TGnbHmuaj2qbCeZY,Physical Good
+16/08/2024,14:16:37,SP GIRL - SKULLPANDA,SP - Phoenix,1,$47.11,-$18.68,$28.43,tr1kTll03D20KzpzSAHMRqigUWbZY,Physical Good
+16/08/2024,14:16:37,None,Astro Bear,1,$47.10,-$18.69,$28.41,tr1kTll03D20KzpzSAHMRqigUWbZY,Physical Good
+16/08/2024,14:16:37,None,Gloss Varnish,1,$4.66,-$1.32,$3.34,tr1kTll03D20KzpzSAHMRqigUWbZY,Service
+16/08/2024,14:16:37,None,Gloss Varnish,1,$4.66,-$1.31,$3.35,tr1kTll03D20KzpzSAHMRqigUWbZY,Service
+16/08/2024,13:32:42,Pokemon Characters,Pok - Water Turtle,1,$43.58,-$29.59,$13.99,pDuKUQGcq8H0HTz4DC83NzIz88EZY,Physical Good
+16/08/2024,13:32:42,None,Capybara - Bathtub,1,$48.41,-$32.87,$15.54,pDuKUQGcq8H0HTz4DC83NzIz88EZY,Physical Good
+16/08/2024,13:32:42,Beverages,Drink - Milkis,1,$2.89,-$1.79,$1.10,pDuKUQGcq8H0HTz4DC83NzIz88EZY,Physical Good
+16/08/2024,13:05:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vE12x0V6sY5ddjcbS6uLidLEkDcZY,Service
+16/08/2024,13:03:51,None,Piggy – Bottle,1,$36.91,-$6.00,$30.91,TqT6WEYxUs5yGqoiGKpBfASlHXfZY,Physical Good
+16/08/2024,12:49:55,Couple,Couple – Resting Bear,1,$50.68,-$8.25,$42.43,5FvYlnF0ZDzsuwWG6gtRlDMrPj9YY,Physical Good
+16/08/2024,11:30:38,Couple,Couple - Lucky Cat,1,$49.92,$0.00,$49.92,ZtTKSUMtBUsP98wxPW6BQFSlsI6YY,Physical Good
+15/08/2024,20:12:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,19Q25qX3W4ffp0kHLFZExWEUj2MZY,Service
+15/08/2024,20:12:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,19Q25qX3W4ffp0kHLFZExWEUj2MZY,Service
+15/08/2024,18:05:27,None,Capybara - Bathtub,1,$45.38,$0.00,$45.38,rS1AhdHLpFtTfwUaXs84Tj89mu6YY,Physical Good
+15/08/2024,18:05:27,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,rS1AhdHLpFtTfwUaXs84Tj89mu6YY,Physical Good
+15/08/2024,18:05:27,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,rS1AhdHLpFtTfwUaXs84Tj89mu6YY,Physical Good
+15/08/2024,18:05:27,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,rS1AhdHLpFtTfwUaXs84Tj89mu6YY,Physical Good
+15/08/2024,18:05:27,Beverages,Drink - 0 Degree Iced Tea,1,$4.09,$0.00,$4.09,rS1AhdHLpFtTfwUaXs84Tj89mu6YY,Physical Good
+15/08/2024,18:05:27,None,Larva - Small A,1,$24.51,$0.00,$24.51,rS1AhdHLpFtTfwUaXs84Tj89mu6YY,Physical Good
+15/08/2024,17:51:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BNFeTdjtr6AFD3R5ruxzhAY0NwEZY,Service
+15/08/2024,17:51:10,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,BNFeTdjtr6AFD3R5ruxzhAY0NwEZY,Physical Good
+15/08/2024,16:19:06,Couple,Couple – Cat,1,$49.92,$0.00,$49.92,NzDNFw91ZDyc0qdXOTQDepM5z18YY,Physical Good
+15/08/2024,16:15:51,Beverages,Drink - COKE,1,$2.73,$0.00,$2.73,5b05lWzeUgxWy0TBKycLFZSnew6YY,Physical Good
+15/08/2024,15:54:32,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Di9dVSfYPNIkdMFQTl3c4XCDFiNZY,Service
+15/08/2024,15:53:12,Bear Stick / Bear Brick,Super Power Rabbit,1,$40.91,$0.00,$40.91,ljtXSfl81CtHLyvwkSCidur9BUAZY,Physical Good
+15/08/2024,15:53:12,Sanrio,Kuro - Bowtied,1,$40.91,$0.00,$40.91,ljtXSfl81CtHLyvwkSCidur9BUAZY,Physical Good
+15/08/2024,15:53:12,None,Fox - Nine Tailed,1,$50.00,$0.00,$50.00,ljtXSfl81CtHLyvwkSCidur9BUAZY,Physical Good
+15/08/2024,15:38:34,None,Ducky With Little Bag,1,$36.86,-$6.00,$30.86,xDGRANxmxu9YOwbWAaicEgNhsRIZY,Physical Good
+15/08/2024,15:37:54,None,Rabbit – Fish,1,$36.86,-$6.00,$30.86,lrzI6dswJlZj34vUQNYuOAu2uJMZY,Physical Good
+15/08/2024,14:25:26,None,Strawberry Bear - Princess,1,$41.47,-$6.75,$34.72,bKtkkkhUFqFi80cX0wXAhPQZYXEZY,Physical Good
+15/08/2024,14:25:03,None,Strawberry Bear - Princess,1,$41.47,-$6.75,$34.72,ZpD518UmKraa0V1WPp8JyGnKHP7YY,Physical Good
+15/08/2024,14:23:16,SP GIRL - SKULLPANDA,SP - Suit Tie,1,$41.47,-$6.75,$34.72,vqmzsOvYVSN5IgDd2jzfIm1WBuLZY,Physical Good
+15/08/2024,14:22:32,None,SP - Rabbit Trainer,1,$46.07,-$7.50,$38.57,LEuqFL3cruEUJDP1IcWTCH0ZHuTZY,Physical Good
+15/08/2024,14:03:36,Sanrio,Cina - Princess,1,$41.52,-$6.75,$34.77,D0E4FNk94DhtrHV1RfjrefArKbSZY,Physical Good
+15/08/2024,12:59:42,Couple,Couple - Loving Bear,1,$50.68,-$8.25,$42.43,dFwhXTYu2nJ2y1G8VQuSVAAL97CZY,Physical Good
+14/08/2024,22:32:13,Beverages,Drink - Banana Milk,2,$7.15,-$3.75,$3.40,HasTncFryFxq9Tktts1DwiFuQDVZY,Physical Good
+14/08/2024,22:10:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,d3dFs9pQBsmAuuNXLnJAenjhMWEZY,Service
+14/08/2024,22:07:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,B9BwdsMxRflw3NqKZuGIkpYXJ0ZZY,Service
+14/08/2024,22:04:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,F7hV9JVAWOUNMdUZECuJmH1uI7YZY,Service
+14/08/2024,21:52:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rqFCYqCSfGW4UGGoI5mlJbLq0g6YY,Service
+14/08/2024,20:49:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VPXbyAzKiGtqtjCgjDCYaCvEaPGZY,Service
+14/08/2024,20:34:18,None,Dino - Baby Dummy,1,$36.31,$0.00,$36.31,zm1Cxf596x9lUtisu0q14cr3sgOZY,Physical Good
+14/08/2024,20:33:58,None,Lion King,1,$36.31,$0.00,$36.31,9rFihZIxF3TuJ2gTtoEbwaGIskGZY,Physical Good
+14/08/2024,20:32:20,None,Ducky Star,1,$40.84,$0.00,$40.84,rqx8WSdZ8WnhvXV2QPkEN8XmsIKZY,Physical Good
+14/08/2024,20:31:00,None,Dor - Bat,1,$45.38,$0.00,$45.38,JBzTyGx4bLtxT3Z6Qils4uPnvyfZY,Physical Good
+14/08/2024,20:31:00,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,JBzTyGx4bLtxT3Z6Qils4uPnvyfZY,Physical Good
+14/08/2024,20:05:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bGbIkh3Hx7TsjgJOnCaqZH2E5yRZY,Service
+14/08/2024,19:37:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pJRMQZ8a5QqnaFOlUUmlHs6PhWaZY,Service
+14/08/2024,19:13:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1RWQfAKFGgdEV8CgEk2wlGh0n8DZY,Service
+14/08/2024,18:04:23,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,118ICO0mQO5mJe7vvYBOS4McoxWZY,Physical Good
+14/08/2024,18:01:47,Couple,Couple - Rabbit,1,$49.92,$0.00,$49.92,FfdEkY257qBgpIyvzqUTXoItJfRZY,Physical Good
+14/08/2024,17:17:40,Sanrio,Kuro – Magician Hat,1,$40.84,$0.00,$40.84,7MOko1OvUdJltHvvz73mO7M1hATZY,Physical Good
+14/08/2024,17:16:15,POP MART Character,Doll - Naughty Girl,1,$36.31,$0.00,$36.31,th8u3mba4yAaKyGdkHmw98kqFveZY,Physical Good
+14/08/2024,17:15:13,None,Larva - Small A,1,$24.50,$0.00,$24.50,b6rjOs4AxUXF8l2hJWML2CUCAieZY,Physical Good
+14/08/2024,17:15:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,b6rjOs4AxUXF8l2hJWML2CUCAieZY,Service
+14/08/2024,17:12:41,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,juhYblmtmRO548XYmpjOs381AOCZY,Physical Good
+14/08/2024,16:59:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fQfMwiV0xtIA3WUpnRZ9mIOvt7dZY,Service
+14/08/2024,16:59:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fQfMwiV0xtIA3WUpnRZ9mIOvt7dZY,Service
+14/08/2024,16:42:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,h3aSFcSZwmAnqDxYtwiyZnpH2kZZY,Service
+14/08/2024,16:21:18,Beverages,Drink - Red Bull,1,$5.00,-$5.00,$0.00,Xgh88pKPVRy29OTxN1EXnxvenQNZY,Physical Good
+14/08/2024,15:32:12,Couple,Couple - Loving Bear,1,$49.92,$0.00,$49.92,hB5ZAbaLKcjT3gFW1D1FdR8SJ9CZY,Physical Good
+14/08/2024,15:27:43,Couple,Couple - Lucky Cat,1,$49.92,$0.00,$49.92,tPNPfDcmfTTeIOSwyAVJ06LLfQSZY,Physical Good
+14/08/2024,14:44:59,Couple,Couple - Loving Bear,1,$50.68,-$8.25,$42.43,LEA1G7bgAEEmqkxdQhzQTvx3bGFZY,Physical Good
+14/08/2024,14:15:36,Raws/Kaws,Raws - OG,2,$92.15,-$15.00,$77.15,lHDBqFnjmaq5z7n6uJe26nl5yIdZY,Physical Good
+14/08/2024,13:37:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rI2pdtvNK4vT0CLyp6djK48IvNFZY,Service
+14/08/2024,13:37:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rI2pdtvNK4vT0CLyp6djK48IvNFZY,Service
+14/08/2024,12:35:28,None,Capybara - Bathtub,1,$46.07,-$7.50,$38.57,PCoagCMaYY1WXlFRbpU4USkwLAJZY,Physical Good
+14/08/2024,12:35:28,Disney Characters,Monster - Suli & Mike,1,$55.29,-$9.00,$46.29,PCoagCMaYY1WXlFRbpU4USkwLAJZY,Physical Good
+13/08/2024,15:04:05,None,Apple Baby,1,$32.25,-$5.25,$27.00,xTgcFbDGlf7Zudye0B75XR1PsbaZY,Physical Good
+13/08/2024,15:03:07,SP GIRL - SKULLPANDA,SP - Emperor,-1,-$41.47,$6.75,-$34.72,NJqhvQHJ8OgEMhSeaH73USpeV,Physical Good
+13/08/2024,14:55:52,SP GIRL - SKULLPANDA,SP - Emperor,1,$41.47,-$6.75,$34.72,Vn7VDdlHYdkXYXQzZlhuE0OgFgTZY,Physical Good
+13/08/2024,14:53:00,SP GIRL - SKULLPANDA,SP - Emperor,1,$41.52,-$6.75,$34.77,5nm33hrHeVnBhaCaYhfa4d6KxTHZY,Physical Good
+13/08/2024,14:05:55,None,Dragon - Cute,1,$36.86,-$6.00,$30.86,P4dHKdTdrd9kwoqaTdvq9SB55eHZY,Physical Good
+13/08/2024,14:05:55,None,Capybara - Bathtub,1,$46.07,-$7.50,$38.57,P4dHKdTdrd9kwoqaTdvq9SB55eHZY,Physical Good
+13/08/2024,14:05:55,None,Larva - Small A,1,$24.88,-$4.05,$20.83,P4dHKdTdrd9kwoqaTdvq9SB55eHZY,Physical Good
+13/08/2024,13:45:50,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,7g0KIrYvEL3o3kShLAKZMhOGlw8YY,Physical Good
+13/08/2024,13:25:24,None,Capybara - Bathtub,-1,-$46.07,$7.50,-$38.57,1FAaXOVRSUJ5DnWNvUXTMq9eV,Physical Good
+13/08/2024,13:21:40,None,Capybara - Bathtub,1,$46.07,-$7.50,$38.57,zEgE3NJnir3MvKKWOaJnVTUq4yKZY,Physical Good
+13/08/2024,13:21:40,None,Cat - Bottle,1,$41.47,-$6.75,$34.72,zEgE3NJnir3MvKKWOaJnVTUq4yKZY,Physical Good
+12/08/2024,16:59:15,Couple,Couple – Resting Bear,1,$49.92,$0.00,$49.92,nqO4FoC3NbaV6EbA6763PS9bbaXZY,Physical Good
+12/08/2024,16:55:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3CszHDfPlsB4Q9ap3SrMbxSVCzVZY,Service
+12/08/2024,16:55:13,None,Gloss Varnish,1,$4.55,$0.00,$4.55,3CszHDfPlsB4Q9ap3SrMbxSVCzVZY,Service
+12/08/2024,16:17:43,None,Gloss Varnish,-1,-$4.55,$0.00,-$4.55,LKrthkDEbSAXA9p5haLSEN7eV,Service
+12/08/2024,16:17:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jwERDPgPFG9z7yLB0lDmR1q4w3aZY,Service
+12/08/2024,16:17:16,None,Gloss Varnish,1,$4.55,$0.00,$4.55,vgZRdkqtp12agUpbiaMM9aHutaFZY,Service
+12/08/2024,15:28:30,None,Gloss Varnish,1,$4.55,$0.00,$4.55,juXTzVkndjTGUyrCvnHnayM9Ky6YY,Service
+12/08/2024,14:58:59,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,LYuZbP4nN4nT09ENS15DsIjzC45YY,Physical Good
+12/08/2024,14:58:11,Sanrio,Kuro – Magician Hat,1,$41.47,-$6.75,$34.72,RpdPMxCEp9z2wHeoLxdkGm0wTB7YY,Physical Good
+12/08/2024,14:57:39,None,Puppy,1,$36.86,-$6.00,$30.86,xLqBmcjAM745kmTnjDkGln1fKz9YY,Physical Good
+12/08/2024,14:57:01,None,Rabbit - Asian Costume,1,$36.91,-$6.00,$30.91,XAzf9RmwZCJAbF4DFDIDGVvIjhRZY,Physical Good
+12/08/2024,14:43:30,None,Fox - Nine Tailed,1,$50.68,-$8.25,$42.43,pHSReBtH8dUMuMAlN3qhIy7HdgcZY,Physical Good
+12/08/2024,14:43:30,None,Rabbit - Asian Costume,1,$36.86,-$6.00,$30.86,pHSReBtH8dUMuMAlN3qhIy7HdgcZY,Physical Good
+12/08/2024,14:10:19,Couple,Couple - Banana,1,$50.68,-$8.25,$42.43,1hgH8bLlIACPcec35Ir1OEvnqoVZY,Physical Good
+12/08/2024,14:10:19,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,1hgH8bLlIACPcec35Ir1OEvnqoVZY,Physical Good
+12/08/2024,13:52:14,None,Bear Holder - C,1,$59.90,-$9.75,$50.15,XIhMZpgVX69GJ3Y3wPI4HgYaTFBZY,Physical Good
+12/08/2024,13:49:29,Couple,Couple - Lucky Cat,1,$50.75,-$8.25,$42.50,DapvKoEAwqatST3P5pLKA0iQsmaZY,Physical Good
+12/08/2024,13:45:21,None,Luff - Pirate Boy,1,$41.46,-$6.75,$34.71,Z78LeiWW6ugAExqpxlFSBleX6SOZY,Physical Good
+12/08/2024,13:45:21,Stitch,Mitch - Dragon Hat,1,$41.47,-$6.75,$34.72,Z78LeiWW6ugAExqpxlFSBleX6SOZY,Physical Good
+12/08/2024,12:32:32,Stitch,Mitch – Baseball Hat,1,$41.47,-$6.75,$34.72,9tKoNS452AzHmhPMH2bXJzn8aWTZY,Physical Good
+12/08/2024,12:20:04,None,Rabbit – Fish,1,$36.86,-$6.00,$30.86,XeAa7PPmLO0j5nl92TBKU5DhJn8YY,Physical Good
+12/08/2024,12:20:04,None,Puppy,1,$36.86,-$6.00,$30.86,XeAa7PPmLO0j5nl92TBKU5DhJn8YY,Physical Good
+11/08/2024,22:57:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VVGrFRkw2rAJdocE3UI6RPZ7tEHZY,Service
+11/08/2024,22:57:05,None,Gloss Varnish,1,$4.55,$0.00,$4.55,VVGrFRkw2rAJdocE3UI6RPZ7tEHZY,Service
+11/08/2024,19:53:16,Couple,Couple - Loving Bear,1,$49.92,$0.00,$49.92,1blvwuC3S6BZsXbs053FDFru6feZY,Physical Good
+11/08/2024,19:34:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vQ3mEDa0J9FVH41XMmXa092ndjVZY,Service
+11/08/2024,19:34:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vQ3mEDa0J9FVH41XMmXa092ndjVZY,Service
+11/08/2024,19:03:02,None,Take-home kit,1,$2.73,$0.00,$2.73,d3VZac6zKt9lR0u4EPZNOgHMnLRZY,Physical Good
+11/08/2024,18:43:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jIu4jJIS3fs741MVp2KhJOowr9LZY,Service
+11/08/2024,18:43:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jIu4jJIS3fs741MVp2KhJOowr9LZY,Service
+11/08/2024,17:58:31,None,Cat - Lady,1,$36.36,$0.00,$36.36,XqYFwDIQ4qjBG5txNuvRL9PDoEXZY,Physical Good
+11/08/2024,17:58:16,None,Superhero - Purple Dude,1,$45.45,$0.00,$45.45,ravfUbAsQhXek1CATpu6jGfWfcbZY,Physical Good
+11/08/2024,17:40:21,None,Piggy - Queen,1,$36.31,$0.00,$36.31,VNiZgxLNMPLwlUhA8nTHzJkPU4DZY,Physical Good
+11/08/2024,17:40:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VNiZgxLNMPLwlUhA8nTHzJkPU4DZY,Service
+11/08/2024,17:40:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VNiZgxLNMPLwlUhA8nTHzJkPU4DZY,Service
+11/08/2024,17:40:21,Disney Characters,Monster - Suli & Mike,1,$54.45,$0.00,$54.45,VNiZgxLNMPLwlUhA8nTHzJkPU4DZY,Physical Good
+11/08/2024,17:10:15,Beverages,Drink - Milkis,2,$5.45,$0.00,$5.45,NHJfbAAFWqbxgKF1jJ5N9gvCqySZY,Physical Good
+11/08/2024,17:09:54,SP GIRL - SKULLPANDA,SP - Suit Tie,1,$43.16,-$25.00,$18.16,xjEUWxVTXsI9Tz03qmeSGbC4rMbZY,Physical Good
+11/08/2024,17:09:54,None,Luff - on Rock,1,$43.15,-$25.00,$18.15,xjEUWxVTXsI9Tz03qmeSGbC4rMbZY,Physical Good
+11/08/2024,16:55:09,None,Dragon - Baby,1,$40.00,-$40.00,$0.00,phFe9GhNd0XIRhqRXq4KNEKjEtdZY,Physical Good
+11/08/2024,16:51:19,Beverages,Drink - Banana Milk,2,$7.50,-$7.50,$0.00,F3RE2Ciu5ymwxM02OLMG9Vj3SgNZY,Physical Good
+11/08/2024,16:50:25,None,Ducky Star,1,$45.00,-$45.00,$0.00,JtfqMmG9Qt1HXtvIXZCTJZyA5xKZY,Physical Good
+11/08/2024,16:50:25,None,Piggy - Peachy,1,$40.00,-$40.00,$0.00,JtfqMmG9Qt1HXtvIXZCTJZyA5xKZY,Physical Good
+11/08/2024,16:26:41,None,Superhero - Purple Dude,1,$45.38,$0.00,$45.38,15aaMGcLDchv4NTxCYQTlm2s1dXZY,Physical Good
+11/08/2024,16:26:41,None,Astro Bear,1,$45.38,$0.00,$45.38,15aaMGcLDchv4NTxCYQTlm2s1dXZY,Physical Good
+11/08/2024,16:19:31,Pokemon Characters,Pok - Happy Pi,1,$36.31,$0.00,$36.31,bskthdP6qHOotBTb7pupUG1XYpJZY,Physical Good
+11/08/2024,16:19:31,Beverages,Drink - FANTA,1,$2.72,$0.00,$2.72,bskthdP6qHOotBTb7pupUG1XYpJZY,Physical Good
+11/08/2024,16:19:04,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,7c2KFQ39dGjWSgLIyK1jFK7VTqEZY,Physical Good
+11/08/2024,16:19:04,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,7c2KFQ39dGjWSgLIyK1jFK7VTqEZY,Physical Good
+11/08/2024,15:53:31,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.91,$0.00,$40.91,hJNrJ9WfayZnoZwJ7DOFIhREeaTZY,Physical Good
+11/08/2024,15:52:20,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,r69YPgLED2dnpCiplY7BzHwlCnDZY,Physical Good
+11/08/2024,15:49:01,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,Peayr47D74ZGz3JST60eKQH8Sa8YY,Physical Good
+11/08/2024,15:49:01,Stitch,Mitch – Baseball Hat,1,$40.85,$0.00,$40.85,Peayr47D74ZGz3JST60eKQH8Sa8YY,Physical Good
+11/08/2024,15:35:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fc3nTLBxkTL9Ua3IJJrO2nBnO37YY,Service
+11/08/2024,15:27:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dtemz7mplhnSZcjpfS5qiwqOJhbZY,Service
+11/08/2024,15:08:33,SP GIRL - SKULLPANDA,SP - Phoenix,1,$45.38,$0.00,$45.38,NN8v1xNYCAjiaaJBIjboAaZiVmGZY,Physical Good
+11/08/2024,15:07:15,None,Dragon - Baby,1,$36.31,$0.00,$36.31,tV0bwrVwbh6VfNSxMcPywIoxAsZZY,Physical Good
+11/08/2024,15:07:15,None,Dor - Bat,1,$45.38,$0.00,$45.38,tV0bwrVwbh6VfNSxMcPywIoxAsZZY,Physical Good
+11/08/2024,15:00:57,None,Pat,1,$36.31,$0.00,$36.31,vS6jIKw3BB8zpn3pgHiCC8D1aMTZY,Physical Good
+11/08/2024,15:00:27,Sanrio,Kuro – Magician Hat,1,$40.84,$0.00,$40.84,DqX87yQCGVgSdF0NCdmz1bb5az6YY,Physical Good
+11/08/2024,14:40:00,None,Cat - Bottle,1,$40.84,$0.00,$40.84,1dqdYhlNiwWKZJSdMyoR2YBs0peZY,Physical Good
+11/08/2024,14:38:29,None,Dragon - Cute,1,$36.30,$0.00,$36.30,VXHXJM4EuzFKvGfy5wOtMilrDiLZY,Physical Good
+11/08/2024,14:38:29,None,Carrot,1,$31.77,$0.00,$31.77,VXHXJM4EuzFKvGfy5wOtMilrDiLZY,Physical Good
+11/08/2024,14:27:44,None,Puppy,1,$36.30,$0.00,$36.30,dvTeGbHt0kSL93kta856vxgnByLZY,Physical Good
+11/08/2024,14:27:44,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,dvTeGbHt0kSL93kta856vxgnByLZY,Physical Good
+11/08/2024,14:08:29,None,Luff - Pirate Boy,1,$40.84,$0.00,$40.84,HstTBqofY5GJytwAO5isHZZwwBbZY,Physical Good
+11/08/2024,14:08:29,Sanrio,Kuro – Magician Hat,1,$40.85,$0.00,$40.85,HstTBqofY5GJytwAO5isHZZwwBbZY,Physical Good
+11/08/2024,13:54:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,992As4WG0TFnS09BtuYGezZfzPGZY,Service
+11/08/2024,13:54:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,992As4WG0TFnS09BtuYGezZfzPGZY,Service
+11/08/2024,13:54:03,None,Gloss Varnish,1,$4.53,$0.00,$4.53,992As4WG0TFnS09BtuYGezZfzPGZY,Service
+11/08/2024,13:37:31,Disney Characters,Dom - Square,1,$36.30,$0.00,$36.30,jWdKaTZIINyrNYJhZMwICUgascbZY,Physical Good
+11/08/2024,13:37:31,None,Ducky With Little Bag,1,$36.31,$0.00,$36.31,jWdKaTZIINyrNYJhZMwICUgascbZY,Physical Good
+11/08/2024,13:23:51,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,PQBTO5ogP6VoZzVPpN3r11CpJyTZY,Physical Good
+11/08/2024,13:23:51,Beverages,Drink - COKE,2,$5.45,$0.00,$5.45,PQBTO5ogP6VoZzVPpN3r11CpJyTZY,Physical Good
+11/08/2024,13:23:51,Bear Stick / Bear Brick,Bear Stick - Rainbow Heart,1,$40.84,$0.00,$40.84,PQBTO5ogP6VoZzVPpN3r11CpJyTZY,Physical Good
+11/08/2024,12:53:21,None,Shin - Racer Boy,1,$40.84,$0.00,$40.84,ll4OPhXun2FYS4UL0Oue2ff1a3DZY,Physical Good
+11/08/2024,12:53:21,Bear Stick / Bear Brick,Bear Stick - OG,1,$40.85,$0.00,$40.85,ll4OPhXun2FYS4UL0Oue2ff1a3DZY,Physical Good
+11/08/2024,12:52:14,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,1dG1d7Eu740kln9KGeNOmAIBU2TZY,Physical Good
+11/08/2024,12:50:51,None,Rabbit - Beannie,1,$36.31,$0.00,$36.31,Zn0wqt14B954639xQq4XlQBsoeFZY,Physical Good
+11/08/2024,12:50:20,None,Puppy,1,$36.31,$0.00,$36.31,hFnZVx5RQGTy4VMeet1Zvb5hpmPZY,Physical Good
+11/08/2024,11:55:50,None,Rabbit - Strawberry Bag,1,$31.82,$0.00,$31.82,TuH97IQUwOggmy5wkSlLcdic7rfZY,Physical Good
+11/08/2024,11:55:50,None,Fox - Nine Tailed,1,$50.00,$0.00,$50.00,TuH97IQUwOggmy5wkSlLcdic7rfZY,Physical Good
+11/08/2024,11:55:50,None,Chicken Mama,1,$36.36,$0.00,$36.36,TuH97IQUwOggmy5wkSlLcdic7rfZY,Physical Good
+11/08/2024,11:53:57,Sanrio,Kuro - Evil,1,$45.38,$0.00,$45.38,1Zc3GUHVPYK3vzaZrg7id1cnSKRZY,Physical Good
+11/08/2024,11:53:57,None,Luff - on Rock,1,$40.85,$0.00,$40.85,1Zc3GUHVPYK3vzaZrg7id1cnSKRZY,Physical Good
+10/08/2024,23:01:08,None,Take-home kit,2,$5.45,$0.00,$5.45,Fz3m5KT2fs2Axp7JdUHOne5tNhEZY,Physical Good
+10/08/2024,22:54:40,None,Take-home kit,2,$5.44,$0.00,$5.44,5FzqrEKPb1irOFAnMrFCTxwjXDYZY,Physical Good
+10/08/2024,22:54:40,None,Extra Paints,1,$1.82,$0.00,$1.82,5FzqrEKPb1irOFAnMrFCTxwjXDYZY,Physical Good
+10/08/2024,22:28:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pDeGPgYaV7ajyQk2D9YworaTJKeZY,Service
+10/08/2024,21:56:50,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,zSJ7KJbiIZm8TinS2uwMTS73ZoPZY,Service
+10/08/2024,21:56:50,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,zSJ7KJbiIZm8TinS2uwMTS73ZoPZY,Service
+10/08/2024,21:41:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Rju5AbqxN58B4VsL5ayasMTjNscZY,Service
+10/08/2024,21:35:27,None,Pat,1,$40.00,-$40.00,$0.00,nYHtxrJTZlTXqKvSVeBTx4ySEvYZY,Physical Good
+10/08/2024,21:35:27,None,Astro Bear,1,$50.00,-$50.00,$0.00,nYHtxrJTZlTXqKvSVeBTx4ySEvYZY,Physical Good
+10/08/2024,21:35:27,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,nYHtxrJTZlTXqKvSVeBTx4ySEvYZY,Service
+10/08/2024,21:35:27,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,nYHtxrJTZlTXqKvSVeBTx4ySEvYZY,Service
+10/08/2024,21:11:05,Beverages,Drink - Red Bull,1,$5.00,-$5.00,$0.00,vKWhvGoq6RZUo6x93DhWZxKGsdIZY,Physical Good
+10/08/2024,20:56:23,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.84,$0.00,$40.84,7aTryufzX4NSaDjn7EO4wxphRbQZY,Physical Good
+10/08/2024,20:56:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7aTryufzX4NSaDjn7EO4wxphRbQZY,Service
+10/08/2024,20:55:41,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,tNmURGiw8SgInuF0b36mwGKGZmZZY,Physical Good
+10/08/2024,20:55:41,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,tNmURGiw8SgInuF0b36mwGKGZmZZY,Physical Good
+10/08/2024,20:55:41,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,tNmURGiw8SgInuF0b36mwGKGZmZZY,Physical Good
+10/08/2024,20:35:26,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,fALuejtvFTUtLAX86BQPXfcVHMUZY,Physical Good
+10/08/2024,20:29:08,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,zkcGzg5n7HvJGuSsi05LEoWFd7QZY,Physical Good
+10/08/2024,20:29:08,Pokemon Characters,Pok - Pi on Saturn,1,$40.85,$0.00,$40.85,zkcGzg5n7HvJGuSsi05LEoWFd7QZY,Physical Good
+10/08/2024,20:09:23,None,Luff - Pirate Boy,1,$40.85,$0.00,$40.85,Pqk2kktsO9JWWzm6WIoXZGc7tkEZY,Physical Good
+10/08/2024,20:09:23,Sanrio,Kuro - Evil,1,$45.38,$0.00,$45.38,Pqk2kktsO9JWWzm6WIoXZGc7tkEZY,Physical Good
+10/08/2024,19:42:52,None,Carrot,1,$31.77,$0.00,$31.77,JrmCGqelN1tTgjsqlgXPrqrtxmRZY,Physical Good
+10/08/2024,19:21:18,None,Puppy,1,$36.31,$0.00,$36.31,3Ar5GZJ3HaofHUyPnIuCcvIaVpeZY,Physical Good
+10/08/2024,19:17:33,None,Capybara - Bathtub,1,$50.00,-$50.00,$0.00,jA6EBLYv0pVbQPllMmwD8MSKpIcZY,Physical Good
+10/08/2024,19:17:33,None,Piggy - Bathtub,1,$40.00,-$40.00,$0.00,jA6EBLYv0pVbQPllMmwD8MSKpIcZY,Physical Good
+10/08/2024,18:36:59,None,Pat,1,$38.48,-$23.53,$14.95,pn6x07nNLTuj63PWwgM4ZqL7vH6YY,Physical Good
+10/08/2024,18:36:59,Sanrio,Kuro -  King,1,$43.29,-$26.47,$16.82,pn6x07nNLTuj63PWwgM4ZqL7vH6YY,Physical Good
+10/08/2024,18:20:20,None,Astronaut,1,$33.92,-$23.33,$10.59,xVRCqihqWQCEo5pH5e4jAlOwyxYZY,Physical Good
+10/08/2024,18:20:20,None,Rabbit - Ice Cream,1,$38.77,-$26.67,$12.10,xVRCqihqWQCEo5pH5e4jAlOwyxYZY,Physical Good
+10/08/2024,18:19:40,Beverages,Drink - Red Bull,1,$4.55,$0.00,$4.55,DOZoHTqUUfSm8UbZmSHkZqtSnAVZY,Physical Good
+10/08/2024,18:18:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,x7iTFduJxsNqfOVTo8xUdTN0xLbZY,Service
+10/08/2024,18:18:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,x7iTFduJxsNqfOVTo8xUdTN0xLbZY,Service
+10/08/2024,18:18:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,x7iTFduJxsNqfOVTo8xUdTN0xLbZY,Service
+10/08/2024,18:18:20,None,Gloss Varnish,1,$4.53,$0.00,$4.53,x7iTFduJxsNqfOVTo8xUdTN0xLbZY,Service
+10/08/2024,18:16:04,None,Fox - Lotus,1,$45.38,$0.00,$45.38,BreRkgCG55kMxEt1lhuPDNKpCrNZY,Physical Good
+10/08/2024,18:11:19,SP GIRL - SKULLPANDA,SP - Emperor,1,$45.00,-$45.00,$0.00,fGYNZi35fEjiLhYCxRqoL9UTNpaZY,Physical Good
+10/08/2024,18:11:19,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$45.00,-$45.00,$0.00,fGYNZi35fEjiLhYCxRqoL9UTNpaZY,Physical Good
+10/08/2024,16:53:34,Sanrio,Cina - Bowtied,1,$40.84,$0.00,$40.84,f81a9z0iz3cFXr0ZZ1OnxwtBE7BZY,Physical Good
+10/08/2024,16:53:21,Sanrio,Cina - Princess,1,$40.84,$0.00,$40.84,HgDramroUPrC7TYYamOxBkQvuRIZY,Physical Good
+10/08/2024,16:45:36,Sanrio,Mel,1,$36.31,$0.00,$36.31,76doaOHaHpUJEWlfG8VpldZMZCaZY,Physical Good
+10/08/2024,16:44:17,None,Rabbit – Fish,1,$36.36,$0.00,$36.36,Nn5BS3svAUpVN1ZfWrmX1LhH9DeZY,Physical Good
+10/08/2024,16:43:43,None,Piggy - Watermelon,1,$40.84,$0.00,$40.84,XMJfXAmWqpL6ebJi2opIb65axTYZY,Physical Good
+10/08/2024,16:43:11,None,Dragon - Baby,1,$36.31,$0.00,$36.31,hb4y2a0GE08sB1La0IaMbI6OjKbZY,Physical Good
+10/08/2024,16:40:12,Stitch,Mitch - Dragon Hat,2,$81.69,$0.00,$81.69,xR5b8GXg10cl0dJatx4CGGeoM9LZY,Physical Good
+10/08/2024,16:26:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XmIqO59sDldSi6ODtVDiAtM8uy5YY,Service
+10/08/2024,16:26:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XmIqO59sDldSi6ODtVDiAtM8uy5YY,Service
+10/08/2024,16:20:37,None,Puppy,1,$36.31,$0.00,$36.31,5p1kkMU3vGrRakdfZJaidcsdHtNZY,Physical Good
+10/08/2024,16:20:10,None,Ninja Pizza - B,1,$40.84,$0.00,$40.84,z2nH3uFloxDRIxMftDFI6ppwsGEZY,Physical Good
+10/08/2024,16:18:54,Stitch,Mitch – Baseball Hat,1,$40.91,$0.00,$40.91,DSrY90K601BtKdrrCAgwYPR4Z95YY,Physical Good
+10/08/2024,16:16:17,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,7AQE8uhz37SlQz7p2Z3mSD26ooWZY,Physical Good
+10/08/2024,16:14:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,J19JpO1p1mpK2IqVUolKXOUVlBfZY,Service
+10/08/2024,16:14:27,SP GIRL - SKULLPANDA,SP - Emperor,1,$40.91,$0.00,$40.91,J19JpO1p1mpK2IqVUolKXOUVlBfZY,Physical Good
+10/08/2024,16:07:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,5VV50IW7Y18ihArWVPkqO0zCdzWZY,Service
+10/08/2024,16:07:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,5VV50IW7Y18ihArWVPkqO0zCdzWZY,Service
+10/08/2024,16:02:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zEI668yypIT5b8lQwDA6B7IJvIfZY,Service
+10/08/2024,16:02:39,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zEI668yypIT5b8lQwDA6B7IJvIfZY,Service
+10/08/2024,15:01:07,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,zKpdSBXaSj2us5HEivWK3fBV59UZY,Physical Good
+10/08/2024,14:50:30,Couple,Couple - Loving Bear,1,$55.00,-$55.00,$0.00,N7taINmHGqYnvOJw2DTMvP87W0IZY,Physical Good
+10/08/2024,14:47:54,None,Teddy with Tote,1,$36.31,$0.00,$36.31,XgBoKpm9C8ubl1lBTolKwQ8F9fdZY,Physical Good
+10/08/2024,14:47:54,None,Capybara - Bathtub,1,$45.38,$0.00,$45.38,XgBoKpm9C8ubl1lBTolKwQ8F9fdZY,Physical Good
+10/08/2024,14:34:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,H49eY2JBz8CAtKsToxkR3Ev6MlKZY,Service
+10/08/2024,14:34:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,H49eY2JBz8CAtKsToxkR3Ev6MlKZY,Service
+10/08/2024,14:34:39,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,RBbYiiR07t9qpGTLzAYj32IhnMDZY,Physical Good
+10/08/2024,14:34:39,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,RBbYiiR07t9qpGTLzAYj32IhnMDZY,Physical Good
+10/08/2024,14:31:47,Disney Characters,Terry - Cheesy Mouse,1,$36.31,$0.00,$36.31,9zHfCqOyTYCXGRVhwlK0Sr4NEyJZY,Physical Good
+10/08/2024,14:31:28,POP MART Character,Doll - Naughty Girl,1,$36.31,$0.00,$36.31,t563HE8gnUbRf9Hqpzw3i14nMM9YY,Physical Good
+10/08/2024,14:30:52,None,Custom Amount,1,$45.38,$0.00,$45.38,5JVg4BWNJtg01jW4tGWnwWxNhKVZY,
+10/08/2024,14:29:58,Raws/Kaws,Raws - OG,1,$45.38,$0.00,$45.38,bS9yos75iMxHKh3lBDB6j7TWp6bZY,Physical Good
+10/08/2024,14:29:36,None,Pat,1,$36.31,$0.00,$36.31,TudkRq3SupJ5P3ll4OtLipcnqlIZY,Physical Good
+10/08/2024,14:29:10,None,Custom Amount,1,$45.38,$0.00,$45.38,v0bVjTHAKF3kfKgVhQtJDHrJrQ7YY,
+10/08/2024,14:26:08,None,Cat - Bottle,1,$40.84,$0.00,$40.84,DE2lj8RxycO5A3L75M4oOUyEDGBZY,Physical Good
+10/08/2024,14:25:33,Sanrio,Kuro - Clown Hat,1,$40.85,$0.00,$40.85,DIw3cJOWxzfhWW89YI9PK0zLKcPZY,Physical Good
+10/08/2024,14:25:33,None,Custom Amount,1,$45.38,$0.00,$45.38,DIw3cJOWxzfhWW89YI9PK0zLKcPZY,
+10/08/2024,14:23:56,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,9NIDvKoOXfQQHddLwbdWglHd6yVZY,Physical Good
+10/08/2024,14:23:11,None,Superhero - Purple Dude,1,$45.45,$0.00,$45.45,1VSlJbOCporFH6UQXlGfSgtybIJZY,Physical Good
+10/08/2024,14:15:53,None,Custom Amount,1,$36.31,$0.00,$36.31,HO2dOpUMtPmbZcnzslreaiZGlXJZY,
+10/08/2024,14:14:17,None,Piggy – Bottle,1,$36.31,$0.00,$36.31,HU5r78MHGGyqbw1ollGzFav9wXMZY,Physical Good
+10/08/2024,14:14:17,None,Piggy - Watermelon,1,$40.84,$0.00,$40.84,HU5r78MHGGyqbw1ollGzFav9wXMZY,Physical Good
+10/08/2024,14:08:35,None,Capybara - Bathtub,1,$45.38,$0.00,$45.38,H8x5V8Xc92QMnaziV1UTst6hwlLZY,Physical Good
+10/08/2024,14:07:45,None,Luff - Pirate Boy,1,$42.09,-$13.50,$28.59,17fgKGxk9AJO8Rhgucu407Fv2dCZY,Physical Good
+10/08/2024,13:56:17,None,Puppy,1,$36.31,$0.00,$36.31,7UUNwjIPb5nM6Anfn8XI7WgOjaGZY,Physical Good
+10/08/2024,13:56:02,None,Ninja Pizza - B,1,$40.84,$0.00,$40.84,f0nB9kOG1oPe74Ks0aEfmkSuzw6YY,Physical Good
+10/08/2024,13:39:23,None,Dino - I Meet You,1,$36.30,$0.00,$36.30,djpskAGb7nZ1U5D9N4q37ym2PIWZY,Physical Good
+10/08/2024,13:39:23,Disney Characters,Terry - Cheesy Mouse,1,$36.31,$0.00,$36.31,djpskAGb7nZ1U5D9N4q37ym2PIWZY,Physical Good
+10/08/2024,13:17:07,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,TA47i3nwvxFyMSGJBRyv8hpLpW7YY,Physical Good
+10/08/2024,13:12:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zM0CYuigqRwZosZH1a8MZuBILBeZY,Service
+10/08/2024,13:12:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zM0CYuigqRwZosZH1a8MZuBILBeZY,Service
+10/08/2024,13:11:13,None,Repeat painting,1,$9.08,$0.00,$9.08,ruT2vOMQj7UE8QoKU9ek9pbjVx9YY,Service
+10/08/2024,12:49:08,None,Astronaut - Waving,1,$31.76,$0.00,$31.76,V52QSIx1SxgfSAHgqoMxPuvjwsZZY,Physical Good
+10/08/2024,12:49:08,None,Custom Amount,1,$31.77,$0.00,$31.77,V52QSIx1SxgfSAHgqoMxPuvjwsZZY,
+10/08/2024,12:34:54,Sanrio,Cina - Bowtied,1,$40.91,$0.00,$40.91,z6hzDuYDwparvLTw23eHUGj0RIRZY,Physical Good
+10/08/2024,12:34:54,Stitch,Mitch – Baseball Hat,1,$40.91,$0.00,$40.91,z6hzDuYDwparvLTw23eHUGj0RIRZY,Physical Good
+10/08/2024,12:34:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,z6hzDuYDwparvLTw23eHUGj0RIRZY,Service
+10/08/2024,12:34:54,None,Gloss Varnish,1,$4.55,$0.00,$4.55,z6hzDuYDwparvLTw23eHUGj0RIRZY,Service
+10/08/2024,12:26:18,Pokemon Characters,Pok - Blas Turtle,1,$45.38,$0.00,$45.38,fYRD2pJ3jm5wrFf9mTrWbgwcvFPZY,Physical Good
+10/08/2024,12:26:18,Pokemon Characters,Pok - Water Turtle,1,$40.85,$0.00,$40.85,fYRD2pJ3jm5wrFf9mTrWbgwcvFPZY,Physical Good
+10/08/2024,12:24:10,Stitch,Mitch - Dragon Hat,1,$40.84,$0.00,$40.84,xjsAGdow8dWLGUeQ1kJwkeKUUrGZY,Physical Good
+10/08/2024,12:21:25,None,Rabbit - Strawberry Bag,1,$34.08,-$25.00,$9.08,30n8LrNAHuZHLvwIEA1lEQZE1NXZY,Physical Good
+10/08/2024,12:20:54,None,Dragon - Baby,1,$38.61,-$25.00,$13.61,zoUhZFiJzL3Wzx3SLMBs0CbNPnaZY,Physical Good
+10/08/2024,12:19:46,None,Custom Amount,1,$40.84,$0.00,$40.84,7w6vZo31cAA2HdYZAmPJQqxpPARZY,
+10/08/2024,12:18:15,None,Dino - Disco,1,$40.84,$0.00,$40.84,Tg4RFPkD7vWKSIb02oGGLL6msaHZY,Physical Good
+10/08/2024,12:17:52,Bear Stick / Bear Brick,Bear Stick - OG,1,$40.85,$0.00,$40.85,Hi28CGGw4orlaT0Zv26V6AXHkNSZY,Physical Good
+10/08/2024,12:17:52,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,Hi28CGGw4orlaT0Zv26V6AXHkNSZY,Physical Good
+10/08/2024,12:09:37,Couple,Couple - Rabbit,1,$49.92,$0.00,$49.92,TUefhdREmkTj8DIBGorHUYtEyDNZY,Physical Good
+10/08/2024,12:08:57,None,Bear - Honey,1,$36.31,$0.00,$36.31,57e0KXiJvttWbW7MciZz5te9K9DZY,Physical Good
+10/08/2024,12:08:57,Pokemon Characters,Pok - Water Turtle,1,$40.84,$0.00,$40.84,57e0KXiJvttWbW7MciZz5te9K9DZY,Physical Good
+10/08/2024,12:06:19,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,1DXAJGybbpsQfBNgfi7Sy4YVUAHZY,Physical Good
+10/08/2024,12:06:19,None,Puppy,1,$36.30,$0.00,$36.30,1DXAJGybbpsQfBNgfi7Sy4YVUAHZY,Physical Good
+10/08/2024,12:06:19,None,Bear - Honey,1,$36.31,$0.00,$36.31,1DXAJGybbpsQfBNgfi7Sy4YVUAHZY,Physical Good
+10/08/2024,12:05:45,None,Pat,1,$36.31,$0.00,$36.31,TuTNSpQGCiLzk8OaSPVw3qkYLUVZY,Physical Good
+10/08/2024,11:50:15,None,Capybara - Bathtub,1,$45.45,$0.00,$45.45,tbnH6b3iwiqG2BsYUMBNUrCJyOKZY,Physical Good
+10/08/2024,11:47:19,None,Dino - Disco,1,$40.84,$0.00,$40.84,3sBfPmECGDCvQ0WBZhNpzF6uwbBZY,Physical Good
+10/08/2024,11:46:54,None,Cat - Lady,1,$36.31,$0.00,$36.31,X4jT8ktazFSwsCKXUhcy9bZ09YGZY,Physical Good
+10/08/2024,11:40:03,None,Kir - On Star,1,$40.84,$0.00,$40.84,ZtJ7xwjYF1piPDke06XfAH8T2cBZY,Physical Good
+10/08/2024,11:40:03,None,Bear Holder - C,1,$59.00,$0.00,$59.00,ZtJ7xwjYF1piPDke06XfAH8T2cBZY,Physical Good
+9/08/2024,22:45:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BXSyK9367uhRp0JbgYcCWkoeV,Service
+9/08/2024,22:45:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BXSyK9367uhRp0JbgYcCWkoeV,Service
+9/08/2024,22:45:57,None,Gloss Varnish,1,$4.53,$0.00,$4.53,BXSyK9367uhRp0JbgYcCWkoeV,Service
+9/08/2024,20:56:53,Beverages,Drink - Banana Milk,1,$3.75,-$3.75,$0.00,nUBZeSFSil5fQrlfiQqmNwKzxZVZY,Physical Good
+9/08/2024,20:56:01,None,Custom Amount,1,$46.82,-$15.00,$31.82,Zf2v4Xea9gk4xs8PlPNv34Q0JmEZY,
+9/08/2024,20:50:47,None,Cat - Lady,1,$36.31,$0.00,$36.31,N9UBU49JZnhKGyjAQ50KJ2X0ADGZY,Physical Good
+9/08/2024,20:50:13,None,Rabbit - Beannie,1,$36.31,$0.00,$36.31,ZrkfWTCZYmn7EQPlLQAsByyjlwfZY,Physical Good
+9/08/2024,20:48:16,None,Fox - Lotus,1,$45.38,$0.00,$45.38,RZLSsbSpiwzzNHsVbnXLIFUYSDHZY,Physical Good
+9/08/2024,20:35:12,None,Dragon - Cute,1,$38.55,-$24.24,$14.31,n8x3GCNAHj7heq7rJU1BtQn4YgcZY,Physical Good
+9/08/2024,20:35:12,None,Rabbit – Fish,1,$38.54,-$24.24,$14.30,n8x3GCNAHj7heq7rJU1BtQn4YgcZY,Physical Good
+9/08/2024,20:35:12,None,Piggy - Birthday,1,$38.55,-$24.24,$14.31,n8x3GCNAHj7heq7rJU1BtQn4YgcZY,Physical Good
+9/08/2024,20:35:12,Pokemon Characters,Pok - Pi on Saturn,1,$43.36,-$27.28,$16.08,n8x3GCNAHj7heq7rJU1BtQn4YgcZY,Physical Good
+9/08/2024,19:51:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xpbgZ08RgLGrm313i5bhyNEb6bYZY,Service
+9/08/2024,19:19:54,Beverages,Drink - Red Bull,1,$5.00,-$5.00,$0.00,9VsVkcYSMPebT7JiyLzSuqN4gLNZY,Physical Good
+9/08/2024,19:14:33,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,tLlKQC9coimGd573UZV5B6nZKMQZY,Physical Good
+9/08/2024,19:09:49,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,Rv6izTGTaaMJndibCJlSjy9ej1SZY,Physical Good
+9/08/2024,19:09:49,None,Astro Bear,1,$45.38,$0.00,$45.38,Rv6izTGTaaMJndibCJlSjy9ej1SZY,Physical Good
+9/08/2024,18:56:53,Sanrio,Cina - Bowtied,1,$40.85,$0.00,$40.85,1twckzhAvkRNspAwwMmETbOmM0XZY,Physical Good
+9/08/2024,18:56:53,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,1twckzhAvkRNspAwwMmETbOmM0XZY,Physical Good
+9/08/2024,18:35:26,None,Astro Bear,1,$45.38,$0.00,$45.38,3oNurSqFS3CZmeam0oB08EmjWBRZY,Physical Good
+9/08/2024,18:35:03,None,Kir,1,$36.31,$0.00,$36.31,llaDjEcEXINQ7V9Sn6Bzwlyk2K8YY,Physical Good
+9/08/2024,18:08:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lxaYxrnmA0A1kVx9YRra4D6tkjVZY,Service
+9/08/2024,18:07:22,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,zGVwuInkDBbcdqi9HHqnzVruQ4UZY,Physical Good
+9/08/2024,18:07:22,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,zGVwuInkDBbcdqi9HHqnzVruQ4UZY,Physical Good
+9/08/2024,18:05:33,Sanrio,Mel,1,$38.62,-$25.00,$13.62,NnziYjVFELd9w53g1ubSOKxu7DFZY,Physical Good
+9/08/2024,18:05:33,None,Pat,1,$38.61,-$25.00,$13.61,NnziYjVFELd9w53g1ubSOKxu7DFZY,Physical Good
+9/08/2024,17:59:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1L7K03zjI6XFG1iYyqyHdrkKLAOZY,Service
+9/08/2024,17:59:24,None,Gloss Varnish,1,$4.55,$0.00,$4.55,1L7K03zjI6XFG1iYyqyHdrkKLAOZY,Service
+9/08/2024,17:38:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VzPGkDldSg0va5ULpcwIg13XncGZY,Service
+9/08/2024,17:05:02,None,Puppy,1,$36.30,$0.00,$36.30,NR8sAvVmS2E5iDV9aD3YZoWbtvVZY,Physical Good
+9/08/2024,17:05:02,None,Custom Amount,1,$36.31,$0.00,$36.31,NR8sAvVmS2E5iDV9aD3YZoWbtvVZY,
+9/08/2024,16:52:51,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,b0MTnPPZZWS57uol7QnOMfNvcqDZY,Physical Good
+9/08/2024,16:23:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3oXBmKT4ygGM6AajzugHeSxYxAEZY,Service
+9/08/2024,16:23:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3oXBmKT4ygGM6AajzugHeSxYxAEZY,Service
+9/08/2024,15:45:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Nv3onvacdMOsWyVlgAPz5rd5yoeZY,Service
+9/08/2024,15:44:12,None,Rabbit - Beannie,1,$36.31,$0.00,$36.31,r4MMVmOvUUWaEscfObccwytp9zAZY,Physical Good
+9/08/2024,15:44:12,None,Custom Amount,1,$45.38,$0.00,$45.38,r4MMVmOvUUWaEscfObccwytp9zAZY,
+9/08/2024,15:36:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HY5kiRq2IReRVlVTDGNsgu4GkUeZY,Service
+9/08/2024,15:24:12,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,Hy0TOnnIDq3pgeXscbc9Wrx6tVPZY,Physical Good
+9/08/2024,15:24:12,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,Hy0TOnnIDq3pgeXscbc9Wrx6tVPZY,Physical Good
+9/08/2024,15:13:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TSbwCDEIPz8zB7ROOl2sJs5Z4XNZY,Service
+9/08/2024,14:37:54,None,Custom Amount,1,$41.47,-$6.75,$34.72,HYr1MQ01gmbz3bmdI1sLvDiSGsLZY,
+9/08/2024,14:37:54,None,Fox - Nine Tailed,1,$50.68,-$8.25,$42.43,HYr1MQ01gmbz3bmdI1sLvDiSGsLZY,Physical Good
+9/08/2024,14:30:23,None,Shin - Racer Boy,1,$41.47,-$6.75,$34.72,9Tnz0KbpwQOlkPuqXae8G4QOAH8YY,Physical Good
+9/08/2024,13:44:25,Sanrio,Cina - Bowtied,1,$41.47,-$6.75,$34.72,5Pa98WtnGg70mgeMaQip270T79JZY,Physical Good
+9/08/2024,13:44:25,None,Pat,1,$36.86,-$6.00,$30.86,5Pa98WtnGg70mgeMaQip270T79JZY,Physical Good
+9/08/2024,13:22:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,f09GcnRRjKzOytABh0dzuw7qoYYZY,Service
+9/08/2024,13:22:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,f09GcnRRjKzOytABh0dzuw7qoYYZY,Service
+9/08/2024,12:34:20,Disney Characters,Monster - Suli & Mike,1,$55.29,-$9.00,$46.29,roGpXW7cJY7WCtq3QXaDaYayyf7YY,Physical Good
+9/08/2024,12:33:02,None,Rabbit – Fish,1,$36.91,-$6.00,$30.91,tvF54QLEeH8cZuL5VmjoqGWvMpfZY,Physical Good
+9/08/2024,11:46:52,Raws/Kaws,Raws - OG,1,$46.07,-$7.50,$38.57,Lc0V0L39nWsrzYTmlLbFRahJLJUZY,Physical Good
+9/08/2024,11:46:52,None,Rabbit - Goggles,1,$41.47,-$6.75,$34.72,Lc0V0L39nWsrzYTmlLbFRahJLJUZY,Physical Good
+9/08/2024,11:39:23,Sanrio,Mel - Bowtied,1,$41.47,-$6.75,$34.72,nKmiYWxg3xSwwI3h7dPmcXmEl6WZY,Physical Good
+9/08/2024,11:39:07,Sanrio,Kuro – Magician Hat,1,$41.47,-$6.75,$34.72,xZ9PeqTSlBqcd8KOVrufq6D4M4GZY,Physical Good
+9/08/2024,11:37:39,Bear Stick / Bear Brick,Bear Stick - Rainbow,1,$41.47,-$6.75,$34.72,7Ao2xdaIhnUjcRbgrOyDbpDBSAeZY,Physical Good
+9/08/2024,11:24:51,None,Larva - Small A,1,$24.88,-$4.05,$20.83,36IbfnUBSWEkFVfmF4E5fVtA0GSZY,Physical Good
+9/08/2024,11:24:51,None,Larva - Small B,1,$24.88,-$4.05,$20.83,36IbfnUBSWEkFVfmF4E5fVtA0GSZY,Physical Good
+9/08/2024,11:24:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,36IbfnUBSWEkFVfmF4E5fVtA0GSZY,Service
+9/08/2024,11:24:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,36IbfnUBSWEkFVfmF4E5fVtA0GSZY,Service
+9/08/2024,11:11:30,SP GIRL - SKULLPANDA,SP - Cat,1,$41.46,-$6.75,$34.71,jeLxNwlu9xDbMHBP6DQrJd6Xz9aZY,Physical Good
+9/08/2024,11:11:30,Stitch,Mitch – Baseball Hat,1,$41.47,-$6.75,$34.72,jeLxNwlu9xDbMHBP6DQrJd6Xz9aZY,Physical Good
+9/08/2024,11:09:12,Couple,Couple – Resting Bear,1,$50.68,-$8.25,$42.43,xdFmMCcXlvVKyilwqmdHtqLSwJdZY,Physical Good
+9/08/2024,11:09:12,None,Rabbit – Fish,1,$36.86,-$6.00,$30.86,xdFmMCcXlvVKyilwqmdHtqLSwJdZY,Physical Good
+9/08/2024,11:03:54,Bear Stick / Bear Brick,Bear Stick - Heart,1,$41.47,-$6.75,$34.72,5FxpnWgLvLh73WTioHU2pbU3BgFZY,Physical Good
+9/08/2024,11:03:54,None,Lion King,1,$36.86,-$6.00,$30.86,5FxpnWgLvLh73WTioHU2pbU3BgFZY,Physical Good
+8/08/2024,22:01:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,juDfO5eHce7KuCNpY9vhYlVF1RWZY,Service
+8/08/2024,22:01:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,juDfO5eHce7KuCNpY9vhYlVF1RWZY,Service
+8/08/2024,21:35:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3ID7OJkqOJseVBgKEbXinO1g00WZY,Service
+8/08/2024,21:35:48,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,3ID7OJkqOJseVBgKEbXinO1g00WZY,Physical Good
+8/08/2024,21:17:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DiBJcPrJ0xRRdLieGnbfUoYHkJaZY,Service
+8/08/2024,20:42:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tLTxCv96qdeAZcXdQfjFJXEwbPMZY,Service
+8/08/2024,20:23:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xbUGetOH7fO1FZtEKq5VJ1wSJgKZY,Service
+8/08/2024,19:20:07,None,Piggy - Bathtub,1,$36.31,$0.00,$36.31,lHxkInsmmyp07xwYjT4eVrJwWTNZY,Physical Good
+8/08/2024,19:18:13,Stitch,Mitch - Dragon Hat,1,$40.85,$0.00,$40.85,1REzfbVv4ZFMKKGWUuqMiGTzUDNZY,Physical Good
+8/08/2024,19:18:13,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,1REzfbVv4ZFMKKGWUuqMiGTzUDNZY,Physical Good
+8/08/2024,19:17:27,None,Rabbit - Beannie,1,$36.31,$0.00,$36.31,N7DhM4MGP6S9Lkq2KJSjJL1g4RQZY,Physical Good
+8/08/2024,18:57:10,None,Bear - Honey,1,$36.31,$0.00,$36.31,ZZF2JqpI57nid9I7ugNEZv6o3PXZY,Physical Good
+8/08/2024,18:36:19,None,Shin - Racer Boy,1,$40.84,$0.00,$40.84,VfP15bLeISqbhIsWadFj1nY4ilPZY,Physical Good
+8/08/2024,18:27:48,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,B3YLkssutrzVDwdcGnQX1TrdMsGZY,Physical Good
+8/08/2024,18:27:31,Sanrio,Kuro - Evil,1,$45.38,$0.00,$45.38,PSqpNmjlxN5k7wBntdRBCxjKaJCZY,Physical Good
+8/08/2024,18:26:46,None,Cina – Magician Hat,1,$40.84,$0.00,$40.84,3GE8I2SixgNtVdIz3PoCTwGZmCUZY,Physical Good
+8/08/2024,18:02:10,None,Custom Amount,1,$40.84,$0.00,$40.84,Pwnak7TCf9CHOybqqcTrFW9XSTZZY,
+8/08/2024,17:45:57,None,Luff - on Rock,1,$40.84,$0.00,$40.84,jUqzFyUIU4aFBJefu0S1lWdEFNAZY,Physical Good
+8/08/2024,17:45:57,None,Rabbit - Ice Cream,1,$36.31,$0.00,$36.31,jUqzFyUIU4aFBJefu0S1lWdEFNAZY,Physical Good
+8/08/2024,17:45:57,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,jUqzFyUIU4aFBJefu0S1lWdEFNAZY,Physical Good
+8/08/2024,17:33:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hJH6ebCj5AmYbNpMCmgee8AmIjZZY,Service
+8/08/2024,17:33:59,Bear Stick / Bear Brick,Bear Stick - Heart,1,$40.84,$0.00,$40.84,hJH6ebCj5AmYbNpMCmgee8AmIjZZY,Physical Good
+8/08/2024,16:36:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,r0MNFaE5bVuq1ZeK3TtQKVkfmoUZY,Service
+8/08/2024,15:56:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Fhmwi16YLs5HAxI43fgnjw6FP77YY,Service
+8/08/2024,14:50:42,None,Kir - On Star,1,$41.47,-$6.75,$34.72,vwjsk7DLO3HDxkGVsk3W2xHIpPXZY,Physical Good
+8/08/2024,14:40:27,None,Custom Amount,1,$46.07,-$7.50,$38.57,raVghQHzVk1gaaaGjHaY6VxEKIWZY,
+8/08/2024,14:40:27,None,Gloss Varnish,1,$4.61,-$0.75,$3.86,raVghQHzVk1gaaaGjHaY6VxEKIWZY,Service
+8/08/2024,14:24:23,Couple,Couple – Resting Bear,1,$50.68,-$8.25,$42.43,xT4KQK8Mk9re0z5iBT16a32vQgUZY,Physical Good
+8/08/2024,14:00:13,Disney Characters,Terry - Cheesy Mouse,1,$36.86,-$6.00,$30.86,vkNkkTlqNzPJlptdwGZzLrussi9YY,Physical Good
+8/08/2024,14:00:13,None,Kir - On Star,1,$41.46,-$6.75,$34.71,vkNkkTlqNzPJlptdwGZzLrussi9YY,Physical Good
+8/08/2024,14:00:13,Sanrio,Mel - Bowtied,1,$41.47,-$6.75,$34.72,vkNkkTlqNzPJlptdwGZzLrussi9YY,Physical Good
+8/08/2024,13:33:53,None,Couple – Cat,1,$50.68,-$8.25,$42.43,9toV8y0j3kwOhBtWKOXmC3vuaeaZY,Physical Good
+8/08/2024,13:33:53,None,Pat,1,$36.86,-$6.00,$30.86,9toV8y0j3kwOhBtWKOXmC3vuaeaZY,Physical Good
+8/08/2024,13:33:53,None,Gloss Varnish,2,$9.22,-$1.50,$7.72,9toV8y0j3kwOhBtWKOXmC3vuaeaZY,Service
+7/08/2024,20:54:08,None,Repeat painting,1,$9.08,$0.00,$9.08,XuwgGYllBvAEIn91A0RbjbibBNOZY,Service
+7/08/2024,20:54:08,None,Repeat painting,1,$9.07,$0.00,$9.07,XuwgGYllBvAEIn91A0RbjbibBNOZY,Service
+7/08/2024,20:31:11,None,Terry - Cheesy Mouse,1,$36.30,$0.00,$36.30,lzxfzFzzwqpfhIiNmUSBhh5WboFZY,Physical Good
+7/08/2024,20:31:11,None,Dom - Square,1,$36.31,$0.00,$36.31,lzxfzFzzwqpfhIiNmUSBhh5WboFZY,Physical Good
+7/08/2024,19:23:43,None,Pat,-1,-$36.31,$0.00,-$36.31,FtK9MRFyKpWgf8CSDOHa2Z5eV,Physical Good
+7/08/2024,19:22:38,None,Pat,1,$36.31,$0.00,$36.31,HSWayc4RSFUDzBy2bgVN476eV,Physical Good
+7/08/2024,18:42:18,None,Pat,1,$36.31,$0.00,$36.31,P0ZCwbSwgqLp2Yr95sG34nPOPU6YY,Physical Good
+7/08/2024,15:52:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nKs9wa2dvqVK2oGmEJX8DqjCCMRZY,Service
+7/08/2024,15:52:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nKs9wa2dvqVK2oGmEJX8DqjCCMRZY,Service
+7/08/2024,15:10:19,None,Custom Amount,1,$31.77,$0.00,$31.77,rmRJoYVQKwIxZSrmOQR06Jvz757YY,
+7/08/2024,15:09:08,None,Astronaut,1,$31.77,$0.00,$31.77,reDyvINSlmTiHj08pjIMv1CFWt5YY,Physical Good
+7/08/2024,14:45:44,None,Ducky Star,1,$41.52,-$6.75,$34.77,RTqTCuQMMxRg8CzkGBqmd4lCWpfZY,Physical Good
+7/08/2024,14:45:44,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,RTqTCuQMMxRg8CzkGBqmd4lCWpfZY,Physical Good
+7/08/2024,14:44:33,None,Ducky Star,1,$41.52,-$6.75,$34.77,dDViq522xvTqAi4Wqg7sqhGiApXZY,Physical Good
+7/08/2024,13:36:12,None,Custom Amount,1,$36.86,-$6.00,$30.86,X0v0tSvqwVNrVf5ukvFVYcvDQJ8YY,
+7/08/2024,13:19:34,None,Piggy - Queen,1,$36.86,-$6.00,$30.86,txKhHOnj9j61DDOXofzp4DwU1VUZY,Physical Good
+7/08/2024,12:54:01,None,Dor - Captain US,1,$45.38,$0.00,$45.38,HmgO398Kh4BvASLfcHxPiysSUJgZY,Physical Good
+7/08/2024,12:54:01,None,Dor - Bat,1,$46.77,-$15.00,$31.77,HmgO398Kh4BvASLfcHxPiysSUJgZY,Physical Good
+7/08/2024,12:39:24,None,Piggy - Queen,1,$36.86,-$6.00,$30.86,drBULEiDW6xbbyU84ZQDK7TWEt9YY,Physical Good
+7/08/2024,12:39:24,None,Bear Stick - Rainbow,1,$41.47,-$6.75,$34.72,drBULEiDW6xbbyU84ZQDK7TWEt9YY,Physical Good
+6/08/2024,22:40:30,None,Astro Bear,-2,-$90.76,$0.00,-$90.76,dfpX2nSttWRCEjxueLXonS8eV,Physical Good
+6/08/2024,22:39:50,None,Astro Bear,2,$90.76,$0.00,$90.76,FrN3dtMQQXdDQF1n0eoBkRVXqqEZY,Physical Good
+6/08/2024,22:37:10,None,Astro Bear,-1,-$45.38,$0.00,-$45.38,JVB5JF7iUFYSQ1LfNmAbdCgeV,Physical Good
+6/08/2024,22:33:35,None,Astro Bear,1,$45.38,$0.00,$45.38,Zl9tWVtb7kD497MfltZT2DY0w9HZY,Physical Good
+6/08/2024,21:08:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RJ9rwWEGsRLCLJFvkvgOFjKedoLZY,Service
+6/08/2024,21:00:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Bze9NnfdP146x3KvIg66HWV8BzeZY,Service
+6/08/2024,20:39:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZfYsqHTAlEyBkupKNznrtG3JacGZY,Service
+6/08/2024,19:51:06,None,Couple – Resting Bear,-1,-$49.92,$0.00,-$49.92,5xHZiYUjhVYl49AtU7jRxr1eV,Physical Good
+6/08/2024,19:46:10,None,Couple – Resting Bear,1,$49.92,$0.00,$49.92,5bwdAYUxP0JgtvpGVfc6g7ClPj9YY,Physical Good
+6/08/2024,19:36:55,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,dLpCQCmt6oLCmc0I8PYaoj9aJOYZY,Physical Good
+6/08/2024,19:36:55,Skull Panda,Skull Panda 5,1,$40.91,$0.00,$40.91,dLpCQCmt6oLCmc0I8PYaoj9aJOYZY,Physical Good
+6/08/2024,19:29:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vCsuVXHIOxWGESU8Dz2bnwLrl1RZY,Service
+6/08/2024,19:29:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vCsuVXHIOxWGESU8Dz2bnwLrl1RZY,Service
+6/08/2024,19:17:53,None,Ducky - Star,1,$40.84,$0.00,$40.84,V3TN73kiwgs9jV6lrw9zJuh9mmFZY,Physical Good
+6/08/2024,19:17:12,None,Apple Baby,1,$31.82,$0.00,$31.82,VdCtYh4ipizxkLDpA2kNWe8OLOIZY,Physical Good
+6/08/2024,18:17:49,None,Stitch - Hat,1,$40.84,$0.00,$40.84,7QmxPGVPkGtdjLkyKBkdUyJ26jVZY,Physical Good
+6/08/2024,18:17:49,None,Kaws,1,$45.38,$0.00,$45.38,7QmxPGVPkGtdjLkyKBkdUyJ26jVZY,Physical Good
+6/08/2024,18:17:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7QmxPGVPkGtdjLkyKBkdUyJ26jVZY,Service
+6/08/2024,18:17:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7QmxPGVPkGtdjLkyKBkdUyJ26jVZY,Service
+6/08/2024,18:05:37,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,f24Zn9kMg0ex3tGqEu3shMVon1JZY,Physical Good
+6/08/2024,18:05:21,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,VjFjH5njNqOzGExJmyScmubMLmEZY,Physical Good
+6/08/2024,18:04:31,None,Stitch - Hat,1,$40.84,$0.00,$40.84,76J2QVkqcPsfKmlPsaV7j1tcU0DZY,Physical Good
+6/08/2024,18:03:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dVQRtNKlpQPJ6Wp1eKQZYFFy578YY,Service
+6/08/2024,18:03:58,Kuromi,Kuromi - Clown,1,$40.91,$0.00,$40.91,dVQRtNKlpQPJ6Wp1eKQZYFFy578YY,Physical Good
+6/08/2024,17:27:33,Beverages,Tea - Lipton,1,$4.54,$0.00,$4.54,zihxVnN8ngD4vJAUTaEmVigoN6LZY,Physical Good
+6/08/2024,17:25:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BPmyH0IJCfljPezqCqqtypog0DQZY,Service
+6/08/2024,17:25:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BPmyH0IJCfljPezqCqqtypog0DQZY,Service
+6/08/2024,17:17:36,None,Dino - Disco,1,$40.84,$0.00,$40.84,dzxWnvsgVCGUSAaz7OG6T4G55iHZY,Physical Good
+6/08/2024,17:17:36,None,Pikachu on Saturn,1,$40.85,$0.00,$40.85,dzxWnvsgVCGUSAaz7OG6T4G55iHZY,Physical Good
+6/08/2024,16:14:14,None,baa baa sheep,-1,-$36.91,$6.00,-$30.91,jUsS11Jya7ZpuAAs2n2VBBkeV,Physical Good
+6/08/2024,16:14:02,None,baa baa sheep,1,$36.91,-$6.00,$30.91,l9mjf2OSLun4fwJSr4SH1uQEMBCZY,Physical Good
+6/08/2024,16:12:20,None,Rabbit - Beanie 1,1,$36.31,$0.00,$36.31,veS0QYwIqjOOeDNZWkDMhoTYILTZY,Physical Good
+6/08/2024,16:10:12,Beverages,Tea - Lipton,1,$4.54,$0.00,$4.54,hZdlpeHIHFcoj1WOjsBTE2leV,Physical Good
+6/08/2024,15:54:11,None,Gloss Varnish,1,$4.55,$0.00,$4.55,LoIyDp7e1YGDirQmtre15CLD8yMZY,Service
+6/08/2024,15:12:06,Piggy,Piggy The Queen,1,$36.31,$0.00,$36.31,7Sdc1nMDLAqmg09gz6W28LyK9kcZY,Physical Good
+6/08/2024,15:11:21,None,Baby Dragon,1,$36.31,$0.00,$36.31,HghchFhG9Q4ZxZ4lCp8xoJH2LrEZY,Physical Good
+6/08/2024,14:40:21,Couple,Couple - Banana,1,$50.68,-$8.25,$42.43,v0lQqtBAzHvHprDsYVtlgifomRWZY,Physical Good
+6/08/2024,14:26:12,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,T2lkQa5LwEOMZBwhpWFW8oHRNoDZY,Physical Good
+6/08/2024,14:26:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,T2lkQa5LwEOMZBwhpWFW8oHRNoDZY,Service
+6/08/2024,14:03:25,None,Kirby on Star,1,$41.52,-$6.75,$34.77,p9PuCA90gUrGkFvlIQE4SsSN70dZY,Physical Good
+6/08/2024,13:54:29,None,Rabbit - Strawberry Bag,1,$32.25,-$5.25,$27.00,vaEQ3fqOl0zs5nSJxdcPAcqzElbZY,Physical Good
+6/08/2024,13:52:49,None,Puppy - Glasses,1,$36.86,-$6.00,$30.86,nC4LfezScJDOW8wbFy6cvWQkfSOZY,Physical Good
+6/08/2024,13:48:02,None,Lion - Large,1,$36.86,-$6.00,$30.86,LCDJ5EZTWYlhIK8zliPfB4L5YNOZY,Physical Good
+6/08/2024,12:51:07,None,Lion - Large,1,$36.86,-$6.00,$30.86,fMbjk8GFMc5cDKKEs6MJbrAlt9NZY,Physical Good
+6/08/2024,12:51:07,None,Luffy,1,$41.47,-$6.75,$34.72,fMbjk8GFMc5cDKKEs6MJbrAlt9NZY,Physical Good
+5/08/2024,22:03:06,None,Gloss Varnish,1,$4.55,$0.00,$4.55,5fSVkazepoCFc1uZA7TliJkO7SNZY,Service
+5/08/2024,22:02:52,None,Gloss Varnish,1,$4.55,$0.00,$4.55,78gB2uDfnDOwYWiJpDX3qMxZSkJZY,Service
+5/08/2024,20:06:33,None,Elephant,1,$31.82,$0.00,$31.82,Dw0h9HZLmpv8RHbFnUeVb3oP5k8YY,Physical Good
+5/08/2024,20:05:03,None,Baby Dragon,1,$36.36,$0.00,$36.36,XSoDAtlJdqIkDSN9GFgQ9dxkg38YY,Physical Good
+5/08/2024,18:51:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jmnjGPxhJAKGRpEsmHbPgBWIBCBZY,Service
+5/08/2024,18:40:47,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,FJIJLbL2mjr9jWIkRrNdfjHFQWFZY,Physical Good
+5/08/2024,17:08:18,None,Luffy,2,$81.69,$0.00,$81.69,1N4SDyOCQYxOg0Nnhn8HHP0XHvfZY,Physical Good
+5/08/2024,17:08:18,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,1N4SDyOCQYxOg0Nnhn8HHP0XHvfZY,Physical Good
+5/08/2024,14:59:26,None,Kirby on Star,1,$41.47,-$6.75,$34.72,zMAc60voZVINSSbPZY4wy0Izy7TZY,Physical Good
+5/08/2024,14:59:26,None,Astronaut,1,$32.25,-$5.25,$27.00,zMAc60voZVINSSbPZY4wy0Izy7TZY,Physical Good
+5/08/2024,14:09:10,Couple,Couple - Banana,1,$54.54,-$50.00,$4.54,xljnFkpHStfrBTJyl9KrWbxeV,Physical Good
+5/08/2024,13:58:27,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,HKa849BYjSXz4kywO1v8D0qHDiMZY,Physical Good
+5/08/2024,13:57:13,None,Luffy,1,$41.47,-$6.75,$34.72,70CEMlbvmp4bUigOnG8MpS1cYEYZY,Physical Good
+5/08/2024,13:40:53,Skull Panda,Skull Panda 2,1,$41.47,-$6.75,$34.72,7Sn5tPrGuMyQlT6RywJQSSmQX3ZZY,Physical Good
+5/08/2024,13:22:51,None,Skull Panda - Rabbit Trainer,1,$46.07,-$7.50,$38.57,HA56OXo4WwsSEjmCWWzlY8qhJbDZY,Physical Good
+5/08/2024,13:22:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HA56OXo4WwsSEjmCWWzlY8qhJbDZY,Service
+4/08/2024,23:02:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DK1BuMY7XG7SCAJUY6uPFQ6DbyAZY,Service
+4/08/2024,21:45:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tVQ14CSJY2OwxdXQX82R78An6IFZY,Service
+4/08/2024,20:01:26,None,Capybara,1,$45.38,$0.00,$45.38,t773l785zDpPR65DFFLybYhgVFIZY,Physical Good
+4/08/2024,19:59:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FPL15L7IxzadKpJTGKNLdDNWO7ZZY,Service
+4/08/2024,19:51:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BRVJN7oh9c97lCY4AaSy4zVqMS8YY,Service
+4/08/2024,19:51:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BRVJN7oh9c97lCY4AaSy4zVqMS8YY,Service
+4/08/2024,19:42:18,None,Gloss Varnish,1,$4.55,$0.00,$4.55,zGh0N0VCq3he5w2ZiE9geQGrrpCZY,Service
+4/08/2024,19:41:40,None,Gloss Varnish,1,$4.55,$0.00,$4.55,lfTvKab7bwSiigp44fIlncX2IoGZY,Service
+4/08/2024,19:25:36,None,Repeat painting,1,$9.09,$0.00,$9.09,bIa1vN67ghilZGFCjw2AnDRGx1UZY,Service
+4/08/2024,19:25:24,None,Repeat painting,1,$9.08,$0.00,$9.08,D4Yfk9SCCOqqr4ggy4MdeHkZHtBZY,Service
+4/08/2024,19:08:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bkeqoNRUDGJYRePemTaYOmGkIKJZY,Service
+4/08/2024,18:18:46,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,bmbc0abtKzV4kDAb7hVHkUlDKUDZY,Physical Good
+4/08/2024,18:12:58,None,Bear Holder,1,$59.00,$0.00,$59.00,nIdIrh9wh3y7HDt494iTIjeK5v5YY,Physical Good
+4/08/2024,18:00:53,None,Jerry - Disney Cheesy Mouse,1,$37.04,-$8.00,$29.04,VZgNwtUfGqdPa8Qx5s927GFykWdZY,Physical Good
+4/08/2024,18:00:53,None,Cat Lady - Bottle,1,$37.05,-$8.00,$29.05,VZgNwtUfGqdPa8Qx5s927GFykWdZY,Physical Good
+4/08/2024,17:59:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rwCv44XLowktshgMzR8jRJrlmaEZY,Service
+4/08/2024,17:59:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rwCv44XLowktshgMzR8jRJrlmaEZY,Service
+4/08/2024,17:17:43,None,Cat Lady - Bottle,1,$36.36,$0.00,$36.36,TkmlIbxNWOCyOCSxLSErwyILqo5YY,Physical Good
+4/08/2024,17:13:45,Skull Panda,Skull Panda 5,1,$40.84,$0.00,$40.84,JNBhLOMAm3BO22mtwvEBHENfRADZY,Physical Good
+4/08/2024,17:10:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nmeZXnKGYq6CwtQS6fZgLoHsJQTZY,Service
+4/08/2024,17:10:00,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,bYa7CSRlTodxr8i6oHFz9EOhUV6YY,Physical Good
+4/08/2024,16:56:25,None,Dino Baby,2,$72.61,$0.00,$72.61,P0NoWLUfQXkXPvaL6dmwfqIQ6faZY,Physical Good
+4/08/2024,16:47:07,None,Pokemon - psyduck,1,$36.31,$0.00,$36.31,t5YYcOsvB25G8MKGoLCGGziwQQIZY,Physical Good
+4/08/2024,16:47:07,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,t5YYcOsvB25G8MKGoLCGGziwQQIZY,Physical Good
+4/08/2024,16:47:07,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,t5YYcOsvB25G8MKGoLCGGziwQQIZY,Physical Good
+4/08/2024,16:27:38,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,Rr6Hzq4CTtiaxCn8NqevET0zzaOZY,Physical Good
+4/08/2024,16:27:38,None,Custom Amount,1,$31.77,$0.00,$31.77,Rr6Hzq4CTtiaxCn8NqevET0zzaOZY,
+4/08/2024,16:22:02,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,lJY1vdD84qExZM3wQ6f3fCL6BtTZY,Physical Good
+4/08/2024,15:10:09,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,tfBjirvQj81VLrRbUwozeYjMvJJZY,Physical Good
+4/08/2024,14:52:55,None,Skull Panda - Rabbit Trainer,1,$50.00,-$50.00,$0.00,3Kwvjw2nnT5WQafhZDaQB1hraF7YY,Physical Good
+4/08/2024,14:44:24,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,7EKgSDAmglhXZzQH7B8ts5Y3JMcZY,Physical Good
+4/08/2024,14:34:08,None,Ducky - Star,2,$81.82,$0.00,$81.82,tfRl3b1UeiRZM7dqIWjmnclt3UBZY,Physical Good
+4/08/2024,14:34:08,None,Kaws - Furry,1,$45.45,$0.00,$45.45,tfRl3b1UeiRZM7dqIWjmnclt3UBZY,Physical Good
+4/08/2024,14:34:08,None,Rabbit on Ducky,1,$40.91,$0.00,$40.91,tfRl3b1UeiRZM7dqIWjmnclt3UBZY,Physical Good
+4/08/2024,14:30:43,None,Skull Panda - Rabbit Trainer,2,$90.76,$0.00,$90.76,BnMnrg4WlnYwlxlzGrhUTbKFk8CZY,Physical Good
+4/08/2024,13:47:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xFpSghhV6HMv9JAE4ZynOM1jax9YY,Service
+4/08/2024,13:44:11,None,Lion - Large,1,$36.31,$0.00,$36.31,noR88hdEkXeWcYN0PrXghGBehhEZY,Physical Good
+4/08/2024,13:44:11,Kuromi,Kuromi - Clown,1,$40.84,$0.00,$40.84,noR88hdEkXeWcYN0PrXghGBehhEZY,Physical Good
+4/08/2024,13:36:11,None,Dino Baby,1,$36.36,$0.00,$36.36,TSZBFuxpXbSfHFPtizp4Tk17ERBZY,Physical Good
+4/08/2024,13:24:06,Beverages,Drink - Banana Milk,2,$6.81,$0.00,$6.81,FpMhMITrz6FqxKni4txMMlrcHJAZY,Physical Good
+4/08/2024,13:10:31,None,Puppy - Glasses,1,$36.30,$0.00,$36.30,TqF19bW3dUlVo4dRvMfVbq092KdZY,Physical Good
+4/08/2024,13:10:31,None,Lion - Large,1,$36.31,$0.00,$36.31,TqF19bW3dUlVo4dRvMfVbq092KdZY,Physical Good
+4/08/2024,12:42:40,None,Ducky - Bag,1,$36.36,$0.00,$36.36,J9p5pBS3PIl72QGhTE70Chpd3d6YY,Physical Good
+4/08/2024,12:42:25,None,Ducky - Star,1,$40.84,$0.00,$40.84,3cDURt9wYAplmt6aSdnLNBPiwSCZY,Physical Good
+4/08/2024,12:19:18,None,Ducky - Bag,1,$36.31,$0.00,$36.31,v2S4VSRaEvd2bQP659cXdYI3OvUZY,Physical Good
+4/08/2024,12:18:25,Piggy,Piggy - Watermelon,1,$40.84,$0.00,$40.84,VjzWnmhVXubR4x4evEXlmTZah79YY,Physical Good
+4/08/2024,12:18:25,None,Kirby on Star,1,$40.85,$0.00,$40.85,VjzWnmhVXubR4x4evEXlmTZah79YY,Physical Good
+4/08/2024,11:53:36,None,Rabbit - Super,1,$40.84,$0.00,$40.84,fwz2Kju5bH1W4AHZmPKlxIJnXpXZY,Physical Good
+4/08/2024,11:29:05,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,FdCpHD1MWB9MQyinIFLiYF7SmZBZY,Physical Good
+4/08/2024,11:29:05,None,Astronaut,1,$31.77,$0.00,$31.77,FdCpHD1MWB9MQyinIFLiYF7SmZBZY,Physical Good
+4/08/2024,11:18:49,None,Kirby on Star,1,$40.84,$0.00,$40.84,ZXSLyTrsgqqHEHYJRqUgttGO3qVZY,Physical Good
+4/08/2024,11:18:49,None,Astronaut,1,$31.77,$0.00,$31.77,ZXSLyTrsgqqHEHYJRqUgttGO3qVZY,Physical Good
+3/08/2024,23:14:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dfRBg8dth4HWOEtv6KmnLu3fmTEZY,Service
+3/08/2024,23:13:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FLhf6wDFOrgCUn5YfTlL17nUlFFZY,Service
+3/08/2024,23:08:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ld2dg82WBu2G6iFPZ3gDtXFETP9YY,Service
+3/08/2024,23:03:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1xcnHFaxObxpu3WNGbocF4yUunWZY,Service
+3/08/2024,21:58:33,None,Captain US Doremon,1,$45.38,$0.00,$45.38,1HBgv0PQyqNyrVSjBN1TIHUw4ZQZY,Physical Good
+3/08/2024,21:56:19,None,Ducky - Star,1,$40.84,$0.00,$40.84,TMaZy3lecSBOCQTVtDBeNbN6WJSZY,Physical Good
+3/08/2024,21:55:51,Couple,Couple - Bear,1,$49.92,$0.00,$49.92,5X0mrCF2m4y12NkOLHqrX32xebTZY,Physical Good
+3/08/2024,21:32:11,None,Ducky - Star,1,$40.84,$0.00,$40.84,LgyT8Z8hyxytqFGDoWHYnvlihvFZY,Physical Good
+3/08/2024,21:31:38,None,Teddy With Tote,1,$36.31,$0.00,$36.31,XQZuV75GDLEJkxa9aB31i7J9gfCZY,Physical Good
+3/08/2024,21:30:50,Bear Brick,Bear Brick - Heart,1,$40.84,$0.00,$40.84,RD6zEQP01z5bDDkzbwWWElbcyACZY,Physical Good
+3/08/2024,21:30:50,Piggy,Piggy - Watermelon,1,$40.85,$0.00,$40.85,RD6zEQP01z5bDDkzbwWWElbcyACZY,Physical Good
+3/08/2024,21:20:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xHcBNMw5oVb9dmdT37pkvdVXcCdZY,Service
+3/08/2024,21:20:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xHcBNMw5oVb9dmdT37pkvdVXcCdZY,Service
+3/08/2024,21:06:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZfwC1OLBm51FZxl4NJpzUWysvAJZY,Service
+3/08/2024,21:06:29,None,Gloss Varnish,1,$4.55,$0.00,$4.55,ZfwC1OLBm51FZxl4NJpzUWysvAJZY,Service
+3/08/2024,20:24:20,None,Rabbit - Strawberry Bag,2,$63.53,$0.00,$63.53,jQ64LIvNM6NvL8we4Z2FXK2QOo6YY,Physical Good
+3/08/2024,20:18:33,None,Elephant,1,$34.08,-$25.00,$9.08,vQf0bCPuYCmteNj4CR2VOnwoPbOZY,Physical Good
+3/08/2024,20:18:03,None,Lion - Large,1,$38.61,-$25.00,$13.61,PG6ANvvqgOa7i9SIjIJsSblS9DXZY,Physical Good
+3/08/2024,20:17:41,None,Rabbit - Beanie 2,1,$38.36,-$22.22,$16.14,3EtdaE0wlAFRuRq0LJsmcSpHxB9YY,Physical Good
+3/08/2024,20:17:41,Beverages,Tea - Lipton,1,$4.79,-$2.78,$2.01,3EtdaE0wlAFRuRq0LJsmcSpHxB9YY,Physical Good
+3/08/2024,20:09:24,Couple,Couple - Bear,1,$49.92,$0.00,$49.92,ZH8ujt9EJEdNILK4LUHI6rAW4SAZY,Physical Good
+3/08/2024,19:59:19,None,Gloss Varnish,1,$4.55,$0.00,$4.55,prsXvXkrB7zuWZd9axNnozW9VnZZY,Service
+3/08/2024,19:56:45,Kuromi,Kuromi - Bowtie,1,$43.29,-$26.47,$16.82,fM98CTrPG5OqFMsnXR3mdsT5pZeZY,Physical Good
+3/08/2024,19:56:45,None,Puppy - Glasses,1,$38.48,-$23.53,$14.95,fM98CTrPG5OqFMsnXR3mdsT5pZeZY,Physical Good
+3/08/2024,19:48:06,None,Rabbit - Fish,1,$38.61,-$25.00,$13.61,1BUlgqrmJDMttpm7AnSJ0e2PfqOZY,Physical Good
+3/08/2024,19:47:18,None,Rabbit - Super,1,$43.15,-$25.00,$18.15,XEnuaov5Jl5UlWGJRMOzNJIgQwQZY,Physical Good
+3/08/2024,19:46:44,Kuromi,Kuromi - Clown,1,$43.15,-$25.00,$18.15,5Hq1vySecb3VjvzuqLjH9QwFscdZY,Physical Good
+3/08/2024,19:32:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hTyP73TdXug8UR9UYwSuJYxUbPCZY,Service
+3/08/2024,19:32:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bg0kzTdDosW0ld3hlE84yUDh0SOZY,Service
+3/08/2024,19:31:29,None,Carrot,1,$31.82,$0.00,$31.82,BpD4CYTu45jlxrYT7PXcKMCquEJZY,Physical Good
+3/08/2024,19:31:29,None,Dino - Disco,1,$40.91,$0.00,$40.91,BpD4CYTu45jlxrYT7PXcKMCquEJZY,Physical Good
+3/08/2024,19:25:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JXQiTRTNELIUcxynYnZKqnyfBV6YY,Service
+3/08/2024,19:16:11,None,Gloss Varnish,1,$4.55,$0.00,$4.55,5JRQNZXNyhGcgYJ7gmw6ChFqmjfZY,Service
+3/08/2024,19:16:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,5JRQNZXNyhGcgYJ7gmw6ChFqmjfZY,Service
+3/08/2024,19:16:11,None,Gloss Varnish,1,$4.55,$0.00,$4.55,5JRQNZXNyhGcgYJ7gmw6ChFqmjfZY,Service
+3/08/2024,18:52:36,None,Rabbit - Strawberry Bag,1,$31.82,$0.00,$31.82,XErU8Kcb6v0SdrNXyBu0eLfLzjGZY,Physical Good
+3/08/2024,18:52:36,None,Rabbit - Ice Cream,1,$36.36,$0.00,$36.36,XErU8Kcb6v0SdrNXyBu0eLfLzjGZY,Physical Good
+3/08/2024,18:05:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZrIByNMKhcUOW1M3L8Lleree48TZY,Service
+3/08/2024,17:34:40,Piggy,Piggy - Watermelon,1,$40.84,$0.00,$40.84,X6kR3EUYF8ZgOTM7NQyFB5CIXUUZY,Physical Good
+3/08/2024,17:29:54,None,Luffy,1,$40.84,$0.00,$40.84,RL2ZVSjZZVyZI5ghRi7tIQuDbkEZY,Physical Good
+3/08/2024,17:29:28,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,tntraONY8PGM3Xnb3LmYCMBEWbSZY,Physical Good
+3/08/2024,17:25:25,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,vkFaL2YAHBfq796OvSoM856ZFicZY,Physical Good
+3/08/2024,17:25:02,None,Ducky - Star,1,$40.84,$0.00,$40.84,LkauymMaInJg5ATNN8qfP7PD43VZY,Physical Good
+3/08/2024,17:23:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nMj2xB3jSot2oUWu5IcffuOzwgUZY,Service
+3/08/2024,17:23:16,None,Gloss Varnish,1,$4.55,$0.00,$4.55,nMj2xB3jSot2oUWu5IcffuOzwgUZY,Service
+3/08/2024,17:21:03,None,Carrot,1,$31.77,$0.00,$31.77,Xa2mxejG9LnzbL973yqt7rIGHKWZY,Physical Good
+3/08/2024,17:18:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fI32UBxFRnzxictemI60JLaH3YFZY,Service
+3/08/2024,17:12:50,Beverages,Soft Drink - Can,2,$5.45,$0.00,$5.45,pthDkxUh0VOltNoqwTBRJQHXJG7YY,Physical Good
+3/08/2024,17:07:25,None,Dora,1,$36.31,$0.00,$36.31,d7ZqsFeUGxYXLBhsuyDQTnggY1KZY,Physical Good
+3/08/2024,17:07:05,None,Luffy,1,$40.84,$0.00,$40.84,HojpMNE2afBbYJE8J1vcTJwxnqNZY,Physical Good
+3/08/2024,17:04:43,None,Skull Panda - Rabbit Trainer,1,$47.67,-$24.75,$22.92,Pyk6zYq3OClhtZ8uPg5TzWJ1uJ6YY,Physical Good
+3/08/2024,17:04:43,None,Luffy,1,$42.90,-$22.28,$20.62,Pyk6zYq3OClhtZ8uPg5TzWJ1uJ6YY,Physical Good
+3/08/2024,17:04:43,None,Drink - Milkis,1,$2.86,-$1.48,$1.38,Pyk6zYq3OClhtZ8uPg5TzWJ1uJ6YY,Physical Good
+3/08/2024,17:04:43,Beverages,Soft Drink - Can,1,$2.86,-$1.49,$1.37,Pyk6zYq3OClhtZ8uPg5TzWJ1uJ6YY,Physical Good
+3/08/2024,16:56:40,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,r8OWMbUbBNW6HYoEpgPg4YT3GO6YY,Physical Good
+3/08/2024,16:48:21,None,Elephant,1,$31.77,$0.00,$31.77,ljp5GoBAdUuIsHEAJLOwNICuQGSZY,Physical Good
+3/08/2024,16:48:21,None,Stitch - Hat,1,$40.84,$0.00,$40.84,ljp5GoBAdUuIsHEAJLOwNICuQGSZY,Physical Good
+3/08/2024,16:28:14,None,Skull Panda - Rabbit Trainer,1,$45.45,$0.00,$45.45,bMgfPvo7dtbtDODCYBsAVpKDSCYZY,Physical Good
+3/08/2024,16:17:55,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,hJxhfzYXgOIwfM7fcLczspqIBvGZY,Physical Good
+3/08/2024,16:17:30,Kuromi,Kuromi - Bowtie,1,$40.84,$0.00,$40.84,hV1wjXrvYEtJbcfM6ieBDPi8TxZZY,Physical Good
+3/08/2024,16:17:30,None,Rabbit - Beanie 1,1,$36.31,$0.00,$36.31,hV1wjXrvYEtJbcfM6ieBDPi8TxZZY,Physical Good
+3/08/2024,15:56:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vOqSD66iOnP6MMdxrkDDuIsVesFZY,Service
+3/08/2024,15:56:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vOqSD66iOnP6MMdxrkDDuIsVesFZY,Service
+3/08/2024,15:56:44,None,Gloss Varnish,1,$4.53,$0.00,$4.53,vOqSD66iOnP6MMdxrkDDuIsVesFZY,Service
+3/08/2024,15:52:08,None,Kaws,1,$45.38,$0.00,$45.38,lR4DLZmohklYRjPGxgailowZl2dZY,Physical Good
+3/08/2024,15:51:39,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,bSnhvruaewDv8olaRp8FGr3Zm9XZY,Physical Good
+3/08/2024,15:46:58,None,Ducky - Bag,1,$36.36,$0.00,$36.36,xbgWTxC0omICHSJaFMTONs7lW6CZY,Physical Good
+3/08/2024,15:44:58,None,Rabbit - Fish,1,$36.36,$0.00,$36.36,fQ3cwJhkNoucE7WSNgBOriNNrOYZY,Physical Good
+3/08/2024,15:44:14,None,Dora,1,$36.31,$0.00,$36.31,DMi9v7yDPtf8U8oI5e1lBzeKDh7YY,Physical Good
+3/08/2024,15:44:14,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,DMi9v7yDPtf8U8oI5e1lBzeKDh7YY,Physical Good
+3/08/2024,15:43:25,None,Baby Dragon,1,$36.31,$0.00,$36.31,tlAxIokioMzzbFleYuo4e39GYcMZY,Physical Good
+3/08/2024,15:40:37,None,Ducky - Star,1,$40.84,$0.00,$40.84,XYdE6YpY4z5fSg6PD3zGsHiOYIFZY,Physical Good
+3/08/2024,15:40:12,None,Carrot,1,$31.82,$0.00,$31.82,xLeJlsvx0bZR1g4MfgKE9aGIPOHZY,Physical Good
+3/08/2024,15:38:17,None,Lion - Large,1,$38.29,-$21.47,$16.82,HCOevZ8lMrI3lKYIxd2xnacBYfYZY,Physical Good
+3/08/2024,15:38:17,Skull Panda,Skull Panda 2,1,$43.07,-$24.15,$18.92,HCOevZ8lMrI3lKYIxd2xnacBYfYZY,Physical Good
+3/08/2024,15:38:17,Kuromi,Kuromi - Bowtie,1,$43.08,-$24.15,$18.93,HCOevZ8lMrI3lKYIxd2xnacBYfYZY,Physical Good
+3/08/2024,15:38:17,Beverages,Soft Drink - Can,2,$5.74,-$3.22,$2.52,HCOevZ8lMrI3lKYIxd2xnacBYfYZY,Physical Good
+3/08/2024,15:38:17,Beverages,Drink - Banana Milk,1,$3.59,-$2.01,$1.58,HCOevZ8lMrI3lKYIxd2xnacBYfYZY,Physical Good
+3/08/2024,15:28:28,None,Kirby on Star,1,$40.84,$0.00,$40.84,DcyhxIqUqjPOCQboIlf5lsQWKjfZY,Physical Good
+3/08/2024,15:28:02,Piggy,Piggy Birthday,1,$36.31,$0.00,$36.31,PWOgA0aJEQFBGdvsYwW3rOtKpRLZY,Physical Good
+3/08/2024,15:27:35,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,xbKjvXzrgBTXu0icWE2XYgRv7edZY,Physical Good
+3/08/2024,15:20:51,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,t3N3En7Wbcm5SzAaThgF5xgDlidZY,Physical Good
+3/08/2024,15:09:44,None,Skull Panda - Rabbit Trainer,1,$47.69,-$25.00,$22.69,3UTsikGClxNhzstoyqX0G4do3MVZY,Physical Good
+3/08/2024,15:08:04,None,Rabbit - Ice Cream,1,$38.61,-$25.00,$13.61,BtR2Gq2ofo7kte5ENIEV0LK7lpfZY,Physical Good
+3/08/2024,15:06:31,None,Astronaut,1,$31.77,$0.00,$31.77,v8HXqDXafOppdeDsVXpRDNPqJhBZY,Physical Good
+3/08/2024,15:05:46,None,Rabbit - Beanie 1,1,$36.31,$0.00,$36.31,nU9ZBdq6vpHwcNTv60ChFjNS6hOZY,Physical Good
+3/08/2024,15:05:46,None,Luffy,1,$40.84,$0.00,$40.84,nU9ZBdq6vpHwcNTv60ChFjNS6hOZY,Physical Good
+3/08/2024,15:02:16,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,htPR6qyh9Y90e6K6HUgffo7X9iLZY,Physical Good
+3/08/2024,15:00:06,None,Cat Lady - Bottle,1,$36.31,$0.00,$36.31,3mSdjDykaTKTngM1HC3JRxZwYw5YY,Physical Good
+3/08/2024,15:00:06,None,Puppy - Glasses,1,$36.30,$0.00,$36.30,3mSdjDykaTKTngM1HC3JRxZwYw5YY,Physical Good
+3/08/2024,15:00:06,None,Astronaut,1,$31.77,$0.00,$31.77,3mSdjDykaTKTngM1HC3JRxZwYw5YY,Physical Good
+3/08/2024,14:56:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,llOHe3id3VFqmD9vRMXEAvtwBFBZY,Service
+3/08/2024,14:56:58,None,Gloss Varnish,1,$4.54,$0.00,$4.54,llOHe3id3VFqmD9vRMXEAvtwBFBZY,Service
+3/08/2024,14:43:31,None,Ducky - Bag,1,$36.31,$0.00,$36.31,lBSSwGz6GDpKrMLjAeHsIIfCkHcZY,Physical Good
+3/08/2024,14:42:51,None,Jerry - Disney Cheesy Mouse,1,$36.31,$0.00,$36.31,Jpbfrs4xUihRY9TqLatffbLOsDFZY,Physical Good
+3/08/2024,14:42:51,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Jpbfrs4xUihRY9TqLatffbLOsDFZY,Physical Good
+3/08/2024,14:29:14,Beverages,Tea - Lipton,1,$4.54,$0.00,$4.54,TQOqgGUKi4B8exonu8KsfhLv0UIZY,Physical Good
+3/08/2024,14:18:06,None,Skull Panda - Rabbit Trainer,1,$45.38,$0.00,$45.38,Doq2v2XlyQmpJDrRD6GbQA3xFu7YY,Physical Good
+3/08/2024,14:18:06,None,Kaws,1,$45.39,$0.00,$45.39,Doq2v2XlyQmpJDrRD6GbQA3xFu7YY,Physical Good
+3/08/2024,14:18:06,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,Doq2v2XlyQmpJDrRD6GbQA3xFu7YY,Physical Good
+3/08/2024,14:16:22,None,Elephant,1,$31.77,$0.00,$31.77,xn0JfWnCx0qRDA6Dhj8kRsyMBALZY,Physical Good
+3/08/2024,14:16:04,None,Lotso Bear (waving),1,$40.84,$0.00,$40.84,BlZWxRI3F2XBZcytEJ8bG7c42zTZY,Physical Good
+3/08/2024,14:12:53,None,Teddy With Tote,1,$36.31,$0.00,$36.31,llUK8Wks7CfstyeiWKoLgmuypfJZY,Physical Good
+3/08/2024,14:12:53,None,Pochacco,1,$40.84,$0.00,$40.84,llUK8Wks7CfstyeiWKoLgmuypfJZY,Physical Good
+3/08/2024,14:09:37,Skull Panda,Skull Panda 2,1,$40.91,$0.00,$40.91,N5GrqvLeC8BE9vnPqgw20SJJO6RZY,Physical Good
+3/08/2024,14:09:37,Skull Panda,Skull Panda 1,1,$40.91,$0.00,$40.91,N5GrqvLeC8BE9vnPqgw20SJJO6RZY,Physical Good
+3/08/2024,14:09:37,Skull Panda,Skull Panda 2,1,$40.91,$0.00,$40.91,N5GrqvLeC8BE9vnPqgw20SJJO6RZY,Physical Good
+3/08/2024,13:48:21,Piggy,Cat - Piggy,1,$36.31,$0.00,$36.31,BFrnziEFQZ13LQiIZHqb4e4YwFPZY,Physical Good
+3/08/2024,13:43:43,None,Apple Baby,1,$31.77,$0.00,$31.77,ZxhWRkdlwg5lM1Wu1wcPwf3eJ7YZY,Physical Good
+3/08/2024,13:43:23,Skull Panda,Skull Panda 4,1,$40.84,$0.00,$40.84,zg4d7KJnmszKbkPqgrX9SwnrYrIZY,Physical Good
+3/08/2024,13:39:41,Piggy,Smile Bathtub Piggy,1,$36.30,$0.00,$36.30,jQCu8y8cDlywz10Tp8WUIJei8oZZY,Physical Good
+3/08/2024,13:39:41,None,Astronaut,1,$31.77,$0.00,$31.77,jQCu8y8cDlywz10Tp8WUIJei8oZZY,Physical Good
+3/08/2024,13:38:51,None,Pochacco,1,$40.84,$0.00,$40.84,baDngtkReuWAdhtkm9pe9TqWDOeZY,Physical Good
+3/08/2024,13:38:51,None,Luffy,1,$40.85,$0.00,$40.85,baDngtkReuWAdhtkm9pe9TqWDOeZY,Physical Good
+3/08/2024,13:30:44,None,Astronaut,1,$31.77,$0.00,$31.77,TOVsBzGXnvlCsH5E2Y5BhcVUNQQZY,Physical Good
+3/08/2024,13:30:30,None,Elephant,1,$31.77,$0.00,$31.77,Zjmop742ID1g7HPE2fXVJwD0TPFZY,Physical Good
+3/08/2024,13:30:30,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,Zjmop742ID1g7HPE2fXVJwD0TPFZY,Physical Good
+3/08/2024,13:29:41,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,HQ1mZmND19EzfSxjqnwWahpONJeZY,Physical Good
+3/08/2024,13:22:33,None,Astronaut,1,$31.77,$0.00,$31.77,X8prnABHbTKXCU6DmPSpx1XWWDQZY,Physical Good
+3/08/2024,13:22:06,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,bSB8oGl5Cy8R7veLn3BBEYu6TTLZY,Physical Good
+3/08/2024,12:59:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3MLuwcFLGkInaMO45sLJilXj9PKZY,Service
+3/08/2024,12:59:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3MLuwcFLGkInaMO45sLJilXj9PKZY,Service
+3/08/2024,12:59:24,None,Gloss Varnish,1,$4.53,$0.00,$4.53,3MLuwcFLGkInaMO45sLJilXj9PKZY,Service
+3/08/2024,12:58:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Dm9gdfYYEFIWKcUQC47GKRAYnhRZY,Service
+3/08/2024,12:58:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Dm9gdfYYEFIWKcUQC47GKRAYnhRZY,Service
+3/08/2024,12:57:16,None,Astronaut,1,$31.77,$0.00,$31.77,Pi21eeKo9Kf9cPf0fNTHPLx8DqLZY,Physical Good
+3/08/2024,12:57:16,None,Ducky - Bag,1,$36.30,$0.00,$36.30,Pi21eeKo9Kf9cPf0fNTHPLx8DqLZY,Physical Good
+3/08/2024,12:35:08,Kuromi,Kuromi - Evil Large,1,$45.38,$0.00,$45.38,3Si0mM5FsoF5bAYnSsZdAf7uKnJZY,Physical Good
+3/08/2024,12:35:08,Piggy,Piggy The Queen,1,$36.31,$0.00,$36.31,3Si0mM5FsoF5bAYnSsZdAf7uKnJZY,Physical Good
+3/08/2024,12:27:01,None,Lava,1,$31.82,$0.00,$31.82,X2OLQcoB2yCilRIjzbPwiJweV,Physical Good
+3/08/2024,12:27:01,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,X2OLQcoB2yCilRIjzbPwiJweV,Physical Good
+3/08/2024,12:15:47,None,Cute Dragon,1,$38.61,-$25.00,$13.61,LuJXcszbSJKhA1iPEPpF8gp8ppcZY,Physical Good
+3/08/2024,12:15:13,None,Carrot,1,$33.88,-$22.83,$11.05,rY6jtEmHfx4MZrIM6Hlh4bC1BkaZY,Physical Good
+3/08/2024,12:15:13,None,Dino - Disco,1,$43.56,-$29.35,$14.21,rY6jtEmHfx4MZrIM6Hlh4bC1BkaZY,Physical Good
+3/08/2024,12:15:13,None,Elephant,1,$33.87,-$22.82,$11.05,rY6jtEmHfx4MZrIM6Hlh4bC1BkaZY,Physical Good
+3/08/2024,12:14:25,Piggy,Smile Bathtub Piggy,1,$38.19,-$20.41,$17.78,P6wehnqN96JN3occwavIOymDczIZY,Physical Good
+3/08/2024,12:14:25,Beverages,Soft Drink - Can,3,$8.59,-$4.59,$4.00,P6wehnqN96JN3occwavIOymDczIZY,Physical Good
+3/08/2024,12:13:29,None,Lotso Bear - Strawberry,1,$43.15,-$25.00,$18.15,XCiy7HHqTqTo5bfrvl8eYpPiGqaZY,Physical Good
+3/08/2024,11:53:15,None,Stitch - Hat,2,$81.69,$0.00,$81.69,rgEoEPWjJwIKe21SoENNSSVOP4WZY,Physical Good
+3/08/2024,11:53:15,Beverages,Water - Bottle,1,$2.72,$0.00,$2.72,rgEoEPWjJwIKe21SoENNSSVOP4WZY,Physical Good
+3/08/2024,11:35:05,None,Luffy,1,$40.84,$0.00,$40.84,dNsbur4xTMQeKYZYu83bY4i3g2fZY,Physical Good
+3/08/2024,11:35:05,None,Cat Lady - Bottle,1,$36.31,$0.00,$36.31,dNsbur4xTMQeKYZYu83bY4i3g2fZY,Physical Good
+3/08/2024,11:26:43,None,Bear Holder,1,$59.00,$0.00,$59.00,dhY6dFxA8KLdeiUsM7ewA2IAMIdZY,Physical Good
+3/08/2024,11:26:43,None,Cute Dragon,1,$36.30,$0.00,$36.30,dhY6dFxA8KLdeiUsM7ewA2IAMIdZY,Physical Good
+3/08/2024,11:23:44,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,ruXGWMVHesfvAtKpcbAeKPnMQe9YY,Physical Good
+3/08/2024,11:13:40,None,Bear Holder,1,$62.11,-$33.74,$28.37,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,Kuromi,Kuromi - Bowtie,1,$43.00,-$23.36,$19.64,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,None,Pikachu on Saturn,1,$43.00,-$23.35,$19.65,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,None,Rabbit - Ice Cream,1,$38.22,-$20.76,$17.46,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,None,Cat Lady - Bottle,1,$38.23,-$20.76,$17.47,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,Beverages,Soft Drink - Can,2,$5.73,-$3.11,$2.62,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,Beverages,Water - Bottle,1,$2.87,-$1.56,$1.31,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+3/08/2024,11:13:40,None,Kirby on Star,1,$43.00,-$23.36,$19.64,NtgVNqJZB5OelebjAvaFZDYFauFZY,Physical Good
+2/08/2024,22:05:52,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,hnkvpJMarxT5oPcbdVTSpHwhhOfZY,Physical Good
+2/08/2024,22:05:52,None,Luffy,1,$40.84,$0.00,$40.84,hnkvpJMarxT5oPcbdVTSpHwhhOfZY,Physical Good
+2/08/2024,21:58:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,f0t03bLhRMo3aQhUAFRbqlE1J1aZY,Service
+2/08/2024,21:55:56,Skull Panda,Skull Panda 2,1,$40.84,$0.00,$40.84,lDfIAw8AZNsOr1DezBuahRFp5AeZY,Physical Good
+2/08/2024,21:55:31,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,5970NIMOLU7OpvINT6w31tgC5dNZY,Physical Good
+2/08/2024,21:46:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bIE63TzSxPXWe3cVqtSjcuAu6YDZY,Service
+2/08/2024,21:28:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JJVWAa4zQZl97qwXu4Ms8QIghzFZY,Service
+2/08/2024,21:28:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JJVWAa4zQZl97qwXu4Ms8QIghzFZY,Service
+2/08/2024,21:28:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JJVWAa4zQZl97qwXu4Ms8QIghzFZY,Service
+2/08/2024,21:28:48,None,Gloss Varnish,1,$4.53,$0.00,$4.53,JJVWAa4zQZl97qwXu4Ms8QIghzFZY,Service
+2/08/2024,21:04:52,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,LGFxhAsQbWegek34yvoJzstXCU6YY,Physical Good
+2/08/2024,21:04:11,None,Doremon - Headphone,1,$45.38,$0.00,$45.38,Z1HYFco4yyPFFPdvwrzsdQgt6zNZY,Physical Good
+2/08/2024,20:19:10,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,zGTXEpDIv07Gm9bQ3F1WgWnjU4WZY,Physical Good
+2/08/2024,20:19:10,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,zGTXEpDIv07Gm9bQ3F1WgWnjU4WZY,Physical Good
+2/08/2024,19:46:41,None,Luffy,1,$40.84,$0.00,$40.84,dpowpl69VPkGQPptSBZPFzKPteSZY,Physical Good
+2/08/2024,19:38:15,None,Ducky - Star,1,$40.84,$0.00,$40.84,BpPg7SsJUsJ4n7K4eOkPb9qksGeZY,Physical Good
+2/08/2024,19:30:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RdbZaW220Zq3v0bRYHJoNHxWz3dZY,Service
+2/08/2024,19:30:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RdbZaW220Zq3v0bRYHJoNHxWz3dZY,Service
+2/08/2024,19:30:49,None,Gloss Varnish,1,$4.53,$0.00,$4.53,RdbZaW220Zq3v0bRYHJoNHxWz3dZY,Service
+2/08/2024,19:05:48,None,Fox Nine Tailed - Large,1,$49.92,$0.00,$49.92,Vxu2G8hWFgoBQ9E01lDI7yeFYa8YY,Physical Good
+2/08/2024,18:58:19,None,Dino - Disco,1,$40.84,$0.00,$40.84,hZptzMswyMeMdvA8TTRoDAbNMDIZY,Physical Good
+2/08/2024,18:56:50,None,Rabbit - Beanie 1,1,$36.31,$0.00,$36.31,DcGLRoU5uxwRlTcAFl5PWzoMu5cZY,Physical Good
+2/08/2024,18:54:55,None,Puppy - Glasses,2,$72.61,$0.00,$72.61,DE2TURF1WzTnY9N4ha987LvXffLZY,Physical Good
+2/08/2024,18:53:09,None,Doremon - Headphone,1,$45.38,$0.00,$45.38,XU5z89viv8X6AMHfJjSps4sBMQaZY,Physical Good
+2/08/2024,18:52:15,Piggy,Piggy Happy,1,$36.31,$0.00,$36.31,H6wTsrKue2b3K1vc8GPfEwq8N07YY,Physical Good
+2/08/2024,18:51:53,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,vqAyHxEePSyZBAc2JnJkSKEJp0dZY,Physical Good
+2/08/2024,18:51:36,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,tv7keJ25KdqP9wrqEjQZ51Y9F85YY,Physical Good
+2/08/2024,18:50:43,None,Teddy With Tote,1,$36.30,$0.00,$36.30,d3hljFz4fPUDPL0qwjny5yymdaCZY,Physical Good
+2/08/2024,18:50:43,Beverages,Tea - Lipton,1,$4.54,$0.00,$4.54,d3hljFz4fPUDPL0qwjny5yymdaCZY,Physical Good
+2/08/2024,18:50:19,None,Cute Dragon,1,$36.31,$0.00,$36.31,ZJdsqTkdnoLeKOkalbETfTj27DBZY,Physical Good
+2/08/2024,18:50:00,None,Rabbit - Fish,1,$36.31,$0.00,$36.31,rU8Lo6bdssYVPrtmMEJJQ4Up8vNZY,Physical Good
+2/08/2024,18:49:38,None,Rabbit - Strawberry Bag,1,$31.77,$0.00,$31.77,1ZoN4ZHlxefVzT4UvUhW4VWI5mGZY,Physical Good
+2/08/2024,18:49:07,None,Ducky - Star,1,$40.84,$0.00,$40.84,JjWiTN1LxvVySMcU1P0hfmZG06IZY,Physical Good
+2/08/2024,18:48:40,None,Teddy With Tote,1,$36.31,$0.00,$36.31,PghdLWbkM94yTouCLBIljjmDVtCZY,Physical Good
+2/08/2024,18:48:19,Skull Panda,Skull Panda 1,1,$40.84,$0.00,$40.84,dNGqfjKeBhLRdKMCm0PhM5HU9bUZY,Physical Good
+2/08/2024,18:47:42,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,j8yviICLrre8RDkEEBx8UWAJFdVZY,Physical Good
+2/08/2024,18:47:10,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,FdSJJImCCOTyjkotdEGq0qpIZFSZY,Physical Good
+2/08/2024,17:48:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3YHzLjlubZ4YzTNxojemDbVKhlVZY,Service
+2/08/2024,17:48:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3YHzLjlubZ4YzTNxojemDbVKhlVZY,Service
+2/08/2024,17:45:41,Piggy,Piggy Bottle,1,$36.30,$0.00,$36.30,HsVDRRlGGu4N5xSkWxpv20qjrfZZY,Physical Good
+2/08/2024,17:45:41,None,Stitch - Tiger Hat,1,$40.84,$0.00,$40.84,HsVDRRlGGu4N5xSkWxpv20qjrfZZY,Physical Good
+2/08/2024,17:45:41,None,Ducky - Bag,1,$36.31,$0.00,$36.31,HsVDRRlGGu4N5xSkWxpv20qjrfZZY,Physical Good
+2/08/2024,17:17:11,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,pLclgIUk7tkRPnjUT7PXR8jmBhQZY,Physical Good
+2/08/2024,17:03:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7wqzfWUAYoVlJeI3T7r6J7wKv8LZY,Service
+2/08/2024,17:03:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7wqzfWUAYoVlJeI3T7r6J7wKv8LZY,Service
+2/08/2024,16:28:01,None,Lava,1,$31.77,$0.00,$31.77,vmYbnqcsgJjthfSJvKoXT8KT6J6YY,Physical Good
+2/08/2024,15:28:43,None,Cute Dragon,1,$36.31,$0.00,$36.31,ZXoglAcj1UmkCWFTpEiLoA8FC3HZY,Physical Good
+2/08/2024,15:28:25,None,Cute Dragon,1,$36.31,$0.00,$36.31,noDHV3MesccwcCHkrzWf4BLLGNTZY,Physical Good
+2/08/2024,15:23:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XQBejd6g3dwgJqWSqN1INaAVnAgZY,Service
+2/08/2024,15:13:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nA3VoCKI1G8dzgJNWyigxaS0Q0WZY,Service
+2/08/2024,15:13:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nA3VoCKI1G8dzgJNWyigxaS0Q0WZY,Service
+2/08/2024,14:16:13,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,ZnUscp2RaPKsoPn42HictXO3v3RZY,Physical Good
+2/08/2024,14:13:18,Skull Panda,Skull Panda 5,1,$41.47,-$6.75,$34.72,Pglbx4k3nRKUWPy02CkhaIUtSIZZY,Physical Good
+2/08/2024,14:07:38,None,Angel - Small,1,$32.25,-$5.25,$27.00,V1cePwNpSgty5ionYypnb99e5qOZY,Physical Good
+2/08/2024,13:45:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xPuCuiGjXSnu1CxFWj9NLxtpb6YZY,Service
+2/08/2024,12:55:51,None,Angel - Small,1,$32.25,-$5.25,$27.00,FbXKUkRhEqhGOsDotFf47WadQUbZY,Physical Good
+2/08/2024,12:55:51,Skull Panda,Skull Panda 4,1,$41.47,-$6.75,$34.72,FbXKUkRhEqhGOsDotFf47WadQUbZY,Physical Good
+2/08/2024,12:37:43,None,Cute Dragon,1,$36.86,-$6.00,$30.86,VbltrJZTEWkJjFRMx7GeeFUsG1bZY,Physical Good
+2/08/2024,12:37:05,None,Teddy With Tote,1,$36.86,-$6.00,$30.86,Ndsv5AVWPxQXwZie4DwyHE0fN9FZY,Physical Good
+2/08/2024,12:19:55,None,Captain US Doremon,1,$46.07,-$7.50,$38.57,Zn4QzMuITKahEJ6QBoosD2no2lKZY,Physical Good
+2/08/2024,12:19:55,None,Stitch - Dragon Hat,1,$41.47,-$6.75,$34.72,Zn4QzMuITKahEJ6QBoosD2no2lKZY,Physical Good
+2/08/2024,11:21:37,Beverages,Water - Bottle,1,$2.86,-$1.50,$1.36,nuydnI4nctzukA3bAM3CX75x49UZY,Physical Good
+2/08/2024,11:16:03,Couple,Couple - Avo Duck,1,$50.68,-$8.25,$42.43,p1pDF2omIwxRGy9rXeoCeJC5LZKZY,Physical Good
+1/08/2024,22:02:42,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lrJzWRfIaWf3fqABJndvzhx1buYZY,Service
+1/08/2024,19:57:16,None,Custom Amount,1,$4.54,$0.00,$4.54,jKLydJpKqPWy9lU7hp9RkmdbbuMZY,
+1/08/2024,19:49:49,None,Rabbit - Ice Cream,1,$36.31,$0.00,$36.31,dbnnt6MdOMGei1kyanTeZLyZlFgZY,Physical Good
+1/08/2024,18:59:05,Couple,Couple - Avo Duck,1,$49.92,$0.00,$49.92,VDDY2llwN6qfZklqyU76Xa93qATZY,Physical Good
+1/08/2024,18:57:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,J7ms40KEx6Zvs5GodcfRpyHx7FFZY,Service
+1/08/2024,18:57:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,J7ms40KEx6Zvs5GodcfRpyHx7FFZY,Service
+1/08/2024,16:59:17,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,1dWh5g8abDoCXYjtuyHHXZqw3qcZY,Physical Good
+1/08/2024,16:59:04,Beverages,Soft Drink - Can,1,$2.72,$0.00,$2.72,RvAxboQfW5mix60SWqp8h4xt74IZY,Physical Good
+1/08/2024,16:54:28,None,Angel - Small,1,$31.77,$0.00,$31.77,TI6UU8O3qHwenbWgf1wizXbGU0VZY,Physical Good
+1/08/2024,16:54:28,None,Naruto,1,$40.84,$0.00,$40.84,TI6UU8O3qHwenbWgf1wizXbGU0VZY,Physical Good
+1/08/2024,16:31:33,None,Angel - Small,1,$31.77,$0.00,$31.77,VDNZ8Fv870XWF18ko2t8QWkDpCWZY,Physical Good
+1/08/2024,16:31:33,None,Rabbit - Beanie 2,1,$36.30,$0.00,$36.30,VDNZ8Fv870XWF18ko2t8QWkDpCWZY,Physical Good
+1/08/2024,16:27:26,None,Fox Nine Tailed - Large,1,$50.00,$0.00,$50.00,phJG7CeWkOMRk1sXKIM3RcteV,Physical Good
+1/08/2024,16:27:26,None,Kaws - Furry,1,$45.45,$0.00,$45.45,phJG7CeWkOMRk1sXKIM3RcteV,Physical Good
+1/08/2024,15:43:37,None,Stitch - Hat,1,$40.84,$0.00,$40.84,rUofPgwTF6YwoXvLkZdRRhoSJc6YY,Physical Good
+1/08/2024,15:12:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,joI1XpANDZQ490IEDEsv8CQMoYIZY,Service
+1/08/2024,14:56:11,None,Dino - Small,1,$36.86,-$6.00,$30.86,3GSBjw2VWLy0Np1k3G3C8X9BOIKZY,Physical Good
+1/08/2024,14:37:07,Couple,Couple - Avo Duck,1,$50.68,-$8.25,$42.43,tLP5mtyhiVGR7IzuvS0fORyfICPZY,Physical Good
+1/08/2024,14:14:58,None,Gloss Varnish,1,$4.61,-$0.75,$3.86,RpRf2rpTwRvthqB26ig1lRMwAyTZY,Service
+1/08/2024,13:02:37,Couple,Couple - Avo Duck,1,$50.68,-$8.25,$42.43,dHjeWmYeaWYQ7g7c4ket77ZRWyFZY,Physical Good
+1/08/2024,12:35:37,None,Luffy,1,$41.46,-$6.75,$34.71,XsV1BpriSKwOqLvtcT8r3n4E4JMZY,Physical Good
+1/08/2024,12:35:37,None,Gloss Varnish,1,$4.61,-$0.75,$3.86,XsV1BpriSKwOqLvtcT8r3n4E4JMZY,Service
+1/08/2024,12:16:36,None,Luffy,1,$41.47,-$6.75,$34.72,Fv7hJuihmdoQs5EZnYwc1LP5ZaGZY,Physical Good
+1/08/2024,12:14:33,None,Rabbit - Ice Cream,1,$36.86,-$6.00,$30.86,jWPVT7N637YPCLSpVv0bSOjrWGIZY,Physical Good

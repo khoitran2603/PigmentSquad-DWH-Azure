@@ -1,0 +1,1056 @@
+Date,Time,Category,Item,Qty,Product Sales,Discounts,Net Sales,Transaction ID,Itemization Type
+31/12/2024,17:37:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nsXyyfzfnzmvrDpTZmaCJHnCX5NZY,Service
+31/12/2024,17:13:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tXHq9uWi0u1pdcsXLDo7AN2tINMZY,Service
+31/12/2024,17:13:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tXHq9uWi0u1pdcsXLDo7AN2tINMZY,Service
+31/12/2024,17:02:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hrUcsTr28WnwBnpSSNfzHPWW7uQZY,Service
+31/12/2024,17:02:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,h3ywPXTPCftAV1a0aqp280m1TPVZY,Service
+31/12/2024,17:02:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,h3ywPXTPCftAV1a0aqp280m1TPVZY,Service
+31/12/2024,16:29:35,None,Capybara Chicken Hat - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,bEIRnyP3ITI4yatMpiN5FBGSdxAZY,Physical Good
+31/12/2024,16:29:35,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,bEIRnyP3ITI4yatMpiN5FBGSdxAZY,Physical Good
+31/12/2024,15:45:43,Beverages,Drink - Milkis,1,$2.73,$0.00,$2.73,9JYgJgnKx9mGFIIl0rMv1P04pY7YY,Physical Good
+31/12/2024,15:44:37,None,Capybara Turtle Hat - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,nGMKwlBYwGTRCWlSZ9RUqFBC87FZY,Physical Good
+31/12/2024,15:44:37,None,Custom Amount,1,$40.84,$0.00,$40.84,nGMKwlBYwGTRCWlSZ9RUqFBC87FZY,
+31/12/2024,15:44:37,None,Larva Red - DIY Figurine Painting Kit,1,$31.77,$0.00,$31.77,nGMKwlBYwGTRCWlSZ9RUqFBC87FZY,Physical Good
+31/12/2024,15:08:56,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,fKkadE87ll61LVfhFyOXjKkhYQOZY,Physical Good
+31/12/2024,15:08:56,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,fKkadE87ll61LVfhFyOXjKkhYQOZY,Physical Good
+31/12/2024,15:08:10,None,Larva Yellow Funny - DIY Figurine Painting Kit,1,$31.77,$0.00,$31.77,d5GvblchLGSjnvEdD3GNApiwxtEZY,Physical Good
+31/12/2024,15:07:51,Sanrio,Pompom - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,hri7UTIERvvmBmlNl7lrstWTyWXZY,Physical Good
+31/12/2024,14:20:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tNkzt8ErO3TEigp756SdcVrNKsAZY,Service
+31/12/2024,13:46:47,None,Larva Pink - DIY Figurine Painting Kit,1,$31.82,$0.00,$31.82,TGFy181y3dhJSLMocLsPXWschufZY,Physical Good
+31/12/2024,13:46:47,None,Larva Yellow Funny - DIY Figurine Painting Kit,1,$31.82,$0.00,$31.82,TGFy181y3dhJSLMocLsPXWschufZY,Physical Good
+31/12/2024,13:46:47,None,Larva Red - DIY Figurine Painting Kit,1,$31.81,$0.00,$31.81,TGFy181y3dhJSLMocLsPXWschufZY,Physical Good
+31/12/2024,13:41:46,None,Teddy with Tote - DIY Figurine Painting Kit,2,$77.06,-$48.19,$28.87,5r2OVmkv73o9TvQFMscTJHaKKoQZY,Physical Good
+31/12/2024,13:41:46,Beverages,Drink - WATER,1,$2.89,-$1.81,$1.08,5r2OVmkv73o9TvQFMscTJHaKKoQZY,Physical Good
+31/12/2024,13:31:59,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,fOs996vjSsxEYLvLcusqCqfvShOZY,Service
+31/12/2024,13:22:54,None,Astronaut - DIY Figurine Painting Kit,1,$36.67,-$4.00,$32.67,L2N3mPkcPen11DfNb3770GrK0RCZY,Physical Good
+31/12/2024,13:22:54,None,Larva Pink - DIY Figurine Painting Kit,1,$32.09,-$3.50,$28.59,L2N3mPkcPen11DfNb3770GrK0RCZY,Physical Good
+31/12/2024,13:22:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,L2N3mPkcPen11DfNb3770GrK0RCZY,Service
+31/12/2024,13:22:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,L2N3mPkcPen11DfNb3770GrK0RCZY,Service
+31/12/2024,13:04:58,Beverages,Drink - Lipton LEMON,1,$5.00,-$5.00,$0.00,fO2kFQew1xeF8x3eAjlFMWg51DFZY,Physical Good
+31/12/2024,13:03:57,None,Gloss Varnish,1,$5.00,-$5.00,$0.00,nuUWR1Bd7zjO3tkhBIlvBOQf7PfZY,Service
+31/12/2024,13:02:41,None,Dragon Cutie - DIY Figurine Painting Kit,1,$36.36,$0.00,$36.36,B91G9VCIutQPlshrvptEyNEmpkHZY,Physical Good
+31/12/2024,12:58:52,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,D23VjXo9glgD56WVOGYvPM7EG3JZY,Physical Good
+31/12/2024,11:54:10,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,NZ2dbbbUKBN83tXZISWRibGIdbHZY,Physical Good
+31/12/2024,11:52:41,None,Larva Yellow Funny - DIY Figurine Painting Kit,1,$31.82,$0.00,$31.82,hdXz3WIx429s9LZm4boQJRVBIt6YY,Physical Good
+30/12/2024,20:35:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3aQhWMa0dGnKmKTQpUyR59nBAHPZY,Service
+30/12/2024,20:35:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3aQhWMa0dGnKmKTQpUyR59nBAHPZY,Service
+30/12/2024,19:54:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PApJ3OAUCjvM7yJzhUzWcpfChOKZY,Service
+30/12/2024,19:37:41,None,Rabbit holds Fish - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,dNslNck6nQhW9HouQAMaoYk5ZRCZY,Physical Good
+30/12/2024,19:35:49,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,NXroBCj7poZLZmrnANfSXEKpmo9YY,Physical Good
+30/12/2024,18:40:24,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,rG5XrRtDYvpGTw9amj3Ha96nDUHZY,Physical Good
+30/12/2024,18:40:24,None,Bubu lala Snack -DIY Figurine Painting Kit,1,$45.39,$0.00,$45.39,rG5XrRtDYvpGTw9amj3Ha96nDUHZY,Physical Good
+30/12/2024,18:40:24,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,rG5XrRtDYvpGTw9amj3Ha96nDUHZY,Physical Good
+30/12/2024,18:15:01,None,Capybara Chicken Hat - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,7QEk9q222gIGOEYec00ETirv9UeZY,Physical Good
+30/12/2024,17:45:22,Beverages,Drink - Banana Milk,3,$10.21,$0.00,$10.21,Ti13m6wt05E6O2lWQxybKukYsPSZY,Physical Good
+30/12/2024,16:43:00,Sanrio,Kuro the Eclipse - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,PEVYs2ctu8toojRD1C3xW1K6NlMZY,Physical Good
+30/12/2024,16:07:09,Raws/Kaws,Raws the OG - DIY  Figurine Painting Kit,1,$47.95,-$27.78,$20.17,xHqcFtpjHMQZMjZE7KDHtxjpNdeZY,Physical Good
+30/12/2024,16:07:09,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$38.36,-$22.22,$16.14,xHqcFtpjHMQZMjZE7KDHtxjpNdeZY,Physical Good
+30/12/2024,15:48:12,None,Capybara on Donut - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,JnY8C2vk55jIm9swSapF65QXpwMZY,Physical Good
+30/12/2024,15:29:16,None,Mel with Necklace - DIY  Figurine Painting Kit,2,$81.69,$0.00,$81.69,1FUavk1FMpxdrbPquB1gjXLsRAJZY,Physical Good
+30/12/2024,14:31:28,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,dhUWoZwMJ1horSAKWVPHt7gIs5OZY,Physical Good
+30/12/2024,14:31:28,Beverages,Drink - Milkis,1,$2.73,$0.00,$2.73,dhUWoZwMJ1horSAKWVPHt7gIs5OZY,Physical Good
+30/12/2024,13:45:54,None,Piggy the Queen - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,JlPSdtNAV762KOXZodhOqCNd3EHZY,Physical Good
+30/12/2024,13:34:26,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,3sLwPTI2G0nQcMC3umJuIwiW49ZZY,Physical Good
+30/12/2024,13:08:16,None,SP the Sailor Moon - DIY Figurine Painting Kit,1,$47.72,-$25.00,$22.72,z0GnOAk5SS9FUXTl8SI7aWi7cPBZY,Physical Good
+30/12/2024,13:08:16,None,Nami - DIY  Figurine Painting Kit,1,$47.73,-$25.00,$22.73,z0GnOAk5SS9FUXTl8SI7aWi7cPBZY,Physical Good
+30/12/2024,12:58:00,None,Piggy the Queen - DIY  Figurine Painting Kit,1,$36.30,$0.00,$36.30,lde5kibtnr8L72cBKicaetm0B3VZY,Physical Good
+30/12/2024,12:58:00,None,Piggy Happy - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,lde5kibtnr8L72cBKicaetm0B3VZY,Physical Good
+30/12/2024,12:58:00,Sanrio,Cinna with Bowtied - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,lde5kibtnr8L72cBKicaetm0B3VZY,Physical Good
+30/12/2024,12:54:19,None,Larva Yellow Funny - DIY Figurine Painting Kit,1,$31.77,$0.00,$31.77,NjrDQI0ifG7SUd03PdWfMAHwF9aZY,Physical Good
+30/12/2024,12:54:19,None,Teddy with Tote - DIY Figurine Painting Kit,1,$36.30,$0.00,$36.30,NjrDQI0ifG7SUd03PdWfMAHwF9aZY,Physical Good
+30/12/2024,12:54:19,None,Capybara on Crocodile - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,NjrDQI0ifG7SUd03PdWfMAHwF9aZY,Physical Good
+30/12/2024,12:33:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NBomeydBYXDd9DA4WzvfOtse5NYZY,Service
+30/12/2024,12:24:35,None,Bubu Lala Flower B - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,vK693iPnwmG3OCSO8I2cbij6jMAZY,Physical Good
+30/12/2024,12:24:18,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,bw0WZHwnJJf7gQikpvY2hw3xhr8YY,Physical Good
+30/12/2024,11:56:49,Sanrio,Kuro the Magician - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,feYHvTu5iAyacsnMgmujqCSSvhHZY,Physical Good
+30/12/2024,11:56:49,None,Rabbit with Glasses - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,feYHvTu5iAyacsnMgmujqCSSvhHZY,Physical Good
+30/12/2024,11:56:49,Raws/Kaws,Raws the OG - DIY  Figurine Painting Kit,1,$45.38,$0.00,$45.38,feYHvTu5iAyacsnMgmujqCSSvhHZY,Physical Good
+30/12/2024,11:53:04,None,Dragon Cutie - DIY Figurine Painting Kit,1,$36.30,$0.00,$36.30,bUCiHclUUhBUKdFMpZo8dES1lV9YY,Physical Good
+30/12/2024,11:53:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bUCiHclUUhBUKdFMpZo8dES1lV9YY,Service
+30/12/2024,11:51:36,Sanrio,Kuro with Bowtie- DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,LQuJCPwbgMSH35s86vW1TPRWXD8YY,Physical Good
+30/12/2024,11:43:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7QIAuoiLrLa9nJyEOacbrXmEONGZY,Service
+30/12/2024,11:43:46,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7QIAuoiLrLa9nJyEOacbrXmEONGZY,Service
+30/12/2024,11:35:23,None,Nami - DIY  Figurine Painting Kit,1,$45.38,$0.00,$45.38,NHrW2MMhLd31tMjtHA8lKdlBVwMZY,Physical Good
+30/12/2024,11:35:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NHrW2MMhLd31tMjtHA8lKdlBVwMZY,Service
+30/12/2024,11:34:29,None,Bubu Lala Flower B - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,dx6NcnFRjoFeVzk3IVXed0mdiWAZY,Physical Good
+30/12/2024,11:34:29,Raws/Kaws,Raws Furry - DIY  Figurine Painting Kit,1,$45.38,$0.00,$45.38,dx6NcnFRjoFeVzk3IVXed0mdiWAZY,Physical Good
+30/12/2024,11:34:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dx6NcnFRjoFeVzk3IVXed0mdiWAZY,Service
+30/12/2024,11:34:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dx6NcnFRjoFeVzk3IVXed0mdiWAZY,Service
+30/12/2024,11:09:08,Sanrio,Mel with Bowtie - DIY  Figurine Painting Kit,1,$40.91,$0.00,$40.91,dlmwNrQZlwlIsuOe15SffpqpYlaZY,Physical Good
+30/12/2024,11:04:47,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,DK7csX3iyMzLBXhPXfKFktOTtCdZY,Physical Good
+30/12/2024,11:02:37,None,Bubu Lala Flower B - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,VpaCoWavLXU5dn3U5xYx7mDySXHZY,Physical Good
+29/12/2024,19:43:19,None,Gloss,1,$4.54,$0.00,$4.54,jStlrBiUvc0dLnHVLq3ks1zjkJQZY,Physical Good
+29/12/2024,18:35:18,Raws/Kaws,Raws the OG - DIY  Figurine Painting Kit,-1,-$45.38,$0.00,-$45.38,bGNNVDZrw8M5NzzeBi1RYzmeV,Physical Good
+29/12/2024,18:24:31,Pokemon Characters,Pok the Pi on Saturn - DIY  Figurine Painting Kit,1,$42.97,-$22.96,$20.01,NHbEPpN6pGnPHv5a0mI4HOcAGBLZY,Physical Good
+29/12/2024,18:24:31,None,Kir On Star - DIY Figurine Painting Kit,1,$42.96,-$22.96,$20.00,NHbEPpN6pGnPHv5a0mI4HOcAGBLZY,Physical Good
+29/12/2024,18:24:31,Beverages,Drink - Lipton PEACH,1,$4.77,-$2.55,$2.22,NHbEPpN6pGnPHv5a0mI4HOcAGBLZY,Physical Good
+29/12/2024,18:24:31,Beverages,Drink - COKE,1,$2.87,-$1.53,$1.34,NHbEPpN6pGnPHv5a0mI4HOcAGBLZY,Physical Good
+29/12/2024,18:22:33,Raws/Kaws,Raws the OG - DIY  Figurine Painting Kit,1,$45.38,$0.00,$45.38,xPw3inOZKUwvEO6tMpzh5xcGZMZZY,Physical Good
+29/12/2024,17:18:24,None,Capybara Turtle Hat - DIY Figurine Painting Kit,1,$47.81,-$26.32,$21.49,7c0tfCSjqj4ugPR4CZOF5wuGc6FZY,Physical Good
+29/12/2024,17:18:24,SP GIRL - SKULLPANDA,SP - Cat,1,$43.03,-$23.68,$19.35,7c0tfCSjqj4ugPR4CZOF5wuGc6FZY,Physical Good
+29/12/2024,17:15:34,Beverages,Drink - Lipton PEACH,1,$5.00,-$5.00,$0.00,BbuRi2u5U69UMpvmcd13R2NV6WZZY,Physical Good
+29/12/2024,16:39:38,Sanrio,Pompom - DIY  Figurine Painting Kit,1,$45.00,-$45.00,$0.00,djDtw3nKueqIh19LYrn5odPb5UWZY,Physical Good
+29/12/2024,16:18:51,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,tL7zXYIdSv96juQoV13oWvnQylUZY,Physical Good
+29/12/2024,15:50:26,None,Gloss,-1,-$4.55,$0.00,-$4.55,PkznLy3rm5M2jkkOmHHYJzseV,Physical Good
+29/12/2024,15:45:40,None,Gloss,1,$4.55,$0.00,$4.55,t3ji7F8ccBq6ks44uXa84K3OrpQZY,Physical Good
+29/12/2024,15:39:46,None,Rabbit holds Fish - DIY  Figurine Painting Kit,1,$40.85,$0.00,$40.85,FHzF4g5CB7pHWyjU8MfrrwHyMwcZY,Physical Good
+29/12/2024,15:39:46,None,Capybara on Donut - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,FHzF4g5CB7pHWyjU8MfrrwHyMwcZY,Physical Good
+29/12/2024,15:32:07,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,RVFYQxDQ36unfU56rhLawdeleXVZY,Physical Good
+29/12/2024,15:32:07,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,RVFYQxDQ36unfU56rhLawdeleXVZY,Physical Good
+29/12/2024,15:32:07,None,Gloss,2,$9.08,$0.00,$9.08,RVFYQxDQ36unfU56rhLawdeleXVZY,Physical Good
+29/12/2024,15:00:49,None,Gloss,3,$13.64,$0.00,$13.64,XqycpZuMPV40U8A8DBAeX6BZtmXZY,Physical Good
+29/12/2024,14:34:24,Sanrio,Pompom - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,LePo9QkoMKPQCeHpMehvuXAdMbFZY,Physical Good
+29/12/2024,14:34:24,None,Gloss,1,$4.54,$0.00,$4.54,LePo9QkoMKPQCeHpMehvuXAdMbFZY,Physical Good
+29/12/2024,14:27:45,Beverages,Drink - SPRITE,1,$2.73,$0.00,$2.73,TE4i6dVanab71bWxS7BZl4tbnhbZY,Physical Good
+29/12/2024,14:06:54,None,Teddy with Tote - DIY Figurine Painting Kit,1,$40.00,-$40.00,$0.00,hrMmDd8sVKmzLqTvydayLp5c43ZZY,Physical Good
+29/12/2024,13:09:47,None,Strawberry Bear Balloon - DIY Figurine Painting Kit,1,$40.91,$0.00,$40.91,NtQXQ5jebC3BCVVD2exY3KkbfaMZY,Physical Good
+29/12/2024,13:09:47,None,Capybara Turtle Hat - DIY Figurine Painting Kit,1,$45.45,$0.00,$45.45,NtQXQ5jebC3BCVVD2exY3KkbfaMZY,Physical Good
+29/12/2024,13:09:47,None,Dor the Astronaut - DIY Figurine Painting Kit,1,$40.91,$0.00,$40.91,NtQXQ5jebC3BCVVD2exY3KkbfaMZY,Physical Good
+29/12/2024,12:20:56,None,Gloss,2,$9.09,$0.00,$9.09,xvqUooiDAirJzTX5YFOjfDjb0fQZY,Physical Good
+29/12/2024,11:13:37,Sanrio,Cinna the Princess - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,dzZc22Mho0l4zubyC1IIToAVQfHZY,Physical Good
+29/12/2024,11:13:37,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,dzZc22Mho0l4zubyC1IIToAVQfHZY,Physical Good
+28/12/2024,22:09:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,v2wNQOV68rkB8msNYmhDLKnQcnXZY,Service
+28/12/2024,22:00:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Nz94uFjl3wGuTcTuZ7XoC5B66ITZY,Service
+28/12/2024,20:39:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lF02MVmixuLhS64GFlSZMJma52QZY,Service
+28/12/2024,20:13:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Lo0WwOEuXilubH0f7tqrXoDB8jVZY,Service
+28/12/2024,20:13:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Lo0WwOEuXilubH0f7tqrXoDB8jVZY,Service
+28/12/2024,19:54:41,None,Teddy with Tote - DIY Figurine Painting Kit,2,$77.23,-$50.00,$27.23,z2N6BjJNgfg31dLwjWmbrLzcOH6YY,Physical Good
+28/12/2024,19:24:44,None,Repeat painting,1,$9.08,$0.00,$9.08,3C2A52b26wDreO8bCTU3ZgIttqQZY,Service
+28/12/2024,18:23:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xFZUdzCuLdrVke78EEMFcuLlJ7BZY,Service
+28/12/2024,18:23:55,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xFZUdzCuLdrVke78EEMFcuLlJ7BZY,Service
+28/12/2024,18:16:21,None,Rabbit holds Fish - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,d50qf6QCbhPlDLCVUwXr5Fbp72LZY,Physical Good
+28/12/2024,18:16:21,None,Puppy - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,d50qf6QCbhPlDLCVUwXr5Fbp72LZY,Physical Good
+28/12/2024,17:43:41,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,H8vysLe7cnk3AR5Sz0WfivayyiOZY,Physical Good
+28/12/2024,17:43:41,Sanrio,Mel with Bowtie - DIY  Figurine Painting Kit,1,$40.85,$0.00,$40.85,H8vysLe7cnk3AR5Sz0WfivayyiOZY,Physical Good
+28/12/2024,17:43:41,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,H8vysLe7cnk3AR5Sz0WfivayyiOZY,Physical Good
+28/12/2024,17:43:41,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,H8vysLe7cnk3AR5Sz0WfivayyiOZY,Physical Good
+28/12/2024,17:42:09,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PcHZ97uAuTtqG6gTM6f9SMS1qIEZY,Service
+28/12/2024,17:27:56,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,FVYwuqGsZSsgYoPZdAr9nlco9BUZY,Physical Good
+28/12/2024,17:27:56,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,FVYwuqGsZSsgYoPZdAr9nlco9BUZY,Physical Good
+28/12/2024,16:46:22,Sanrio,Pompom - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,7wib52Tg6uMD6fKHuunapST3AfDZY,Physical Good
+28/12/2024,15:56:03,Raws/Kaws,Raws the OG - DIY  Figurine Painting Kit,1,$45.38,$0.00,$45.38,nslb4cMthxqjI699T8iG2jfBOGEZY,Physical Good
+28/12/2024,15:56:03,SP GIRL - SKULLPANDA,SP - Cat,1,$40.85,$0.00,$40.85,nslb4cMthxqjI699T8iG2jfBOGEZY,Physical Good
+28/12/2024,15:49:50,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,BvKSDRcQSaJ0vDBHdj4bRDNecKdZY,Physical Good
+28/12/2024,15:05:33,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,pze6dhLVBOIYaHbvidW8pFKG34bZY,Physical Good
+28/12/2024,14:51:30,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.85,$0.00,$40.85,Z1JH3Yh9buWQFwpUO8z1EHVnkldZY,Physical Good
+28/12/2024,14:51:30,None,Dor the Astronaut - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,Z1JH3Yh9buWQFwpUO8z1EHVnkldZY,Physical Good
+28/12/2024,14:51:30,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,Z1JH3Yh9buWQFwpUO8z1EHVnkldZY,Physical Good
+28/12/2024,14:48:34,None,Cat Piggy - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,JLCcIAB1IyV64ahympJ8XJuVd7RZY,Physical Good
+28/12/2024,14:48:34,None,Dor the Fal - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,JLCcIAB1IyV64ahympJ8XJuVd7RZY,Physical Good
+28/12/2024,14:05:40,None,Capybara the Office Man - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,JHsQ3echcNbV1ReyRLJB35C3K66YY,Physical Good
+28/12/2024,13:47:18,None,Capybara Backpack - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,Dc2TRWxZIzEx6IQzMkb1Kvg9fBPZY,Physical Good
+28/12/2024,12:55:27,Sanrio,Mel with Bowtie - DIY  Figurine Painting Kit,1,$40.91,$0.00,$40.91,DKpl5HMhfXsUee26VinRlcUyoGSZY,Physical Good
+28/12/2024,12:55:12,None,Piggy the Queen - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,p5bPwvQEpb7LEd19BkzjUTulCy5YY,Physical Good
+28/12/2024,12:45:33,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,9J2PGLxisr91Hb59h4gxWzBuzSCZY,Physical Good
+28/12/2024,12:05:06,Sanrio,Cinna the Princess - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,JrIVOkHonYYqmIObEcsmnU1fIVSZY,Physical Good
+28/12/2024,11:43:52,SP GIRL - SKULLPANDA,SP - Cat,1,$40.84,$0.00,$40.84,th6HwMtZMlZxVQ1ZXng7Ehk5JsHZY,Physical Good
+28/12/2024,11:18:40,Sanrio,Cinna with Bowtied - DIY Figurine Painting Kit,1,$40.91,$0.00,$40.91,h9FqJlorbGCFi2crn2nMjDhEtC7YY,Physical Good
+28/12/2024,11:18:02,None,Piggy Peachy - DIY  Figurine Painting Kit,1,$36.36,$0.00,$36.36,dlYtLL3qPc4xRTRtQbwF0Tk1Ub6YY,Physical Good
+28/12/2024,11:16:51,None,Dragon Cutie - DIY Figurine Painting Kit,1,$38.53,-$24.10,$14.43,dD7twycSv8XSgpPnXq6SlaBcOhJZY,Physical Good
+28/12/2024,11:16:51,None,Larva Red - DIY Figurine Painting Kit,1,$33.71,-$21.08,$12.63,dD7twycSv8XSgpPnXq6SlaBcOhJZY,Physical Good
+28/12/2024,11:16:51,Beverages,Drink - Lipton PEACH,1,$4.82,-$3.01,$1.81,dD7twycSv8XSgpPnXq6SlaBcOhJZY,Physical Good
+28/12/2024,11:16:51,Beverages,Drink - COKE,1,$2.89,-$1.81,$1.08,dD7twycSv8XSgpPnXq6SlaBcOhJZY,Physical Good
+27/12/2024,18:18:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VTf6QI363wwVjGKEQLMwicwAiXTZY,Service
+27/12/2024,18:18:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VTf6QI363wwVjGKEQLMwicwAiXTZY,Service
+27/12/2024,17:56:42,None,Dragon Cutie - DIY Figurine Painting Kit,1,$36.36,$0.00,$36.36,VREJY3Mffn1VOHxwfgl1YPFmmeBZY,Physical Good
+27/12/2024,17:54:27,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,T6XcTi6i3Pn3AcP2OQsX0h56TE9YY,Physical Good
+27/12/2024,17:53:51,Sanrio,Mel with Bowtie - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,HKAFp6899GXRV1xwFnp6r6nLxAVZY,Physical Good
+27/12/2024,17:53:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HKAFp6899GXRV1xwFnp6r6nLxAVZY,Service
+27/12/2024,17:53:51,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,HKAFp6899GXRV1xwFnp6r6nLxAVZY,Physical Good
+27/12/2024,17:41:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rSzLk1sNX433C1gIhaIfM3ds0lIZY,Service
+27/12/2024,17:41:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rSzLk1sNX433C1gIhaIfM3ds0lIZY,Service
+27/12/2024,17:37:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dROlq7MvrY4kKckMpdG9UaHO3xDZY,Service
+27/12/2024,16:32:23,None,Capybara the Office Man - DIY Figurine Painting Kit,1,$47.81,-$26.32,$21.49,9XBxYs5HLl5Gh3oZUa6XGi69rsEZY,Physical Good
+27/12/2024,16:32:23,None,Mel with Necklace - DIY  Figurine Painting Kit,1,$43.03,-$23.68,$19.35,9XBxYs5HLl5Gh3oZUa6XGi69rsEZY,Physical Good
+27/12/2024,16:21:30,None,Puppy - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,vaokcB60Wo2ojBgaPQiM8qLUNN8YY,Physical Good
+27/12/2024,15:53:19,None,Sleepy Sparkle - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,vIX6P0KT5fL1Qgne7dBcHpEjv5OZY,Physical Good
+27/12/2024,15:52:58,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.36,$0.00,$36.36,L6P9PEbz2NvqzmzXUR7uacsWmXaZY,Physical Good
+27/12/2024,15:51:45,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,pdB5xNrjQSQsIBewCxNROyGwpDOZY,Physical Good
+27/12/2024,15:19:37,Sanrio,Purin - DIY  Figurine Painting Kit,1,$40.91,$0.00,$40.91,lhaakhznTqBJIQBkMFyinm3eCDgZY,Physical Good
+27/12/2024,15:08:18,None,Capybara on Crocodile - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,zeLNicDTnFf0uVSIl6k9CjsLbNEZY,Physical Good
+27/12/2024,15:08:18,Sanrio,Cinna with Bowtied - DIY Figurine Painting Kit,1,$40.85,$0.00,$40.85,zeLNicDTnFf0uVSIl6k9CjsLbNEZY,Physical Good
+27/12/2024,14:23:26,None,Piggy Peachy - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,1Zi40ScKQGGSIlB09QQvQlgsnAbZY,Physical Good
+27/12/2024,14:11:52,None,Dor the Astronaut - DIY Figurine Painting Kit,1,$45.00,-$45.00,$0.00,3mibNvQGqsuuZEgo0K1834DaiIRZY,Physical Good
+27/12/2024,14:11:52,Sanrio,Kuro the Eclipse - DIY Figurine Painting Kit,1,$45.00,-$45.00,$0.00,3mibNvQGqsuuZEgo0K1834DaiIRZY,Physical Good
+27/12/2024,13:54:10,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,3UjsaQnPr2fynhComcSuo8NCipWZY,Physical Good
+27/12/2024,13:53:13,Beverages,Drink - COKE,1,$2.73,$0.00,$2.73,nMphvGHTnOO18Qc04r7bKos8KtdZY,Physical Good
+27/12/2024,13:45:10,Sanrio,Cinna - DIY Figurine Painting Kit,1,$40.00,-$40.00,$0.00,NzJkPIvWpHuL3XQI4hLJmuYIaeRZY,Physical Good
+27/12/2024,13:45:10,None,Capybara Chicken Hat - DIY Figurine Painting Kit,1,$50.00,-$50.00,$0.00,NzJkPIvWpHuL3XQI4hLJmuYIaeRZY,Physical Good
+27/12/2024,13:25:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dpmlKiFW7dHf1AZE0fHyqrlzcsAZY,Service
+27/12/2024,13:25:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dpmlKiFW7dHf1AZE0fHyqrlzcsAZY,Service
+27/12/2024,13:13:02,None,Ducky With Little Bag - DIY Figurine Painting Kit,1,$36.36,$0.00,$36.36,VlI0TNmPTpaiFN1xwC3GIteYxyPZY,Physical Good
+27/12/2024,13:13:02,None,Gloss Varnish,1,$4.55,$0.00,$4.55,VlI0TNmPTpaiFN1xwC3GIteYxyPZY,Service
+27/12/2024,13:06:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,p70lCd2ack5cdKL3etn3qxb9sCIZY,Service
+27/12/2024,13:06:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,p70lCd2ack5cdKL3etn3qxb9sCIZY,Service
+27/12/2024,13:06:56,None,Gloss Varnish,1,$4.53,$0.00,$4.53,p70lCd2ack5cdKL3etn3qxb9sCIZY,Service
+27/12/2024,13:06:26,None,Sleepy Sparkle - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,Du77q4DpQ150vc5pwH8SEMnYH8JZY,Physical Good
+27/12/2024,13:06:13,None,Strawberry Bear Waving - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,lThZy6VZPKNjWYIklDjmJSzvjobZY,Physical Good
+27/12/2024,13:02:04,None,Sleepy Sparkle - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,BTYoM7EabzEKMnCdF4b8X5h5cOHZY,Physical Good
+27/12/2024,13:01:39,None,Shin the Racer Boy - DIY  Figurine Painting Kit,1,$45.00,-$45.00,$0.00,LStoAEBPnSGM2DLCbd0layS6KzJZY,Physical Good
+27/12/2024,13:00:42,SP GIRL - SKULLPANDA,SP - Cat,1,$40.90,$0.00,$40.90,bO34ax80OCSPN85Lu6IGtJQddIQZY,Physical Good
+27/12/2024,13:00:42,None,Gloss Varnish,1,$4.55,$0.00,$4.55,bO34ax80OCSPN85Lu6IGtJQddIQZY,Service
+27/12/2024,13:00:03,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,PWKS6EmNZLAhWYMvh1NDR9W0zUEZY,Physical Good
+27/12/2024,12:51:19,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,hXc9NCjDBZdJMmYI7ozHRwDtcZWZY,Physical Good
+27/12/2024,12:51:19,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,hXc9NCjDBZdJMmYI7ozHRwDtcZWZY,Physical Good
+27/12/2024,12:48:59,Sanrio,Kuro the Evil - DIY Figurine Painting Kit,1,$45.45,$0.00,$45.45,VRGSCYbHUTWNEIn3EILgy2FswTKZY,Physical Good
+27/12/2024,12:48:59,Sanrio,Mel with Bowtie - DIY  Figurine Painting Kit,1,$40.91,$0.00,$40.91,VRGSCYbHUTWNEIn3EILgy2FswTKZY,Physical Good
+27/12/2024,12:47:07,None,Capybara on the Toilet - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,nYTtmTl0QNikjHQSo4WQ9r8h5YCZY,Physical Good
+27/12/2024,12:47:07,None,Rabbit holds Fish - DIY  Figurine Painting Kit,1,$40.85,$0.00,$40.85,nYTtmTl0QNikjHQSo4WQ9r8h5YCZY,Physical Good
+27/12/2024,12:44:56,None,Dragon Cutie - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,lfJ8DGL8tc6eUhcePEAASlfdIHQZY,Physical Good
+27/12/2024,12:44:56,None,Larva Red - DIY Figurine Painting Kit,1,$31.76,$0.00,$31.76,lfJ8DGL8tc6eUhcePEAASlfdIHQZY,Physical Good
+27/12/2024,12:44:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lfJ8DGL8tc6eUhcePEAASlfdIHQZY,Service
+27/12/2024,12:44:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lfJ8DGL8tc6eUhcePEAASlfdIHQZY,Service
+27/12/2024,11:24:08,None,Dor the Astronaut - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,vgP06tW2MJMrnLaUQ620YWlbFWVZY,Physical Good
+27/12/2024,11:14:29,None,BuBu LaLa - DIY Figurine Painting Kit,1,$47.69,-$25.00,$22.69,zwMVQUJwVjFdIDEDaQo0QoV1P5BZY,Physical Good
+27/12/2024,11:14:29,Halloween,Bubu Lala Halloween - DIY Figurine Painting Kit,1,$47.69,-$25.00,$22.69,zwMVQUJwVjFdIDEDaQo0QoV1P5BZY,Physical Good
+27/12/2024,11:14:29,None,Capybara the Office Man - DIY Figurine Painting Kit,1,$47.69,-$25.00,$22.69,zwMVQUJwVjFdIDEDaQo0QoV1P5BZY,Physical Good
+27/12/2024,11:10:48,Sanrio,Kuro with Bowtie- DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,dpYa0CiIXEdaa6YwmdaYeZQcHJYZY,Physical Good
+27/12/2024,11:10:48,Sanrio,Kuro the Eclipse - DIY Figurine Painting Kit,1,$40.85,$0.00,$40.85,dpYa0CiIXEdaa6YwmdaYeZQcHJYZY,Physical Good
+27/12/2024,11:03:39,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,DkK9JCR10gG9ED4ym6sTZfVg7cTZY,Physical Good
+27/12/2024,11:03:39,None,Kuro with Ice Cream - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,DkK9JCR10gG9ED4ym6sTZfVg7cTZY,Physical Good
+26/12/2024,16:29:01,None,Piggy Peachy - DIY  Figurine Painting Kit,1,$40.00,-$40.00,$0.00,D8ONgas0fIJ8lU4iGCsXYPVzr3TZY,Physical Good
+26/12/2024,16:05:59,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,dp0MGYv1tyQC3HIogCGitCFMOUJZY,Physical Good
+26/12/2024,16:05:22,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,TAOWOfeijobqbjaw8wTFY0aAA9CZY,Physical Good
+26/12/2024,13:06:11,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.30,$0.00,$36.30,VtcwfC8dC2LISERDM5zfZjc1XZdZY,Physical Good
+26/12/2024,13:06:11,None,Dragon Cutie - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,VtcwfC8dC2LISERDM5zfZjc1XZdZY,Physical Good
+26/12/2024,12:54:47,None,Dino Disco - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,rwivIqevbbJAagINcB1y7oiXtiFZY,Physical Good
+26/12/2024,12:54:47,None,Puppy - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,rwivIqevbbJAagINcB1y7oiXtiFZY,Physical Good
+26/12/2024,12:54:47,None,Strawberry Bear - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,rwivIqevbbJAagINcB1y7oiXtiFZY,Physical Good
+26/12/2024,11:42:17,Sanrio,Kuro the Evil - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,nOoyufmOedAC2dvmd9g1MSRH4Q8YY,Physical Good
+26/12/2024,11:42:17,Sanrio,Cinna the Queen - DIY Figurine Painting Kit,1,$40.85,$0.00,$40.85,nOoyufmOedAC2dvmd9g1MSRH4Q8YY,Physical Good
+26/12/2024,11:42:17,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,nOoyufmOedAC2dvmd9g1MSRH4Q8YY,Physical Good
+26/12/2024,11:39:54,None,Piggy Birthday - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,VzXs2U3MViM4cQwAZKDRlRjpaSGZY,Physical Good
+26/12/2024,11:17:52,Sanrio,Cinna - DIY Figurine Painting Kit,1,$40.00,-$40.00,$0.00,TKhPXnkmjPQj95CNFh43HoUF2uJZY,Physical Good
+25/12/2024,17:40:51,None,Gloss Varnish,1,$4.55,$0.00,$4.55,jQKkjJyT9m1ZD4Yh2aJj4BlCYpeZY,Service
+25/12/2024,17:36:31,None,Take-home kit,1,$2.73,$0.00,$2.73,3a8H0Jt9tbKEYGalOKggOhwSUYQZY,Physical Good
+25/12/2024,16:48:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DQqiXzMvOzQoKrqrYElWQdpxaDeZY,Service
+25/12/2024,16:48:24,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DQqiXzMvOzQoKrqrYElWQdpxaDeZY,Service
+25/12/2024,16:45:49,None,Larva Yellow Funny - DIY Figurine Painting Kit,1,$34.08,-$25.00,$9.08,PiCV9PMba0OtLSUM3xUmKyc3JQAZY,Physical Good
+25/12/2024,16:45:49,None,Larva Pink - DIY Figurine Painting Kit,1,$34.07,-$25.00,$9.07,PiCV9PMba0OtLSUM3xUmKyc3JQAZY,Physical Good
+25/12/2024,16:36:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,folF6UvUVB6KOFMhUYP4Uta9rXWZY,Service
+25/12/2024,16:30:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nYvlzbHWElaibro7bnISbtzzMMdZY,Service
+25/12/2024,15:24:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xPApFITJ7LuMBAih8gQqQJ6WC2HZY,Service
+25/12/2024,15:24:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xPApFITJ7LuMBAih8gQqQJ6WC2HZY,Service
+25/12/2024,14:49:48,None,Sleepy Sparkle - DIY Figurine Painting Kit,1,$40.00,-$40.00,$0.00,HeilHSHvEJlIFO9CinCTmIHbeFJZY,Physical Good
+25/12/2024,14:44:35,Beverages,Drink - Lipton PEACH,1,$5.00,-$5.00,$0.00,vUTrUXNtnhhK7j73Aj68LSFN9CKZY,Physical Good
+25/12/2024,14:43:14,Sanrio,Pompom - DIY  Figurine Painting Kit,1,$45.00,-$45.00,$0.00,t5MKebfabV5hquogLr1Hh0pcJfWZY,Physical Good
+25/12/2024,14:30:37,None,Sleepy Sparkle - DIY Figurine Painting Kit,1,$40.00,-$40.00,$0.00,FZCKFiTbt8K0zzqjTJIh8vxTetIZY,Physical Good
+25/12/2024,14:30:02,None,Rabbit the Beannie - DIY  Figurine Painting Kit,1,$40.00,-$40.00,$0.00,tdWY86Duf6uLUkLgVzxwrkhFT8VZY,Physical Good
+25/12/2024,13:46:10,Sanrio,Cinna the Queen - DIY Figurine Painting Kit,1,$40.85,$0.00,$40.85,rq52l8pRVRgvib9MAGS1NaHYvWCZY,Physical Good
+25/12/2024,13:46:10,None,Capybara the Office Man - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,rq52l8pRVRgvib9MAGS1NaHYvWCZY,Physical Good
+25/12/2024,13:09:47,None,Teddy with Tote - DIY Figurine Painting Kit,1,$36.30,$0.00,$36.30,Fjl3MCbLZMm7kelLEPNHtznEulLZY,Physical Good
+25/12/2024,13:09:47,None,Cat Piggy - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,Fjl3MCbLZMm7kelLEPNHtznEulLZY,Physical Good
+25/12/2024,12:35:59,None,Gloss Varnish,1,$4.55,$0.00,$4.55,jkwWHIhTh61OxojbgQLfbEeJlyKZY,Service
+25/12/2024,12:24:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,f8TbE0n5LI3bTgRDwfyjGOgsb4IZY,Service
+25/12/2024,12:24:30,None,Gloss Varnish,1,$4.55,$0.00,$4.55,f8TbE0n5LI3bTgRDwfyjGOgsb4IZY,Service
+25/12/2024,11:57:38,None,Capybara TV - DIY Figurine Painting Kit,1,$50.00,-$50.00,$0.00,RdRWjeupdanqcsDsidK6mbME6OaZY,Physical Good
+25/12/2024,11:57:38,None,Bubu lala Snack -DIY Figurine Painting Kit,1,$50.00,-$50.00,$0.00,RdRWjeupdanqcsDsidK6mbME6OaZY,Physical Good
+25/12/2024,11:26:57,Sanrio,Mel with Bowtie - DIY  Figurine Painting Kit,1,$40.84,$0.00,$40.84,78mietS8ZiGKUVTWYsKaDcSdvibZY,Physical Good
+25/12/2024,11:21:48,None,Sleepy Sparkle - DIY Figurine Painting Kit,1,$40.00,-$40.00,$0.00,fUhCF37VAVkC5lB4vD5A0xlwIWMZY,Physical Good
+25/12/2024,11:21:48,None,Rabbit with Glasses - DIY  Figurine Painting Kit,1,$40.00,-$40.00,$0.00,fUhCF37VAVkC5lB4vD5A0xlwIWMZY,Physical Good
+24/12/2024,17:02:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bCfR14hsVzUbQUglpEtFbEcTYQYZY,Service
+24/12/2024,15:55:44,Sanrio,Cinna the Queen - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,ZdDMHxqNuPmjFf9w4Wqf4r8ASVYZY,Physical Good
+24/12/2024,15:06:59,None,Bubu lala Snack -DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,jwO4CYVdCKptJIQJTvdYIAPhbOLZY,Physical Good
+24/12/2024,12:21:50,None,Capybara Turtle Hat - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,1H7LFe823dHGSOjYm1PV0lLWeYDZY,Physical Good
+24/12/2024,11:37:20,None,Cinna the Magician Hat - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,1jPYZFSnNXhGKcfcAodPpTMhuSYZY,Physical Good
+24/12/2024,11:37:20,Sanrio,Mel  - DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,1jPYZFSnNXhGKcfcAodPpTMhuSYZY,Physical Good
+24/12/2024,11:16:33,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,jouoZW6rFJTh0QWeiI4k9qZtnORZY,Physical Good
+23/12/2024,17:56:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zIMLqkyjKo6mDcOwwzdz1tU0S3AZY,Service
+23/12/2024,17:56:48,None,Gloss Varnish,1,$4.55,$0.00,$4.55,zIMLqkyjKo6mDcOwwzdz1tU0S3AZY,Service
+23/12/2024,17:10:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,De1Yg4ZpBVxIVhImRPbvySbEeiKZY,Service
+23/12/2024,17:10:36,None,Gloss Varnish,1,$4.54,$0.00,$4.54,De1Yg4ZpBVxIVhImRPbvySbEeiKZY,Service
+23/12/2024,17:00:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FvB28lzl4pjnvaeY880DS7v72b7YY,Service
+23/12/2024,17:00:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FvB28lzl4pjnvaeY880DS7v72b7YY,Service
+23/12/2024,16:45:09,None,Piggy Happy - DIY  Figurine Painting Kit,1,$36.31,$0.00,$36.31,J1RNgt8oIsvN5hhg0xeVNqWTuSPZY,Physical Good
+23/12/2024,16:34:32,None,Capybara Mother & Child - DIY Figurine Painting,1,$54.46,$0.00,$54.46,rG59bwDE37ON3y8ZM4fknph8BjBZY,Physical Good
+23/12/2024,15:52:02,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,53STSMrRIKYLJGKKmHdDUFuL40MZY,Physical Good
+23/12/2024,15:52:02,Beverages,Drink - Lipton LEMON,1,$4.55,$0.00,$4.55,53STSMrRIKYLJGKKmHdDUFuL40MZY,Physical Good
+23/12/2024,14:49:16,None,Dor the Astronaut - DIY Figurine Painting Kit,1,$40.91,$0.00,$40.91,RXOi5KKRj9YS4sM9svpBemIWmw9YY,Physical Good
+23/12/2024,14:48:43,Sanrio,Cinna with Bowtied - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,vMH1f5NvKI93Ka6BvLRpQWp7RUQZY,Physical Good
+23/12/2024,14:48:19,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.36,$0.00,$36.36,1dyBg7Yrwf8WGwWn3fJwapBCPlSZY,Physical Good
+23/12/2024,14:20:53,None,Fox Nine Tailed - DIY Figurine Painting Kit,1,$49.92,$0.00,$49.92,B9BCsVfdTF4nJQX0T0G5z1RZTcIZY,Physical Good
+23/12/2024,14:20:53,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,B9BCsVfdTF4nJQX0T0G5z1RZTcIZY,Physical Good
+23/12/2024,13:54:41,Sanrio,Mel,1,$36.31,$0.00,$36.31,V16Zv3yPr0VRfNY8FXoGBhesjyXZY,Physical Good
+23/12/2024,13:54:07,Pokemon Characters,Pok - Water Turtle,1,$40.84,$0.00,$40.84,PQBh702jwknX82oqYGEC6hQ6HbLZY,Physical Good
+23/12/2024,13:13:35,Sanrio,Mel,1,$36.31,$0.00,$36.31,74eB4PpgDQZ2izz17MXTNzwsTsUZY,Physical Good
+23/12/2024,13:13:35,Sanrio,Cinna the Princess - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,74eB4PpgDQZ2izz17MXTNzwsTsUZY,Physical Good
+23/12/2024,12:50:41,None,SP - Witch,1,$45.38,$0.00,$45.38,1fflhksvYNvv5uQng995xssUBuKZY,Physical Good
+23/12/2024,12:50:21,Sanrio,Kuro -  King,1,$40.84,$0.00,$40.84,nUdHUnwdRRyLKm2bM9hRLcpJwKYZY,Physical Good
+23/12/2024,12:04:57,None,Larva - laughing,1,$31.77,$0.00,$31.77,xPyOdlnUvlKcDjz27p96aJUV1cXZY,Physical Good
+23/12/2024,12:04:38,None,Larva - laughing,1,$31.77,$0.00,$31.77,FTra47wdbDYSMaMqv7OakwVKBWbZY,Physical Good
+23/12/2024,11:02:44,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,J9jkFI07aRHIve89j3mM0JZBZdaZY,Physical Good
+22/12/2024,18:34:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JNBRTgZY26B5lbvZzFF4zGn92keZY,Service
+22/12/2024,18:34:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JNBRTgZY26B5lbvZzFF4zGn92keZY,Service
+22/12/2024,17:41:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,z8WhhgYEnXjjAGF1N9UNkddPHUHZY,Service
+22/12/2024,17:41:59,None,Gloss Varnish,1,$4.55,$0.00,$4.55,z8WhhgYEnXjjAGF1N9UNkddPHUHZY,Service
+22/12/2024,16:46:15,Sanrio,Cinna - DIY Figurine Painting Kit,1,$36.31,$0.00,$36.31,3IBspo3eqQC5gANGOCpXHjGTsfRZY,Physical Good
+22/12/2024,16:45:58,Sanrio,Purin,1,$40.84,$0.00,$40.84,5t1TA26OMT9WS0QhjaGjHKzvHPMZY,Physical Good
+22/12/2024,15:45:22,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,x5lZr1Htn6UN1dP3uECZCksQI99YY,Physical Good
+22/12/2024,15:45:22,Sanrio,Cina - Queen,1,$40.91,$0.00,$40.91,x5lZr1Htn6UN1dP3uECZCksQI99YY,Physical Good
+22/12/2024,14:03:14,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,2,$81.69,$0.00,$81.69,pfcMeudY1z77Mn5whwhgRl7dquAZY,Physical Good
+22/12/2024,13:00:37,Beverages,Drink - Banana Milk,1,$3.75,-$3.75,$0.00,trjhN7MpgkhaT3gjKslTY6Mqf5MZY,Physical Good
+22/12/2024,12:58:39,Beverages,Drink - Banana Milk,1,$3.75,-$3.75,$0.00,rO3WqSWJA15MaLqfFzJK4grFkcEZY,Physical Good
+22/12/2024,12:31:51,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,lVq3dBJKOt9QmRpYMpSY1o1M7vcZY,Physical Good
+22/12/2024,11:10:10,None,Cinna the Magician Hat - DIY Plaster Figurine Painting Kit,1,$40.84,$0.00,$40.84,dr1aM2MzxjS4lGaC6PAGkPxQgiYZY,Physical Good
+22/12/2024,11:10:10,None,Larva,1,$31.77,$0.00,$31.77,dr1aM2MzxjS4lGaC6PAGkPxQgiYZY,Physical Good
+22/12/2024,11:10:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dr1aM2MzxjS4lGaC6PAGkPxQgiYZY,Service
+22/12/2024,11:10:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dr1aM2MzxjS4lGaC6PAGkPxQgiYZY,Service
+22/12/2024,10:56:49,None,Larva - laughing,1,$31.77,$0.00,$31.77,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Physical Good
+22/12/2024,10:56:49,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Physical Good
+22/12/2024,10:56:49,None,Capybara TV - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Physical Good
+22/12/2024,10:56:49,None,Capybara on Donut - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Physical Good
+22/12/2024,10:56:49,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Physical Good
+22/12/2024,10:56:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Service
+22/12/2024,10:56:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Service
+22/12/2024,10:56:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Service
+22/12/2024,10:56:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BzOxL9Cbic6dyP5qcDeOTwFLosQZY,Service
+21/12/2024,23:20:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,foRDx2lze3t85USZo9zs6Z7uYpLZY,Service
+21/12/2024,23:20:14,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7kg3CUHi5xMWOnjXi9V7WRO55XPZY,Service
+21/12/2024,21:56:44,None,Repeat painting,1,$9.08,$0.00,$9.08,fgrYNqzEhTLeGCvXbrH4SarEGkdZY,Service
+21/12/2024,21:47:51,None,Capybara with  Piggy Hat - DIY Figurine Painting,1,$45.38,$0.00,$45.38,noxy3xzwigrPzcJCTcsTDNXHAmGZY,Physical Good
+21/12/2024,21:47:17,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,fYvwDML9l2IbzLvLCOntTUu7SjXZY,Physical Good
+21/12/2024,21:40:46,None,Repeat painting,1,$9.08,$0.00,$9.08,zo03cnTJncO3PSKDgqexMx9GjdCZY,Service
+21/12/2024,21:40:33,None,Repeat painting,1,$9.08,$0.00,$9.08,xpHwViDPCEU0CWBmJ8ZFfHro5sbZY,Service
+21/12/2024,21:03:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dNEn13Cubdh6bhGqMnzw9Lxbn28YY,Service
+21/12/2024,21:03:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dNEn13Cubdh6bhGqMnzw9Lxbn28YY,Service
+21/12/2024,21:00:48,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HoPz2XvBKtqa5IhUqWLYFTM17yaZY,Service
+21/12/2024,20:40:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,L4E6Qe8CpYexgBlcG2QnQX4gFxVZY,Service
+21/12/2024,20:34:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xD6NnYdyoV2zFuC2oToAJfrlCpRZY,Service
+21/12/2024,20:34:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xD6NnYdyoV2zFuC2oToAJfrlCpRZY,Service
+21/12/2024,20:00:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZRjdJBllvCviuIyWxH1OPiPGmVbZY,Service
+21/12/2024,19:23:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RVzNQ4KGJjDi0pFEBhZwwdni4cCZY,Service
+21/12/2024,18:34:05,None,Custom Amount,1,$40.84,$0.00,$40.84,dhaFaFZxwn2Hkkj4yzpep3F0ToUZY,
+21/12/2024,18:34:05,None,Kuro - Princess,1,$40.85,$0.00,$40.85,dhaFaFZxwn2Hkkj4yzpep3F0ToUZY,Physical Good
+21/12/2024,18:33:08,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,XqayxvfijtZTKSyiVvBCFwb72HNZY,Physical Good
+21/12/2024,18:33:08,Beverages,Drink - Milkis,1,$2.73,$0.00,$2.73,XqayxvfijtZTKSyiVvBCFwb72HNZY,Physical Good
+21/12/2024,18:31:51,None,Capybara with  Piggy Hat - DIY Figurine Painting,1,$47.69,-$25.00,$22.69,TUgA5L4NbkdX88bXnOHGQ3hw4R8YY,Physical Good
+21/12/2024,18:31:51,None,Capybara - TV,1,$47.69,-$25.00,$22.69,TUgA5L4NbkdX88bXnOHGQ3hw4R8YY,Physical Good
+21/12/2024,18:27:21,None,Nami,1,$45.38,$0.00,$45.38,9T1iA4uGLQaVX8ahIAW2a4n7VvEZY,Physical Good
+21/12/2024,18:26:08,Sanrio,Kuro - Eclipse,1,$40.84,$0.00,$40.84,5fe5yqRnKROxf1qPEUE3oHWRplWZY,Physical Good
+21/12/2024,18:13:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,v41xbL5Vn6B1HRcD5ZvH3kI1N1CZY,Service
+21/12/2024,18:13:12,None,Gloss Varnish,1,$4.54,$0.00,$4.54,v41xbL5Vn6B1HRcD5ZvH3kI1N1CZY,Service
+21/12/2024,18:13:12,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,v41xbL5Vn6B1HRcD5ZvH3kI1N1CZY,Physical Good
+21/12/2024,17:45:55,None,Cat - Piggy,1,$36.31,$0.00,$36.31,Tck6SvftO47eljt2XYcqpXFsRrRZY,Physical Good
+21/12/2024,17:38:39,None,Nami,1,$47.69,-$25.00,$22.69,noHZbq2ykqXHnxwiBHAcrLpS4OVZY,Physical Good
+21/12/2024,17:38:39,None,BuBu LaLa - DIY Figurine Painting Kit,1,$47.69,-$25.00,$22.69,noHZbq2ykqXHnxwiBHAcrLpS4OVZY,Physical Good
+21/12/2024,17:36:43,Sanrio,Mel,1,$38.61,-$25.00,$13.61,HekmEfU4Of38N7MFDRiTdvGURWKZY,Physical Good
+21/12/2024,17:26:14,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,rQQmUw9XWiDUuEnYGMwRNwpqG5fZY,Physical Good
+21/12/2024,17:23:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,p3G3E2ZBqvlkswplJ6ETPYTEPpBZY,Service
+21/12/2024,17:23:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,p3G3E2ZBqvlkswplJ6ETPYTEPpBZY,Service
+21/12/2024,16:55:10,None,Gloss Varnish,1,$4.54,$0.00,$4.54,T0K5TbLBwJjVddAGFYOQkAK8oYdZY,Service
+21/12/2024,16:53:50,None,Capybara - TV,1,$45.38,$0.00,$45.38,BVVMrXLTFgToSqyL7wq4VvnngqKZY,Physical Good
+21/12/2024,16:53:50,None,Capybara on Donut - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,BVVMrXLTFgToSqyL7wq4VvnngqKZY,Physical Good
+21/12/2024,16:53:50,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,BVVMrXLTFgToSqyL7wq4VvnngqKZY,Physical Good
+21/12/2024,16:53:50,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,BVVMrXLTFgToSqyL7wq4VvnngqKZY,Physical Good
+21/12/2024,16:53:50,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,BVVMrXLTFgToSqyL7wq4VvnngqKZY,Physical Good
+21/12/2024,15:58:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,htfXvByU8i8B8tJGOdmZwjfETzeZY,Service
+21/12/2024,15:58:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,htfXvByU8i8B8tJGOdmZwjfETzeZY,Service
+21/12/2024,15:48:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jmPNjiuZir83roreMRCHuEGsuscZY,Service
+21/12/2024,15:30:36,None,Gloss Varnish,1,$4.55,$0.00,$4.55,vygmiT57Sz5Fm5hFSfdqCSEAAtWZY,Service
+21/12/2024,15:23:12,None,Gloss Varnish,1,$4.55,$0.00,$4.55,fOQtyRHyjgclWHrlJivtRE51X4cZY,Service
+21/12/2024,15:16:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,veA7m7kRoYf4CQHD8jxA33NhUeQZY,Service
+21/12/2024,15:07:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RjoqGVkvnt5gC9UAO2Zla0p1tabZY,Service
+21/12/2024,14:59:51,Sanrio,Cina,2,$72.61,$0.00,$72.61,TIUR7raxzXNRfH1DrY1rFttOXh8YY,Physical Good
+21/12/2024,14:27:20,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,naaUQPpvE2L7Pf2WsLNF1ZjwLL6YY,Physical Good
+21/12/2024,14:10:26,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Fl8k92RMoTpBTfp5JSb6mpVEX7BZY,Service
+21/12/2024,13:59:36,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,5JBe5IKpBNMvCQBGS1L7XHvIaLPZY,Physical Good
+21/12/2024,13:52:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Bx5J5o6BHoqIXfqgjcB3ckyFqSNZY,Service
+21/12/2024,13:36:54,Sanrio,Purin,1,$43.15,-$25.00,$18.15,nklJMRhkyqtldrinO9fRhcIp8aKZY,Physical Good
+21/12/2024,13:36:26,None,Capybara on Donut - DIY Figurine Painting Kit,1,$47.69,-$25.00,$22.69,Np4inHbw8VXzY02rviuQX65PHq6YY,Physical Good
+21/12/2024,13:35:02,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,VHrNFUbxyZEYt9g0I6zWNZe6X6DZY,Physical Good
+21/12/2024,13:35:02,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,VHrNFUbxyZEYt9g0I6zWNZe6X6DZY,Physical Good
+21/12/2024,13:30:20,None,Dor - Fal,1,$40.84,$0.00,$40.84,HcHSsq5awjhVyP6kPmtNuZVyoJdZY,Physical Good
+21/12/2024,13:10:04,Sanrio,Mel,1,$36.31,$0.00,$36.31,vOozQIKeJ1LUhdzgqcPZRNRXavIZY,Physical Good
+21/12/2024,13:10:04,None,Capybara on Donut - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,vOozQIKeJ1LUhdzgqcPZRNRXavIZY,Physical Good
+21/12/2024,13:07:55,Sanrio,Mel - Bowtied,1,$45.00,-$45.00,$0.00,T0mt7MSPWsQ49I0GkStxIW1o24JZY,Physical Good
+21/12/2024,13:07:55,Sanrio,Kuro - Eclipse,1,$45.00,-$45.00,$0.00,T0mt7MSPWsQ49I0GkStxIW1o24JZY,Physical Good
+21/12/2024,12:14:28,Sanrio,Mel,1,$36.36,$0.00,$36.36,zwawcVLfZNPs1a5UU4MOHaK9y15YY,Physical Good
+21/12/2024,12:14:28,Sanrio,Cina,1,$36.37,$0.00,$36.37,zwawcVLfZNPs1a5UU4MOHaK9y15YY,Physical Good
+21/12/2024,12:11:36,Sanrio,Mel,1,$36.31,$0.00,$36.31,TMgOREE31zUlwucL1LVCFFD9h5VZY,Physical Good
+21/12/2024,12:10:39,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,76rpfcwitzdBX9lrQnYTzVDtARCZY,Physical Good
+21/12/2024,12:05:42,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,2,$77.23,-$50.00,$27.23,74Uihq3dx3pq5BOukROXjRgiBc8YY,Physical Good
+21/12/2024,11:57:02,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,55DtpB6dJP6MDzdXl5eO9ri0M2NZY,Physical Good
+21/12/2024,11:53:46,None,Nami,1,$45.39,$0.00,$45.39,JVTe6CPVsTTSf1MkUWZ7SwGHpyTZY,Physical Good
+21/12/2024,11:53:46,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,JVTe6CPVsTTSf1MkUWZ7SwGHpyTZY,Physical Good
+20/12/2024,22:42:56,None,Gloss,1,$4.54,$0.00,$4.54,V7LQdkpdsBZeaYEQGhtABw6aO7FZY,Physical Good
+20/12/2024,21:36:13,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,bKhsbAZ3blglJL50dqfH8VvFoebZY,Physical Good
+20/12/2024,21:31:19,None,Custom Amount,1,$36.31,$0.00,$36.31,BDQEsoOI2F9Hmh9e2GR2ezc4Av8YY,
+20/12/2024,21:27:57,None,Repeat painting,1,$9.08,$0.00,$9.08,bQu3ATKo0gVlyO4Zw34usXl62fRZY,Service
+20/12/2024,20:42:13,None,Capybara the Office Man - DIY Figurine Painting Kit,1,$50.00,-$50.00,$0.00,rSVsMDZAxYze3ECiCjTloBZMXgMZY,Physical Good
+20/12/2024,20:42:13,None,Capybara on Donut - DIY Figurine Painting Kit,1,$50.00,-$50.00,$0.00,rSVsMDZAxYze3ECiCjTloBZMXgMZY,Physical Good
+20/12/2024,20:18:26,None,Dor - Fal,1,$40.84,$0.00,$40.84,dtyw9kCsQeVylxVh4rseurMUAQZZY,Physical Good
+20/12/2024,20:18:26,None,Rabbit - Glasses,1,$36.31,$0.00,$36.31,dtyw9kCsQeVylxVh4rseurMUAQZZY,Physical Good
+20/12/2024,20:07:07,None,Larva - laughing,1,$31.77,$0.00,$31.77,9JYA1I4i46vyrROirPizBFor0VGZY,Physical Good
+20/12/2024,20:07:07,None,Rabbit - Glasses,1,$36.30,$0.00,$36.30,9JYA1I4i46vyrROirPizBFor0VGZY,Physical Good
+20/12/2024,19:38:05,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,9pi3FympPACCNlyi0nbte2kbBQCZY,Physical Good
+20/12/2024,19:37:40,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,hbuvjKVO6wLf1FKhGrMmsAKhQ25YY,Physical Good
+20/12/2024,19:37:40,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,hbuvjKVO6wLf1FKhGrMmsAKhQ25YY,Physical Good
+20/12/2024,19:14:13,None,Kuro - Princess,1,$40.84,$0.00,$40.84,9x2DY0PzVqrObkBumatFVJYzf7ZZY,Physical Good
+20/12/2024,19:14:13,None,Kuro - Ice Cream,1,$40.85,$0.00,$40.85,9x2DY0PzVqrObkBumatFVJYzf7ZZY,Physical Good
+20/12/2024,16:02:42,None,Take-home kit,1,$2.73,$0.00,$2.73,JxrxLL11doJrfAvfY7ptkUtfokLZY,Physical Good
+20/12/2024,15:48:48,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,9jJIAYum5qKHdx96f7ieHZUsF9PZY,Physical Good
+20/12/2024,14:35:33,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,DQyOsPifIM6NQswszuHwH89qXmVZY,Physical Good
+20/12/2024,14:25:07,None,Sleepy Sparkle,2,$72.61,$0.00,$72.61,HAl0sBqa4U4L3oFgInM1SZu58MAZY,Physical Good
+20/12/2024,14:03:13,Sanrio,Cina,1,$36.31,$0.00,$36.31,FnJmhLmDwmmjDv9YaxlGX24IepOZY,Physical Good
+20/12/2024,13:16:22,None,Nami,1,$45.45,$0.00,$45.45,3GKdljRqfy8lYmBPznfT8LQr1nYZY,Physical Good
+20/12/2024,13:15:55,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,9RAWtD80Vy8IZ2VyBd6dqb71S3cZY,Physical Good
+20/12/2024,11:20:45,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,3mKHRtTrbsX3k3hUTQnZ0vj6cdIZY,Physical Good
+20/12/2024,11:20:33,POP MART Character,Dim Dim,1,$45.45,$0.00,$45.45,bWXgBINmjTyp7dsrucfhTKTEeyGZY,Physical Good
+19/12/2024,20:37:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nQ5ktuTnNMQd3bskxwJhxt3B7xVZY,Service
+19/12/2024,20:37:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nQ5ktuTnNMQd3bskxwJhxt3B7xVZY,Service
+19/12/2024,19:32:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lFg4KNuh8wSLTUtKhHkTQbHVVtdZY,Service
+19/12/2024,18:50:05,None,Gloss Varnish,1,$4.55,$0.00,$4.55,famvHd9FAImpoa5xzXS2buGFfmGZY,Service
+19/12/2024,17:57:23,None,Mel - Necklace,1,$40.84,$0.00,$40.84,DKbqZQ6r90qaw1SWprYuuROJgWAZY,Physical Good
+19/12/2024,17:57:23,Sanrio,Cina - Queen,1,$40.85,$0.00,$40.85,DKbqZQ6r90qaw1SWprYuuROJgWAZY,Physical Good
+19/12/2024,17:56:15,Beverages,Drink - SPRITE,1,$3.00,-$3.00,$0.00,72ToMkmKc24AW86SHHdX8VbAna7YY,Physical Good
+19/12/2024,17:51:29,None,Larva - laughing,1,$33.92,-$23.33,$10.59,3O2ZDe040OXNPUjbCQjoOzceckTZY,Physical Good
+19/12/2024,17:51:29,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$38.77,-$26.67,$12.10,3O2ZDe040OXNPUjbCQjoOzceckTZY,Physical Good
+19/12/2024,17:32:30,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,phpQ7fGrdxotqhjgCE5XjyunYoBZY,Physical Good
+19/12/2024,16:52:20,None,Capybara Mother & Child - DIY Figurine Painting,1,$54.46,$0.00,$54.46,NlKMO5sPKSMtkg9BBdE30UKJVdNZY,Physical Good
+19/12/2024,16:03:23,POP MART Character,Dim Dim,1,$45.91,-$5.00,$40.91,f8zlDHOic5eKJdwqPGv2wRrkmZXZY,Physical Good
+19/12/2024,16:03:23,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.73,-$4.00,$32.73,f8zlDHOic5eKJdwqPGv2wRrkmZXZY,Physical Good
+19/12/2024,14:20:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RZnmvvaKL4rXqfnAmVzuLH2e5hbZY,Service
+19/12/2024,14:20:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RZnmvvaKL4rXqfnAmVzuLH2e5hbZY,Service
+19/12/2024,14:11:14,Sanrio,Cina,1,$36.30,$0.00,$36.30,5nWbJdSpbDIoR25kRRXQae5GI5OZY,Physical Good
+19/12/2024,14:11:14,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,5nWbJdSpbDIoR25kRRXQae5GI5OZY,Physical Good
+19/12/2024,14:11:14,None,Astro Boy B - DIY Figurine Painting Kit,1,$68.08,$0.00,$68.08,5nWbJdSpbDIoR25kRRXQae5GI5OZY,Physical Good
+19/12/2024,14:11:14,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,5nWbJdSpbDIoR25kRRXQae5GI5OZY,Physical Good
+19/12/2024,13:46:07,None,Gloss Varnish,1,$4.54,$0.00,$4.54,H28APFVNn9mKB6g481hlEO2I7YdZY,Service
+19/12/2024,13:42:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tNMTjkmYfAwOd3mLZABcnx8c8eKZY,Service
+19/12/2024,13:15:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lrLwfRO5XHgFjjI3ROPwL9P0qRKZY,Service
+19/12/2024,13:14:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HoJE2mlHVETKLOr1qGZJMvfIs69YY,Service
+19/12/2024,12:49:14,None,Capybara with  Piggy Hat - DIY Figurine Painting,1,$45.38,$0.00,$45.38,rabzHnlck6pcwlfYg2RfiWNZCseZY,Physical Good
+19/12/2024,12:49:14,Sanrio,Kuro - Eclipse,1,$40.85,$0.00,$40.85,rabzHnlck6pcwlfYg2RfiWNZCseZY,Physical Good
+19/12/2024,11:47:15,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,p3ONsoqLVMHQjPYcTLtMZV5IT3LZY,Physical Good
+19/12/2024,11:47:15,None,Capybara on Donut - DIY Figurine Painting Kit,1,$45.38,$0.00,$45.38,p3ONsoqLVMHQjPYcTLtMZV5IT3LZY,Physical Good
+19/12/2024,11:31:23,Sanrio,Mel,1,$36.31,$0.00,$36.31,POKySxSxzbxZSu6dePSBnovDHodZY,Physical Good
+19/12/2024,11:31:00,None,Mel - Necklace,1,$40.84,$0.00,$40.84,HA1SV0GLoXCyfMoIPd94rwov6IdZY,Physical Good
+19/12/2024,11:30:42,None,Piggy - Peachy,1,$36.31,$0.00,$36.31,tTzvWFp6KWFaiwXCQLmFZWHwbiNZY,Physical Good
+19/12/2024,11:30:22,None,Strawberry Bear - Balloon,1,$40.84,$0.00,$40.84,RxP2iWn9ai7wKnkulbyWaQJNALBZY,Physical Good
+18/12/2024,20:45:03,None,Gloss,2,$9.08,$0.00,$9.08,tLf1tdpiORAYehoBGcwJDkO9atZZY,Physical Good
+18/12/2024,18:39:24,None,Gloss,2,$9.08,$0.00,$9.08,XYTdvxyBYO4rhLCGdQQW32ZOPTUZY,Physical Good
+18/12/2024,18:03:50,Pokemon Characters,Pok - Blas Turtle,1,$47.81,-$26.32,$21.49,JnaJGpf9XIEbXm1bo2fzfHJHhxJZY,Physical Good
+18/12/2024,18:03:50,Pokemon Characters,Pok - Pi on Saturn,1,$43.03,-$23.68,$19.35,JnaJGpf9XIEbXm1bo2fzfHJHhxJZY,Physical Good
+18/12/2024,17:39:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,L6vLK8aW56o7TBDSqyBLardU7VMZY,Service
+18/12/2024,17:39:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hlTLVC0UtbAKT2x7hoYBf2zuAbMZY,Service
+18/12/2024,17:38:16,None,Gloss Varnish,1,$4.55,$0.00,$4.55,l79TnteGeWaiJHd14P22dY0x0oQZY,Service
+18/12/2024,17:35:24,None,Gloss Varnish,1,$4.55,$0.00,$4.55,tFIFkgwpqHaUNL9vzTe7NO6qb9PZY,Service
+18/12/2024,17:07:09,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,jw2GzUSb0fpMiE50W5JK0Hnh6WSZY,Physical Good
+18/12/2024,17:05:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XSWGQuPbEs93RNt6BgvzdVMJwpbZY,Service
+18/12/2024,16:55:42,None,Gloss,1,$4.54,$0.00,$4.54,JLIdRXCDcOgUcYsAJAnA4jYep1SZY,Physical Good
+18/12/2024,16:49:19,None,Rabbit Bowtie - Carrot,1,$40.00,-$40.00,$0.00,P09eTYd2ucgSm3rytaquS9hT1GKZY,Physical Good
+18/12/2024,16:29:37,None,Gloss,1,$4.54,$0.00,$4.54,LoKvLM8bqgZ4AcaEHzePKIm8slKZY,Physical Good
+18/12/2024,16:12:36,Beverages,Drink - Milkis,2,$5.45,$0.00,$5.45,fsVWdnzUbOcpCF0RgtgnPpzJj3IZY,Physical Good
+18/12/2024,16:11:08,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,9X3qcM2m3OmnijaWSo3FEEMGnAUZY,Physical Good
+18/12/2024,16:06:40,None,Capybara with  Piggy Hat - DIY Figurine Painting,2,$90.76,$0.00,$90.76,PEReeFOkKouueaIln8Yw2oYw4L6YY,Physical Good
+18/12/2024,15:19:35,Beverages,Drink - COKE,1,$3.00,-$3.00,$0.00,juvnyFT2tcbyG3wEdLDl7oiwmpNZY,Physical Good
+18/12/2024,15:15:29,None,Rabbit – Fish,1,$40.84,$0.00,$40.84,5viHlhEUGk5U03cwQQxgNFjenJVZY,Physical Good
+18/12/2024,15:15:07,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,tbnZXT8JOSCvHhLXlMzkPIQermeZY,Physical Good
+18/12/2024,15:07:39,None,Larva - laughing,1,$31.77,$0.00,$31.77,N792e3OQxoXaWoxGq7WqnjWkHIKZY,Physical Good
+18/12/2024,15:07:03,None,Piggy - Peachy,1,$36.31,$0.00,$36.31,VV4ApGLdMTmeGSniwaJnYBCwtCNZY,Physical Good
+18/12/2024,15:05:43,None,Capybara with  Piggy Hat - DIY Figurine Painting,1,$45.38,$0.00,$45.38,h3aWIjTOh9g6Dzz4RkIsRYft1SEZY,Physical Good
+18/12/2024,15:05:43,None,Custom Amount,1,$45.38,$0.00,$45.38,h3aWIjTOh9g6Dzz4RkIsRYft1SEZY,
+18/12/2024,15:04:38,Beverages,Drink - WATER,1,$2.73,$0.00,$2.73,1RS8QVouGZzFJWjz9S7ucxkcGBHZY,Physical Good
+18/12/2024,15:01:58,None,Dor - Magician hat,1,$40.84,$0.00,$40.84,LCVEIRiTN8H1B7P1pyscykk11nNZY,Physical Good
+18/12/2024,15:01:09,None,Dor - Fal,1,$40.91,$0.00,$40.91,LEGuPMujlkqb1IwBDSBpzAJPd7WZY,Physical Good
+18/12/2024,14:48:45,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,9DpQmJfA3zXIoQj18VPKYWOybSIZY,Physical Good
+18/12/2024,14:48:09,None,Nami,1,$45.38,$0.00,$45.38,hXwPSIKr8Z6YYqxhVyO4PGzaS1DZY,Physical Good
+18/12/2024,14:38:01,Sanrio,Kuro - Bowtied,1,$40.84,$0.00,$40.84,BbcguCWinvAQeRUJIPsEg7KqbrdZY,Physical Good
+18/12/2024,14:33:11,None,Cat - Piggy,1,$36.31,$0.00,$36.31,rUq02nAF611AwSQWpHU4fuc0SicZY,Physical Good
+18/12/2024,14:31:58,None,Piggy - Peachy,1,$36.31,$0.00,$36.31,11qBbae1afL11EiCPVMCUveE9VeZY,Physical Good
+18/12/2024,14:31:38,None,Strawberry Bear - Balloon,1,$40.84,$0.00,$40.84,BF1aicNY8tixv1WqgHAp9gRXFBUZY,Physical Good
+18/12/2024,14:31:12,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,1dSlMQ2dBad2qiPDcJiJrB4tP4cZY,Physical Good
+18/12/2024,14:30:47,None,Piggy - Birthday,1,$36.31,$0.00,$36.31,xPueo2jSLSIvILslj16rpdAXDtYZY,Physical Good
+18/12/2024,14:26:18,None,Mel - Necklace,1,$40.84,$0.00,$40.84,19KXz8CXqtUy59uaX1EpzfwKZqCZY,Physical Good
+18/12/2024,14:25:59,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,JJhibcdihXLsHCDFaVehuSXplzYZY,Physical Good
+18/12/2024,14:07:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,5jI5qT304ceEvV7iIkFhEKswZ3QZY,Service
+18/12/2024,14:07:32,None,Gloss Varnish,1,$4.55,$0.00,$4.55,5jI5qT304ceEvV7iIkFhEKswZ3QZY,Service
+18/12/2024,13:51:22,None,SP - Mermaid,1,$47.23,-$20.00,$27.23,RVNoMyC8KUjcbIWludzYUt2s6UVZY,Physical Good
+18/12/2024,13:46:35,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,RDCZnN9g7DE1IOfkDNTdgG0lc2eZY,Physical Good
+18/12/2024,13:46:09,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,TYayUPkg7xDR0eYbqLEymNTULkAZY,Physical Good
+18/12/2024,13:35:54,None,BuBu LaLa - DIY Figurine Painting Kit,1,$45.45,$0.00,$45.45,FlO9VcG78KAyoPTKRSAO7l5ACJXZY,Physical Good
+18/12/2024,13:34:15,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,78Qrt9zbjZBpeo6EhS39gVn7rb9YY,Physical Good
+18/12/2024,13:34:15,None,Mel - Necklace,1,$40.91,$0.00,$40.91,78Qrt9zbjZBpeo6EhS39gVn7rb9YY,Physical Good
+18/12/2024,13:31:52,SP GIRL - SKULLPANDA,SP - Umbrella,1,$54.46,$0.00,$54.46,11mzQetxBvshVPfSecDwKOH0INSZY,Physical Good
+18/12/2024,13:31:52,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.30,$0.00,$36.30,11mzQetxBvshVPfSecDwKOH0INSZY,Physical Good
+18/12/2024,12:53:00,None,Larva - laughing,1,$31.77,$0.00,$31.77,jU0mB3VycZZDf0K9wGJhSH0INPHZY,Physical Good
+18/12/2024,12:52:32,None,Bowtie Cat School Girl - DIY Figurine Painting Kit,1,$40.84,$0.00,$40.84,tpKH3PKGY0i6ByXM6lRvEWhmOR9YY,Physical Good
+18/12/2024,12:51:21,None,Mel - Necklace,1,$40.84,$0.00,$40.84,7WVhWdKYrqMUnGvcbPY1RYVe4mYZY,Physical Good
+18/12/2024,12:50:51,Sanrio,Kuro -  King,1,$40.91,$0.00,$40.91,txaxm8pGezHTNiC5UwU4wnYXucLZY,Physical Good
+18/12/2024,11:33:22,Sanrio,Cina,1,$36.36,$0.00,$36.36,xNP13QvETjEsuO3oI7tr38iKwraZY,Physical Good
+18/12/2024,11:32:58,Sanrio,Mel,1,$36.36,$0.00,$36.36,DkcKKhfyefQnlUkEPG7s3nloTmZZY,Physical Good
+17/12/2024,21:44:40,None,Gloss,2,$9.08,$0.00,$9.08,TcKTJF1VUv01jZqaI7ZD0XYPYr7YY,Physical Good
+17/12/2024,21:36:42,None,Gloss,4,$18.15,$0.00,$18.15,ptZryfRnSjE3VG9Z88SF0LEWnS8YY,Physical Good
+17/12/2024,19:21:20,Sanrio,Purin,1,$42.82,-$21.43,$21.39,f2KwOnnD8832wMm8A7e6TCI6s4GZY,Physical Good
+17/12/2024,19:21:20,None,BuBu LaLa,1,$47.58,-$23.81,$23.77,f2KwOnnD8832wMm8A7e6TCI6s4GZY,Physical Good
+17/12/2024,19:21:20,Beverages,Drink - Lipton PEACH,2,$9.52,-$4.76,$4.76,f2KwOnnD8832wMm8A7e6TCI6s4GZY,Physical Good
+17/12/2024,18:41:27,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,VxgdPjMwmLlaiuWPbYeHw7znkwYZY,Physical Good
+17/12/2024,18:41:27,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,VxgdPjMwmLlaiuWPbYeHw7znkwYZY,Physical Good
+17/12/2024,18:37:31,None,Capybara - Watermelon,1,$45.38,$0.00,$45.38,FnzhWECHzipjhXbPvkwluEyjbx5YY,Physical Good
+17/12/2024,18:37:00,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,tpw6TztkfS0DspU4kFnIU5B5cQIZY,Physical Good
+17/12/2024,18:35:56,None,Capybara - Glasses Tie,1,$45.84,-$5.00,$40.84,JDqOi2vqFni3DOKJK1trpIZHwNcZY,Physical Good
+17/12/2024,18:33:19,POP MART Character,Dim Dim,1,$46.30,-$10.00,$36.30,xlfFJU0bhp3LPzxLzcGjJlSR3K7YY,Physical Good
+17/12/2024,18:33:19,None,Capybara - Chicken Hat,1,$46.31,-$10.00,$36.31,xlfFJU0bhp3LPzxLzcGjJlSR3K7YY,Physical Good
+17/12/2024,18:31:15,None,Capybara - TV,1,$45.38,$0.00,$45.38,3uep3B5ktX0qVdWdJaFe4FVkUbJZY,Physical Good
+17/12/2024,18:25:57,None,Capybara - On Lotus,1,$54.46,$0.00,$54.46,tfTwNITcmZdve9vtTghtVTZtYQSZY,Physical Good
+17/12/2024,18:02:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3Smmgt3WHAO6jBIKu9wz2IqtyEcZY,Service
+17/12/2024,18:02:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,3Smmgt3WHAO6jBIKu9wz2IqtyEcZY,Service
+17/12/2024,15:47:44,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,2,$72.61,$0.00,$72.61,F3pWn9sQkrrpX9dZSszoGirXDi8YY,Physical Good
+17/12/2024,15:47:44,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,F3pWn9sQkrrpX9dZSszoGirXDi8YY,Physical Good
+17/12/2024,15:42:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,J1dbArOJChLiNMHeVT4rrdlckBEZY,Service
+17/12/2024,15:40:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bYwQjiWDakEdaz9GKwCF2rs6jh6YY,Service
+17/12/2024,14:41:01,None,Larva - laughing,1,$31.77,$0.00,$31.77,7eZNKU6sQHp4aRhwifxzxWrzem6YY,Physical Good
+17/12/2024,14:40:29,None,Rabbit – Fish,1,$40.91,$0.00,$40.91,30JRFXbl07MfTyg7OlJnHEe8UU9YY,Physical Good
+17/12/2024,13:56:34,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,ZHaxRvXpwwcB6QEuuHqeie0NmBaZY,Physical Good
+17/12/2024,13:52:31,None,Larva - Open Mouth B,1,$31.77,$0.00,$31.77,Fr91MLgCsk88F8lsCMe96j3ImYcZY,Physical Good
+17/12/2024,12:00:15,Sanrio,Cina - Queen,1,$43.24,-$25.96,$17.28,Rt7FCMZ9gcxQwlxvT6iAxVGeMu9YY,Physical Good
+17/12/2024,12:00:15,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$38.44,-$23.08,$15.36,Rt7FCMZ9gcxQwlxvT6iAxVGeMu9YY,Physical Good
+17/12/2024,12:00:15,Sanrio,Mel - Bowtied,1,$43.24,-$25.96,$17.28,Rt7FCMZ9gcxQwlxvT6iAxVGeMu9YY,Physical Good
+17/12/2024,11:31:21,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,FxIhKudirIo31aUhahfciwaQfOIZY,Physical Good
+17/12/2024,11:30:52,None,Larva,1,$31.77,$0.00,$31.77,nIHBxRE2znvO912GmY1wahfzbsUZY,Physical Good
+17/12/2024,11:30:52,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,nIHBxRE2znvO912GmY1wahfzbsUZY,Physical Good
+17/12/2024,11:30:26,None,Capybara - Lucky Wish,1,$45.38,$0.00,$45.38,Jp5ODGN6DXb8Gqw72PeystJOrVUZY,Physical Good
+16/12/2024,21:47:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7AiRsX6NDvag6CqE3GKBrppfxOQZY,Service
+16/12/2024,21:47:21,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7AiRsX6NDvag6CqE3GKBrppfxOQZY,Service
+16/12/2024,20:08:08,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.30,$0.00,$36.30,lbzwG0J4pDBlI1iZCFqinnUvpVBZY,Physical Good
+16/12/2024,20:08:08,None,Capybara - On Lotus,1,$54.46,$0.00,$54.46,lbzwG0J4pDBlI1iZCFqinnUvpVBZY,Physical Good
+16/12/2024,19:36:51,None,Larva - Open mouth A,1,$31.77,$0.00,$31.77,PKAex0e3Kw1FPMyWWDFgJA7CGGNZY,Physical Good
+16/12/2024,19:35:44,None,Larva - Open Mouth B,1,$31.77,$0.00,$31.77,BBV1TWnE9FWNb1bH0lwEDDZVAzIZY,Physical Good
+16/12/2024,17:14:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,X8Vj2par5GI2zSbY0setVRyDeTYZY,Service
+16/12/2024,15:48:45,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NjjX8CXJJXiVuuSor5I3L5Wk4OaZY,Service
+16/12/2024,15:35:06,None,Rabbit – Fish,1,$40.84,$0.00,$40.84,xVHxfemdxuxCFnLzIjTNEsl1dFgZY,Physical Good
+16/12/2024,15:34:52,Sanrio,Cina,1,$36.31,$0.00,$36.31,Vdc8zYrFE8MXLoJqN1rgUVFhy1BZY,Physical Good
+16/12/2024,13:53:25,None,Extra Paints,3,$8.17,$0.00,$8.17,lBm6vCXJp9yiGKMipQHFKOzMbxKZY,Physical Good
+16/12/2024,13:52:25,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,n4nbZAo2ov8L1QKdjMVwlmwZuidZY,Physical Good
+16/12/2024,13:39:08,None,Strawberry Bear - Waving,1,$40.91,$0.00,$40.91,ZR5cl2XnJ0fh0O76dWT5Wok4X9FZY,Physical Good
+16/12/2024,13:39:08,Sanrio,Mel - Bowtied,1,$40.91,$0.00,$40.91,ZR5cl2XnJ0fh0O76dWT5Wok4X9FZY,Physical Good
+16/12/2024,13:32:21,None,Piggy - Peachy,1,$36.31,$0.00,$36.31,bKD5SDSWRzyuqgoI06YH4qrY0wdZY,Physical Good
+16/12/2024,12:50:07,None,Kuro - Princess,1,$40.91,$0.00,$40.91,H8b0273gCugbW6UlqS6xtkgD8xcZY,Physical Good
+16/12/2024,12:49:36,Sanrio,Cina - Bowtied,1,$40.91,$0.00,$40.91,R9JQgRJLSFL50Tmf8ShH8s6ZDXBZY,Physical Good
+16/12/2024,11:21:27,None,Capybara - Mother & Child,1,$54.46,$0.00,$54.46,h7gOOSGlEoQuVTyOUFU7lckSdi6YY,Physical Good
+16/12/2024,10:14:11,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,5jwBjIKKFhfKhoqUIQl63kyT3JRZY,Physical Good
+15/12/2024,19:58:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jsepOaWIaTcaXvA2Z2GYxS5isvRZY,Service
+15/12/2024,19:58:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,jsepOaWIaTcaXvA2Z2GYxS5isvRZY,Service
+15/12/2024,19:58:18,None,Gloss Varnish,1,$4.53,$0.00,$4.53,jsepOaWIaTcaXvA2Z2GYxS5isvRZY,Service
+15/12/2024,18:29:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,rM8DJXg5a7WzDlNhvq5xBPVjMFPZY,Service
+15/12/2024,18:09:20,None,Capybara - On Lotus,1,$54.46,$0.00,$54.46,ZhBS3ddRht3vE02FEyuQ28PA6nXZY,Physical Good
+15/12/2024,18:09:20,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,ZhBS3ddRht3vE02FEyuQ28PA6nXZY,Physical Good
+15/12/2024,18:06:17,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,xrWbwU2S2PeblDeTdB89FCarbaVZY,Physical Good
+15/12/2024,17:34:36,Beverages,Drink - Banana Milk,1,$3.75,-$3.75,$0.00,f6axrjngguHEDW5LGTBw1RDkD67YY,Physical Good
+15/12/2024,17:08:38,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,jS1lVdnXiRzoP6PiU0ljH4hX3rRZY,Physical Good
+15/12/2024,17:08:38,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,jS1lVdnXiRzoP6PiU0ljH4hX3rRZY,Physical Good
+15/12/2024,16:24:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,hN9GFA1fpzGRTlt7RdHLGmVEIVEZY,Service
+15/12/2024,15:48:26,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,5FBJFnglQDUHtKoa2cn5q8rmaFYZY,Physical Good
+15/12/2024,15:27:11,None,Custom Amount,1,$40.84,$0.00,$40.84,bcikR0fTxQAwcwUEbnkufhxT2lCZY,
+15/12/2024,15:27:00,None,Custom Amount,1,$40.84,$0.00,$40.84,TA6OggWGf132VogwGUpEuZg28pFZY,
+15/12/2024,15:16:40,Sanrio,Cinna,1,$36.30,$0.00,$36.30,xjkyxFAWPPXlNBxo5qNrP8c2YZDZY,Physical Good
+15/12/2024,15:16:40,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,xjkyxFAWPPXlNBxo5qNrP8c2YZDZY,Physical Good
+15/12/2024,15:16:40,Beverages,Drink - WATER,1,$2.73,$0.00,$2.73,xjkyxFAWPPXlNBxo5qNrP8c2YZDZY,Physical Good
+15/12/2024,15:10:18,None,Capybara - Mother & Child,1,$55.01,-$6.00,$49.01,zcIgSlms0QZv4mBhqBPxvrOciEHZY,Physical Good
+15/12/2024,14:37:31,Sanrio,Cinna,1,$36.31,$0.00,$36.31,vQHcBi04bZvIFiC15YyrRh6hQP6YY,Physical Good
+15/12/2024,14:35:39,None,Custom Amount,1,$181.82,$0.00,$181.82,LEC6iGs3MzmE9F6S2K4IPdeX4OGZY,
+15/12/2024,14:35:39,Sanrio,Cina - Princess,1,$40.91,$0.00,$40.91,LEC6iGs3MzmE9F6S2K4IPdeX4OGZY,Physical Good
+15/12/2024,14:35:39,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.36,$0.00,$36.36,LEC6iGs3MzmE9F6S2K4IPdeX4OGZY,Physical Good
+15/12/2024,14:23:49,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.30,$0.00,$36.30,JJfR4730cK6EfldAio5Tehby15XZY,Physical Good
+15/12/2024,14:23:49,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,JJfR4730cK6EfldAio5Tehby15XZY,Physical Good
+15/12/2024,14:19:59,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,FtEaFBfYiI1iQUyqv0ablyeyQjVZY,Physical Good
+15/12/2024,14:19:01,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,zwGee2smetJeVlXmwD4nskGMF5IZY,Physical Good
+15/12/2024,13:41:49,None,Kuro - Princess,1,$40.84,$0.00,$40.84,XSympcIaI1hQsI5bhrpLmtVIRrdZY,Physical Good
+15/12/2024,13:41:49,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,XSympcIaI1hQsI5bhrpLmtVIRrdZY,Physical Good
+15/12/2024,13:02:24,Raws/Kaws,Raws - Furry,1,$47.81,-$26.32,$21.49,dRWrywVn5YNdwmLLsHgf3OkueKbZY,Physical Good
+15/12/2024,13:02:24,None,Bowtie Cat - School Girl,1,$43.03,-$23.68,$19.35,dRWrywVn5YNdwmLLsHgf3OkueKbZY,Physical Good
+15/12/2024,12:48:18,None,Capybara - Bathtub,1,$45.45,$0.00,$45.45,RPwNPJBKgEkt6796wkqTvHhaoL7YY,Physical Good
+15/12/2024,12:47:49,None,Capybara - Bathtub,1,$45.45,$0.00,$45.45,RfOE9vygEr0oMOgN4UJAQguUcC7YY,Physical Good
+15/12/2024,12:16:08,Sanrio,Cinna,1,$36.36,$0.00,$36.36,nGOXtj0X8FDDWF4oGnEJ39pKOnFZY,Physical Good
+15/12/2024,12:15:00,None,Mel - Necklace,1,$40.91,$0.00,$40.91,VbtN7siTylRg8fMXgo0Gbmbm6adZY,Physical Good
+15/12/2024,11:55:32,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,HCmcI3nthl18VsKgA3RUbQcBJPQZY,Physical Good
+15/12/2024,11:55:32,Sanrio,Cinna,1,$36.31,$0.00,$36.31,HCmcI3nthl18VsKgA3RUbQcBJPQZY,Physical Good
+15/12/2024,10:50:20,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,VRU9m19TbKMAzYISSzWNk8A12YTZY,Physical Good
+14/12/2024,23:04:50,None,Take-home kit,1,$2.72,$0.00,$2.72,XeWt420GI0VZggDloQe37iPmtQOZY,Physical Good
+14/12/2024,23:04:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XeWt420GI0VZggDloQe37iPmtQOZY,Service
+14/12/2024,21:51:50,None,Capybara - Piggy Hat,1,$50.00,-$50.00,$0.00,78UpNmtco4RtAOtjF8MxEhmgiZAZY,Physical Good
+14/12/2024,21:39:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FXHjrI5JsWiIbmdovkyytcBeCdeZY,Service
+14/12/2024,20:45:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vG4brKAUoQIvhLheLainkm0IotKZY,Service
+14/12/2024,20:09:00,None,Dor - Fal,1,$40.84,$0.00,$40.84,97Xn7ig2KaL15Go20CphAxAYvJ6YY,Physical Good
+14/12/2024,20:08:45,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,HS2q4FDdDnMpY0dBAi59quFp1nQZY,Physical Good
+14/12/2024,20:06:50,POP MART Character,Dim Dim,1,$45.38,$0.00,$45.38,RLSXnfXB9kgECcr5FOt1tALqClXZY,Physical Good
+14/12/2024,20:06:50,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,RLSXnfXB9kgECcr5FOt1tALqClXZY,Physical Good
+14/12/2024,19:59:27,None,Gloss Varnish,-1,-$4.55,$0.00,-$4.55,dvddcATB09reNi21JYjxdA2eV,Service
+14/12/2024,19:59:27,None,Gloss Varnish,-1,-$4.54,$0.00,-$4.54,dvddcATB09reNi21JYjxdA2eV,Service
+14/12/2024,19:17:54,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,DYwDzVEiYPJL68HuN42XeB4ZltZZY,Physical Good
+14/12/2024,19:17:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Lex7gHBv8pbqZ1NklNLxW7tQOtUZY,Service
+14/12/2024,19:17:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XcVdyLcYNkVlVcf4fEmRealSkseZY,Service
+14/12/2024,18:46:33,None,Custom Amount,1,$8.17,$0.00,$8.17,L0eClmUpZzBFvy5kqpku1SuobqOZY,
+14/12/2024,18:45:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bAIqZ3MTVQSXivhnbeiCz1vdMN6YY,Service
+14/12/2024,18:45:17,None,Gloss Varnish,1,$4.55,$0.00,$4.55,bAIqZ3MTVQSXivhnbeiCz1vdMN6YY,Service
+14/12/2024,18:24:38,None,Gloss Varnish,1,$4.54,$0.00,$4.54,F1IWP7VuYW3XDS0kD1Wgs7MhCYRZY,Service
+14/12/2024,17:40:57,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,hHiOjKxy4oZ3JlwHpwWw8FBK4XQZY,Physical Good
+14/12/2024,17:40:33,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,D2DjRgelcfmEdr9poqh6rlLZzj7YY,Physical Good
+14/12/2024,17:25:35,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,xRdxyIvwtvPvTn4MGboC4t0KUUdZY,Physical Good
+14/12/2024,17:25:35,Sanrio,Cinna,1,$36.31,$0.00,$36.31,xRdxyIvwtvPvTn4MGboC4t0KUUdZY,Physical Good
+14/12/2024,16:53:35,None,Cina – Magician Hat,1,$40.84,$0.00,$40.84,V7zqUWLWf0btQTyxy1K1wVKxe2bZY,Physical Good
+14/12/2024,16:53:35,Sanrio,Kuro -  King,1,$40.85,$0.00,$40.85,V7zqUWLWf0btQTyxy1K1wVKxe2bZY,Physical Good
+14/12/2024,16:45:05,None,Bowtie Cat - School Girl,1,$40.84,$0.00,$40.84,p7uy8oxflQbsQibuUaes50ZNM1IZY,Physical Good
+14/12/2024,16:30:22,None,SP - Mermaid,1,$45.38,$0.00,$45.38,jAMnoQY9MbXaSNaQn1mNoVnBpSfZY,Physical Good
+14/12/2024,16:30:22,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,jAMnoQY9MbXaSNaQn1mNoVnBpSfZY,Physical Good
+14/12/2024,15:54:33,None,Piggy – Happy,1,$36.30,$0.00,$36.30,Lc0Xo9bT4rlf5ObHoUCiBXBBbtVZY,Physical Good
+14/12/2024,15:54:33,None,Piggy - Peachy,1,$36.31,$0.00,$36.31,Lc0Xo9bT4rlf5ObHoUCiBXBBbtVZY,Physical Good
+14/12/2024,15:52:16,None,Larva - laughing,1,$31.77,$0.00,$31.77,HAJKSzCKhFH3uXZ3H94pNkp4bUAZY,Physical Good
+14/12/2024,15:52:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HAJKSzCKhFH3uXZ3H94pNkp4bUAZY,Service
+14/12/2024,15:51:44,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,NLpijjgyectnsLyBq610shH9uZIZY,Physical Good
+14/12/2024,15:51:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NLpijjgyectnsLyBq610shH9uZIZY,Service
+14/12/2024,15:50:29,None,Custom Amount,1,$367.67,-$50.00,$317.67,vEfPtbs3g259WJ4sdrM6seBNMJRZY,
+14/12/2024,15:24:02,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FTpTrieBSFSVZXQGz53laVCvwIMZY,Service
+14/12/2024,15:23:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,baLNJXnRl2VEa7i33wL39RntaJKZY,Service
+14/12/2024,15:23:34,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NHDs3kvoqIYlOpPV8cvbCSbBOPRZY,Service
+14/12/2024,15:21:40,None,Capybara - Lucky Wish,1,$45.38,$0.00,$45.38,ZN1ZX9etkPtVQjDKDKi4THrN09DZY,Physical Good
+14/12/2024,15:21:40,None,Capybara - On Lotus,1,$54.46,$0.00,$54.46,ZN1ZX9etkPtVQjDKDKi4THrN09DZY,Physical Good
+14/12/2024,14:42:04,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,1daH8PBZKgjnkRKYmQfkgo8np3bZY,Physical Good
+14/12/2024,13:57:58,Sanrio,Mel - Bowtied,1,$43.15,-$25.00,$18.15,VZwLvpJjWLuJlF1ALF2eRXtP8hCZY,Physical Good
+14/12/2024,13:57:34,None,SP - Sailor Moon,1,$47.69,-$25.00,$22.69,p5vpFvzZ0TfM9eEBAYxOcgtBQHGZY,Physical Good
+14/12/2024,13:44:16,None,Capybara - Mother & Child,1,$54.46,$0.00,$54.46,jEQYeZf8LrIbnQQ23moTdkFRMiNZY,Physical Good
+14/12/2024,12:55:52,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,VNCXhKZRYDbGXUY0rLPUiwHfe4TZY,Physical Good
+14/12/2024,12:55:24,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,hnMLPace8HYwNcUYfbyHNz9431LZY,Physical Good
+14/12/2024,12:54:56,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,fGe0Jf2BWyxY1TJfiuz0pKRyuFcZY,Physical Good
+14/12/2024,12:20:11,Sanrio,Mel,1,$36.31,$0.00,$36.31,1J81dx7GGOMEqtAgGlv8XqW0hLeZY,Physical Good
+14/12/2024,12:11:40,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,XS6mmS7aKn0sXsNdDJthaoqQGfKZY,Physical Good
+14/12/2024,11:08:15,Pokemon Characters,Pok - Pi on Saturn,1,$40.84,$0.00,$40.84,HaI5fooRqLkosyPWz6Z71qMrUHRZY,Physical Good
+14/12/2024,11:08:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HaI5fooRqLkosyPWz6Z71qMrUHRZY,Service
+13/12/2024,21:47:34,Halloween,Halloween - Pumpkin Man,1,$45.00,-$45.00,$0.00,3CGCaKGlMfRVWRx1lSnWNG6sQuFZY,Physical Good
+13/12/2024,20:46:17,None,Totoro,1,$43.29,-$26.47,$16.82,RT4G6xZqwybHixWumGfFNQbFHS9YY,Physical Good
+13/12/2024,20:46:17,Sanrio,Cinna,1,$38.48,-$23.53,$14.95,RT4G6xZqwybHixWumGfFNQbFHS9YY,Physical Good
+13/12/2024,19:36:37,Sanrio,Mel,1,$36.30,$0.00,$36.30,BJ9lWCipZIopwug0kZKwJ7oQiNMZY,Physical Good
+13/12/2024,19:36:37,None,Dino,1,$36.31,$0.00,$36.31,BJ9lWCipZIopwug0kZKwJ7oQiNMZY,Physical Good
+13/12/2024,19:26:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JHqTiNZrud641MwECJHPaUP7mTdZY,Service
+13/12/2024,19:26:06,None,Gloss Varnish,1,$4.54,$0.00,$4.54,JHqTiNZrud641MwECJHPaUP7mTdZY,Service
+13/12/2024,17:40:13,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BzEof2Z5AXDsiu0TPERyd7rC1BZZY,Service
+13/12/2024,17:08:33,None,Teddy with Tote -  DIY Plaster Figurine Painting Kit,1,$36.31,$0.00,$36.31,H6y8z1wBxZcalvFH9SeJSWWfZ4NZY,Physical Good
+13/12/2024,17:06:09,Sanrio,Kuro - Clown Hat,1,$45.00,-$45.00,$0.00,zuDv5Vzv8qbPltJ8CGLjqUcD8tEZY,Physical Good
+13/12/2024,16:47:37,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,R1PXV9u1Rs2VbCLqXhFrwzJ9JTbZY,Physical Good
+13/12/2024,16:47:37,Beverages,Drink - Banana Milk,1,$3.41,$0.00,$3.41,R1PXV9u1Rs2VbCLqXhFrwzJ9JTbZY,Physical Good
+13/12/2024,16:45:54,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,DoMLDpEjls0WAmFxNWA1CaK9Ny6YY,Physical Good
+13/12/2024,16:45:54,Sanrio,Kuro – Magician Hat,1,$40.85,$0.00,$40.85,DoMLDpEjls0WAmFxNWA1CaK9Ny6YY,Physical Good
+13/12/2024,16:10:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fcXR0JBo7BV6EUk7Zew2cUkgq3YZY,Service
+13/12/2024,16:10:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,fcXR0JBo7BV6EUk7Zew2cUkgq3YZY,Service
+13/12/2024,16:10:22,None,Gloss Varnish,1,$4.53,$0.00,$4.53,fcXR0JBo7BV6EUk7Zew2cUkgq3YZY,Service
+13/12/2024,14:34:23,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,Talnykx3n1mjvCWi7WcxUQC7836YY,Physical Good
+13/12/2024,14:34:23,Pokemon Characters,Pok - Pi on Saturn,1,$40.84,$0.00,$40.84,Talnykx3n1mjvCWi7WcxUQC7836YY,Physical Good
+13/12/2024,14:34:23,Sanrio,Mel,1,$36.31,$0.00,$36.31,Talnykx3n1mjvCWi7WcxUQC7836YY,Physical Good
+13/12/2024,14:13:02,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,bCf5hk3tewd9Iu48J7kSbMki7qIZY,Physical Good
+13/12/2024,13:42:39,None,Nami,1,$45.38,$0.00,$45.38,Dsir2J8qbjx2J6V8Sj5rn2JtqyIZY,Physical Good
+13/12/2024,13:42:39,None,BuBu LaLa,1,$45.38,$0.00,$45.38,Dsir2J8qbjx2J6V8Sj5rn2JtqyIZY,Physical Good
+13/12/2024,13:29:04,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pxHlwH4ERAhmGtfHqPfzR9MOqSEZY,Service
+13/12/2024,11:45:13,None,Nami,1,$45.38,$0.00,$45.38,zYCwdOcpL3EUDiYOjq7nDwo8yuLZY,Physical Good
+13/12/2024,11:26:44,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,VBItqFmHYQY0acDESZT2vPEbvvSZY,Physical Good
+12/12/2024,19:38:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,trL3l6scR7PkWjxl1KG2QmLCqYIZY,Service
+12/12/2024,19:23:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,H8tV4qdynBuuG4XGUKpeLF6hsYeZY,Service
+12/12/2024,19:16:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TmporGgPsWEhk7BmN0ZJp8XycNTZY,Service
+12/12/2024,18:53:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vYxDpVuO9PVse1qYWcEMY7ODaZPZY,Service
+12/12/2024,18:40:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZnoKY4nsgCUxQ957h8RVC7gTyFHZY,Service
+12/12/2024,18:40:18,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZnoKY4nsgCUxQ957h8RVC7gTyFHZY,Service
+12/12/2024,18:40:18,None,Gloss Varnish,1,$4.53,$0.00,$4.53,ZnoKY4nsgCUxQ957h8RVC7gTyFHZY,Service
+12/12/2024,18:27:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,prMlw6zGGlpNiImh5od8MNenf7MZY,Service
+12/12/2024,18:27:23,None,Gloss Varnish,1,$4.54,$0.00,$4.54,prMlw6zGGlpNiImh5od8MNenf7MZY,Service
+12/12/2024,17:50:54,None,Astro Boy - B,1,$75.00,-$75.00,$0.00,Fz3ehCmDBoKSgqgNjTdeqEF9nuSZY,Physical Good
+12/12/2024,17:15:56,None,Rabbit – Fish,1,$40.84,$0.00,$40.84,veGcBRo7nIiZxrw2mkL2sKcbOq5YY,Physical Good
+12/12/2024,17:15:56,None,Teddy with Tote,1,$36.31,$0.00,$36.31,veGcBRo7nIiZxrw2mkL2sKcbOq5YY,Physical Good
+12/12/2024,16:54:33,None,Gloss Varnish,1,$4.54,$0.00,$4.54,n2OZRPLfoFPZLt2u3cVwiBrqwy7YY,Service
+12/12/2024,16:54:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NbhWP2uMH2G1YLJyj5XaJwouEoUZY,Service
+12/12/2024,16:17:37,None,Teddy with Tote,1,$36.31,$0.00,$36.31,B5NBohvS3lX0KjVHO033y4vLUbDZY,Physical Good
+12/12/2024,16:17:37,None,Totoro,1,$40.84,$0.00,$40.84,B5NBohvS3lX0KjVHO033y4vLUbDZY,Physical Good
+12/12/2024,15:58:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nkJpuK5ZBkBmZHtOzSIN8rwpZLRZY,Service
+12/12/2024,15:58:53,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nkJpuK5ZBkBmZHtOzSIN8rwpZLRZY,Service
+12/12/2024,15:20:28,SP GIRL - SKULLPANDA,SP - Umbrella,1,$60.00,-$60.00,$0.00,Ds6hDJAlqG4Ne5D3YAon304tlyVZY,Physical Good
+12/12/2024,15:18:57,POP MART Character,Dim Dim,1,$45.38,$0.00,$45.38,pFdfMAKer5HZxJxo549wYmYfIsZZY,Physical Good
+12/12/2024,15:02:55,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,Lm5JcokvwqRpVmfWcIHV7YtvVy8YY,Physical Good
+12/12/2024,15:02:55,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,Lm5JcokvwqRpVmfWcIHV7YtvVy8YY,Physical Good
+12/12/2024,15:02:31,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,thWrJhqSsXieVhjgHJyor4oKhPNZY,Physical Good
+12/12/2024,15:01:51,None,Teddy with Tote,1,$36.31,$0.00,$36.31,r2JrS7vx9ca5DfVOYOpRiI4TUy8YY,Physical Good
+12/12/2024,15:01:51,None,Capybara - On Lotus,1,$54.46,$0.00,$54.46,r2JrS7vx9ca5DfVOYOpRiI4TUy8YY,Physical Good
+12/12/2024,15:01:51,None,Totoro,1,$40.84,$0.00,$40.84,r2JrS7vx9ca5DfVOYOpRiI4TUy8YY,Physical Good
+12/12/2024,14:54:43,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,nEnybodm4nIuWs8XyTi8Bmnd19DZY,Physical Good
+12/12/2024,14:41:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dr98s6g8Ma5bChjDi2j8LnJPY1dZY,Service
+12/12/2024,14:37:25,None,SP - Sailor Moon,1,$47.95,-$27.78,$20.17,X4RAIXOeV5HPNbFbXE71ycy4me7YY,Physical Good
+12/12/2024,14:37:25,Sanrio,Cina,1,$38.36,-$22.22,$16.14,X4RAIXOeV5HPNbFbXE71ycy4me7YY,Physical Good
+12/12/2024,14:22:00,None,Gloss Varnish,1,$4.54,$0.00,$4.54,Z1x9bXwfdozlpebI3fnmcoBrbqbZY,Service
+12/12/2024,14:20:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XmUcJ6McBHeKbYo3QYuYGqBzllMZY,Service
+12/12/2024,14:16:30,None,Repeat painting,1,$9.08,$0.00,$9.08,f8XnFi50qyWruJsZKK5LZAyxQ2LZY,Service
+12/12/2024,14:16:30,None,Repeat painting,1,$9.08,$0.00,$9.08,f8XnFi50qyWruJsZKK5LZAyxQ2LZY,Service
+12/12/2024,14:16:30,None,Repeat painting,1,$9.07,$0.00,$9.07,f8XnFi50qyWruJsZKK5LZAyxQ2LZY,Service
+12/12/2024,14:13:09,None,Piggy - Birthday,1,$36.31,$0.00,$36.31,HusE4vzqfpc5PyOAGYhdYqImaqSZY,Physical Good
+12/12/2024,14:12:39,Sanrio,Cina,1,$36.31,$0.00,$36.31,pdjsAcXt9xhcTchhvZmSyKTOORCZY,Physical Good
+12/12/2024,14:03:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tPfCKeA4ofH3bocLKJkGxefwOQPZY,Service
+12/12/2024,14:03:25,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tPfCKeA4ofH3bocLKJkGxefwOQPZY,Service
+12/12/2024,13:59:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FZQzIPfOLXJbrS1Hfv0i1wuZVIdZY,Service
+12/12/2024,13:59:05,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,BV5weSKZBWVwT847mqhVBQ0dfaMZY,Physical Good
+12/12/2024,13:38:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HGKTx0onTErgX3XvgwJP04H6xG9YY,Service
+12/12/2024,13:38:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HGKTx0onTErgX3XvgwJP04H6xG9YY,Service
+12/12/2024,13:06:01,Beverages,Drink - Banana Milk,1,$3.75,-$3.75,$0.00,Zzc7yjzFft0XFUxzIIKYj2jvcmdZY,Physical Good
+12/12/2024,12:51:30,Sanrio,Mel,1,$36.31,$0.00,$36.31,LKrZPSIKq9x4pW9Mpa6RKDjlNiVZY,Physical Good
+12/12/2024,12:51:03,None,Rabbit Bowtie - Carrot,1,$36.31,$0.00,$36.31,z2N8IODmTcKTadMNHDP9jdnamQQZY,Physical Good
+12/12/2024,12:50:32,None,Larva - laughing,1,$33.76,-$21.60,$12.16,7Ii9fvNEtpsYUNp10v74GOQTmNNZY,Physical Good
+12/12/2024,12:50:32,Couple,Couple - Banana,2,$106.11,-$67.90,$38.21,7Ii9fvNEtpsYUNp10v74GOQTmNNZY,Physical Good
+12/12/2024,12:50:32,None,Teddy with Tote,2,$77.17,-$49.38,$27.79,7Ii9fvNEtpsYUNp10v74GOQTmNNZY,Physical Good
+12/12/2024,12:50:32,Halloween,Halloween - Pumpkin Man,1,$43.41,-$27.78,$15.63,7Ii9fvNEtpsYUNp10v74GOQTmNNZY,Physical Good
+12/12/2024,12:50:32,None,Larva,1,$33.76,-$21.61,$12.15,7Ii9fvNEtpsYUNp10v74GOQTmNNZY,Physical Good
+12/12/2024,12:50:32,None,Capybara - Piggy Hat,2,$96.47,-$61.73,$34.74,7Ii9fvNEtpsYUNp10v74GOQTmNNZY,Physical Good
+12/12/2024,12:46:30,None,Larva,1,$31.77,$0.00,$31.77,Xqm2iGYVuniKRHajAqsxhC1KzxRZY,Physical Good
+12/12/2024,12:46:30,Sanrio,Mel,1,$36.30,$0.00,$36.30,Xqm2iGYVuniKRHajAqsxhC1KzxRZY,Physical Good
+12/12/2024,12:20:21,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,1fXh5QE3q5oNYWfXtWR8AmMB569YY,Physical Good
+12/12/2024,12:20:21,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,1fXh5QE3q5oNYWfXtWR8AmMB569YY,Physical Good
+11/12/2024,17:10:22,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dbvzfFCRDt9KS1q23U2CUHg9BI9YY,Service
+11/12/2024,16:59:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,nIFWGuSdPG8fP9I8ePjV4pYuG7OZY,Service
+11/12/2024,16:57:23,Sanrio,Kuro -  King,1,$45.00,-$45.00,$0.00,pRZQr2YiMx5VMkSToLNjnBKs2iYZY,Physical Good
+11/12/2024,16:50:21,Sanrio,Mel,1,$38.61,-$25.00,$13.61,JVd5dSjgOvK2JR0oMwM4AP0afDbZY,Physical Good
+11/12/2024,16:48:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FZUPrePRflTRNyERBhcodiLJAzAZY,Service
+11/12/2024,15:49:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lZ62rmrehZ5DtAadk2KLAQP08X7YY,Service
+11/12/2024,15:49:54,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lZ62rmrehZ5DtAadk2KLAQP08X7YY,Service
+11/12/2024,15:49:54,None,Gloss Varnish,1,$4.53,$0.00,$4.53,lZ62rmrehZ5DtAadk2KLAQP08X7YY,Service
+11/12/2024,14:43:37,None,Gloss Varnish,1,$4.54,$0.00,$4.54,ZdfESs2lTeYcG4ThNlTT6F92NeUZY,Service
+11/12/2024,14:27:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,x3clo6cEAl9sLUuDXTFFTp2jo97YY,Service
+11/12/2024,14:23:28,None,Larva - laughing,1,$31.77,$0.00,$31.77,lr3GMVbCQ49QmvSlZs2IJWTDyQcZY,Physical Good
+11/12/2024,14:23:09,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,jOdgCyVuyF1U6wMj95YRHzL2UQRZY,Physical Good
+11/12/2024,14:22:36,Sanrio,Cina,1,$36.31,$0.00,$36.31,DkO39qhUL2S43NSPaIP3ECPjlnCZY,Physical Good
+11/12/2024,13:46:28,None,Totoro,1,$40.84,$0.00,$40.84,J1fK16s4N1iY5sTFsfCwVbLAWsWZY,Physical Good
+11/12/2024,13:46:28,None,Bowtie Cat - School Girl,1,$40.85,$0.00,$40.85,J1fK16s4N1iY5sTFsfCwVbLAWsWZY,Physical Good
+11/12/2024,13:45:46,Sanrio,Cina - Queen,1,$40.84,$0.00,$40.84,BZjsANoBscXSH40BmRQyELOsZSJZY,Physical Good
+11/12/2024,13:45:46,None,Dor - Fal,1,$36.31,$0.00,$36.31,BZjsANoBscXSH40BmRQyELOsZSJZY,Physical Good
+11/12/2024,12:59:52,None,Larva - Open mouth A,1,$33.79,-$21.88,$11.91,1RioU6oDgvZxh3w0aS1lCPRRod8YY,Physical Good
+11/12/2024,12:59:52,None,Dor - Magician hat,1,$43.44,-$28.12,$15.32,1RioU6oDgvZxh3w0aS1lCPRRod8YY,Physical Good
+11/12/2024,12:51:45,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,H0ZvQoUJE7a0Rrzg8Va8DslXD3XZY,Physical Good
+11/12/2024,12:51:16,SP GIRL - SKULLPANDA,SP - Umbrella,1,$54.46,$0.00,$54.46,FRuOp9FTNjfgr3ibSWwCIxKvRr9YY,Physical Good
+11/12/2024,12:51:16,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,FRuOp9FTNjfgr3ibSWwCIxKvRr9YY,Physical Good
+11/12/2024,12:42:36,None,Cina – Magician Hat,1,$40.84,$0.00,$40.84,PWiAq8SXuQv4nAXf5LTn9uhz3rFZY,Physical Good
+11/12/2024,12:42:21,None,Teddy with Tote,1,$36.31,$0.00,$36.31,3ch15JdhpE2K6xoZrBl9bYvr64bZY,Physical Good
+11/12/2024,11:12:41,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,1TLwgnOyAxIJGmA2erAR0CT6dS8YY,Physical Good
+11/12/2024,11:12:41,None,Teddy with Tote,1,$36.30,$0.00,$36.30,1TLwgnOyAxIJGmA2erAR0CT6dS8YY,Physical Good
+11/12/2024,11:12:41,Beverages,Drink - Lipton PEACH,2,$9.08,$0.00,$9.08,1TLwgnOyAxIJGmA2erAR0CT6dS8YY,Physical Good
+10/12/2024,18:32:29,None,SP - Mermaid,1,$45.38,$0.00,$45.38,R939qZD2jks0kp2LvsmKFbCa33GZY,Physical Good
+10/12/2024,18:32:04,None,Nami,1,$45.38,$0.00,$45.38,VdKbnCUFoiTkSTTEGXGN9OF1Nq9YY,Physical Good
+10/12/2024,18:31:27,None,Capybara - On Lotus,1,$54.46,$0.00,$54.46,fGERgoylJ15XcGhrgyKJ0leHx5cZY,Physical Good
+10/12/2024,18:31:02,None,Piggy - Birthday,1,$36.31,$0.00,$36.31,9pU4s7sEftkeWtRB1UXv4MFJSVXZY,Physical Good
+10/12/2024,17:39:01,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bejsDjtZ2fpoRfPOHULXU1lc2peZY,Service
+10/12/2024,16:56:59,None,Dor - Fal,1,$36.31,$0.00,$36.31,pzIBkMX0CyQSOoRjDvOiBt8khpGZY,Physical Good
+10/12/2024,16:56:59,None,Astronaut - Cat Lady,1,$45.38,$0.00,$45.38,pzIBkMX0CyQSOoRjDvOiBt8khpGZY,Physical Good
+10/12/2024,16:56:59,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,pzIBkMX0CyQSOoRjDvOiBt8khpGZY,Physical Good
+10/12/2024,16:07:29,None,Teddy with Tote,1,$36.31,$0.00,$36.31,xpbMHW1C79NYP3Gd6cih4SWAdBXZY,Physical Good
+10/12/2024,16:07:29,None,Kuro - Princess,1,$40.84,$0.00,$40.84,xpbMHW1C79NYP3Gd6cih4SWAdBXZY,Physical Good
+10/12/2024,15:34:34,None,Totoro,1,$43.16,-$25.00,$18.16,vk7tVLDC2MHUwm9pJSXRubeFo28YY,Physical Good
+10/12/2024,15:34:34,None,Rabbit – Fish,1,$43.15,-$25.00,$18.15,vk7tVLDC2MHUwm9pJSXRubeFo28YY,Physical Good
+10/12/2024,14:27:29,None,Repeat painting,1,$9.08,$0.00,$9.08,hf8xvjM1xgG4S80DxROkjimo6vNZY,Service
+10/12/2024,14:17:37,None,Nami,1,$45.38,$0.00,$45.38,l9EybmhXhY6SGYagkU6eRTBpz5ZZY,Physical Good
+10/12/2024,14:16:59,Raws/Kaws,Raws - Furry,-1,-$45.38,$0.00,-$45.38,V335tG4JhK0lbmx7WKVCwmmeV,Physical Good
+10/12/2024,14:14:18,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,19mfoe9VLrvIn6b2A79o5mAj3bKZY,Physical Good
+10/12/2024,14:12:56,Sanrio,Kuro -  King,1,$40.84,$0.00,$40.84,tli4gBNkTd7z3101iUloi59V44QZY,Physical Good
+10/12/2024,14:12:56,Sanrio,Kuro - Eclipse,1,$40.85,$0.00,$40.85,tli4gBNkTd7z3101iUloi59V44QZY,Physical Good
+10/12/2024,13:34:27,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,Tq3gWddEKBICwN8DTiiWYEUPkDQZY,Physical Good
+10/12/2024,13:34:09,None,Piggy - Birthday,1,$36.31,$0.00,$36.31,FbhzyGnhdaqYMsjiLvoewZktVMLZY,Physical Good
+10/12/2024,12:07:17,None,Bowtie Cat - School Girl,1,$40.84,$0.00,$40.84,RFVCMqefUGn01HcBJRneygqfdfWZY,Physical Good
+9/12/2024,20:32:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,R7AsWQt32awayK1k3yYBOpMet8HZY,Service
+9/12/2024,20:31:51,None,Gloss Varnish,1,$4.54,$0.00,$4.54,X07kgLSznjPMi6p07ISrxzKLHbVZY,Service
+9/12/2024,20:31:05,None,Gloss Varnish,1,$4.54,$0.00,$4.54,pXGppkEjrAig3jQWfbHr6pc405RZY,Service
+9/12/2024,20:17:59,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xvUnJtA7Rs7LSTVoc5vgiay1Md8YY,Service
+9/12/2024,17:59:22,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,Bn4zwr1FQW2NwCv5L4mIUdC7u46YY,Physical Good
+9/12/2024,17:43:34,None,Teddy with Tote,1,$36.31,$0.00,$36.31,bu138CLN2XMxkidsoLTgYAO6BwMZY,Physical Good
+9/12/2024,17:43:20,Sanrio,Cina,1,$36.31,$0.00,$36.31,7wuxwoeF5N8YfdRjaN8IfdYHUVLZY,Physical Good
+9/12/2024,17:43:07,Sanrio,Cina - Bowtied,1,$40.84,$0.00,$40.84,N9iwIiqHRlnhvSbjTTDlD1u7GYOZY,Physical Good
+9/12/2024,17:42:40,None,Mel - Necklace,1,$40.84,$0.00,$40.84,3WW7fXUMHP6U8711B9azhv5PFUBZY,Physical Good
+9/12/2024,16:55:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xjcM8Jh9fxNwSFmH5Fubn1AawSFZY,Service
+9/12/2024,16:55:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,xjcM8Jh9fxNwSFmH5Fubn1AawSFZY,Service
+9/12/2024,16:33:09,None,Nami,1,$45.38,$0.00,$45.38,zanUCUqBdfSTBsvQdvTGqBLyhzYZY,Physical Good
+9/12/2024,16:12:54,None,Nami,1,$45.38,$0.00,$45.38,Loexzi8pbWxHxA49FvQHr7CvGq7YY,Physical Good
+9/12/2024,16:07:07,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,Hw9cIHJTBx93LtJKKIa6zWMqwBSZY,Physical Good
+9/12/2024,15:32:26,None,Piggy - Peachy,1,$40.00,-$40.00,$0.00,drNiIzffr5yIwLV36QT8iP0fZ7aZY,Physical Good
+9/12/2024,15:31:24,None,Custom Amount,1,$40.84,$0.00,$40.84,T6VvugF6sZKnUQfQcL71bxBbUB9YY,
+9/12/2024,15:09:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,34rXWCD9hvR5dumboNBIFApb9LcZY,Service
+9/12/2024,15:09:56,None,Gloss Varnish,1,$4.54,$0.00,$4.54,34rXWCD9hvR5dumboNBIFApb9LcZY,Service
+9/12/2024,14:41:46,None,Rabbit Bowtie - Carrot,1,$36.30,$0.00,$36.30,ZBPTwr6oSxBQ0LQmiwbh20hSMLBZY,Physical Good
+9/12/2024,14:41:46,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,ZBPTwr6oSxBQ0LQmiwbh20hSMLBZY,Physical Good
+9/12/2024,14:41:46,None,Sleepy Sparkle,1,$36.31,$0.00,$36.31,ZBPTwr6oSxBQ0LQmiwbh20hSMLBZY,Physical Good
+9/12/2024,14:41:46,None,Custom Amount,1,$27.23,$0.00,$27.23,ZBPTwr6oSxBQ0LQmiwbh20hSMLBZY,
+9/12/2024,14:22:46,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,L400J0taBmQx7EvLADQxwCiXS27YY,Physical Good
+9/12/2024,14:21:05,None,Capybara - Glasses Tie,1,$45.38,$0.00,$45.38,v0vdK9EByjl4uoC3Jp366jb10xZZY,Physical Good
+9/12/2024,14:21:05,None,Rabbit – Fish,1,$40.85,$0.00,$40.85,v0vdK9EByjl4uoC3Jp366jb10xZZY,Physical Good
+9/12/2024,14:19:16,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,PSg2f77LFIadMPVCi8vY3Btn8JfZY,Physical Good
+9/12/2024,14:13:49,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,D2fNFBPEDYN7lM50VtpMAT6q70SZY,Physical Good
+9/12/2024,14:13:49,None,Gloss Varnish,1,$4.54,$0.00,$4.54,D2fNFBPEDYN7lM50VtpMAT6q70SZY,Service
+9/12/2024,14:03:47,None,BuBu LaLa,1,$45.38,$0.00,$45.38,BVx0otMEL7ZP8AORy3fpZMh105EZY,Physical Good
+9/12/2024,14:02:58,None,Mel - Necklace,1,$40.84,$0.00,$40.84,t1u2rLXW07toWCJkqiOAAJYPayZZY,Physical Good
+9/12/2024,13:45:45,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,HMJd9nMyRAhMWAqfH8Qs3h4dIOeZY,Physical Good
+9/12/2024,13:42:23,None,Soy Milk,1,$4.54,$0.00,$4.54,XQ7vJ59mHElXNXR7bQ85Qjqy2PCZY,Physical Good
+9/12/2024,13:39:15,None,Larva - Open Mouth B,1,$31.77,$0.00,$31.77,xNxgJtwmOrkTqD0fzSjzP0599cbZY,Physical Good
+9/12/2024,13:39:15,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,xNxgJtwmOrkTqD0fzSjzP0599cbZY,Physical Good
+9/12/2024,13:37:32,None,Teddy with Tote,1,$36.31,$0.00,$36.31,zYmgCPxaHJXVdfM8qxtMIqYq3HXZY,Physical Good
+9/12/2024,13:36:08,None,Teddy with Tote,1,$36.31,$0.00,$36.31,VPr9ABroTv7Zjn8syCZlMykC1JEZY,Physical Good
+9/12/2024,12:40:36,None,Bear - Sleeping,1,$36.30,$0.00,$36.30,rWxTHYkCl7sVurkFo8sdxqJ5FECZY,Physical Good
+9/12/2024,12:40:36,None,Teddy with Tote,1,$36.31,$0.00,$36.31,rWxTHYkCl7sVurkFo8sdxqJ5FECZY,Physical Good
+9/12/2024,12:16:06,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,zmfNgFvZAG6QkgIWp1ullHLUgiZZY,Physical Good
+9/12/2024,12:14:36,None,Totoro,1,$40.84,$0.00,$40.84,nmUK1JCIunrXLApSnUsMTDJI3T8YY,Physical Good
+9/12/2024,12:13:21,None,Capybara - Piggy Hat,1,$47.69,-$25.00,$22.69,NrnzkPhYUjSx5g5b2VKc8kp4gjaZY,Physical Good
+9/12/2024,12:12:44,None,Astronaut - Cat Lady,1,$47.69,-$25.00,$22.69,rAY8v2F2jfCToaGJtruTGqNA3heZY,Physical Good
+9/12/2024,12:12:19,SP GIRL - SKULLPANDA,SP - Cat,1,$43.15,-$25.00,$18.15,5BftpEgpn9GpyiJOFonD1iCbHgIZY,Physical Good
+9/12/2024,12:11:32,None,Larva - Open Mouth B,1,$34.08,-$25.00,$9.08,ZDqIuKVgaTivHR3G0NCbrm7iyQMZY,Physical Good
+9/12/2024,12:11:05,None,Capybara - Turtle Hat,1,$47.69,-$25.00,$22.69,VPL5yzzzY2a4I3FifKiZmkvuITKZY,Physical Good
+9/12/2024,12:10:34,None,Mel - Necklace,1,$43.15,-$25.00,$18.15,xzEii9oWNZ9fLQtyBy19HEKAHi9YY,Physical Good
+9/12/2024,12:10:07,None,Kuro - Ice Cream,1,$43.01,-$23.44,$19.57,Pq0C0FS0uFo4HlzD2MfCaiof9eWZY,Physical Good
+9/12/2024,12:10:07,Beverages,Drink - WATER,1,$2.87,-$1.56,$1.31,Pq0C0FS0uFo4HlzD2MfCaiof9eWZY,Physical Good
+9/12/2024,12:09:24,SP GIRL - SKULLPANDA,SP - Cat,1,$43.15,-$25.00,$18.15,hDun2zTiKAfdLZGaC7dgKAN6CufZY,Physical Good
+9/12/2024,12:07:38,None,Capybara - Turtle Hat,1,$45.45,$0.00,$45.45,FpuyirjlcT3mxrDjDEzAQuJUVq9YY,Physical Good
+9/12/2024,12:07:07,None,Piggy - Birthday,1,$36.36,$0.00,$36.36,zMKFaN0yaifEIkEOKEiEsHRkaqIZY,Physical Good
+9/12/2024,12:06:33,Sanrio,Mel - Bowtied,1,$40.91,$0.00,$40.91,Py84gyGd4iuNCsBTyIHRjH6Yc9NZY,Physical Good
+8/12/2024,21:11:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tbfzIAufovBLRgwpdfG0nsJKcK6YY,Service
+8/12/2024,21:11:19,None,Gloss Varnish,1,$4.54,$0.00,$4.54,tbfzIAufovBLRgwpdfG0nsJKcK6YY,Service
+8/12/2024,21:05:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NTNoU0vKeUnO2cKK7fWAnHrrxWUZY,Service
+8/12/2024,21:05:52,None,Gloss Varnish,1,$4.54,$0.00,$4.54,NTNoU0vKeUnO2cKK7fWAnHrrxWUZY,Service
+8/12/2024,20:33:12,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,PWOWXo3GyilTmP5nyxzbCQRR2GBZY,Physical Good
+8/12/2024,19:26:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,P6eHIqqSqPrC5c2XhUVFBcX5VKNZY,Service
+8/12/2024,19:26:43,None,Gloss Varnish,1,$4.54,$0.00,$4.54,P6eHIqqSqPrC5c2XhUVFBcX5VKNZY,Service
+8/12/2024,19:26:43,None,Gloss Varnish,1,$4.53,$0.00,$4.53,P6eHIqqSqPrC5c2XhUVFBcX5VKNZY,Service
+8/12/2024,19:06:21,Sanrio,Kuro - Clown Hat,1,$40.84,$0.00,$40.84,lN2phtBV2JGm2HL0farE279TXvZZY,Physical Good
+8/12/2024,19:06:21,Sanrio,Kuro -  King,1,$40.85,$0.00,$40.85,lN2phtBV2JGm2HL0farE279TXvZZY,Physical Good
+8/12/2024,18:35:24,Couple,Couple - Asian Wedding,1,$49.92,$0.00,$49.92,lzxJJ8azxiSrI0ETNfnzXKWDaEFZY,Physical Good
+8/12/2024,18:25:51,None,Teddy with Tote,1,$36.31,$0.00,$36.31,tfzyja3VQBCijPUuzSqDsHjlYj8YY,Physical Good
+8/12/2024,18:23:03,Sanrio,Mel - Bowtied,1,$43.21,-$25.57,$17.64,3SqmFABFQm5Jy0rdznN2hZzdZSdZY,Physical Good
+8/12/2024,18:23:03,None,Teddy with Tote,1,$38.40,-$22.73,$15.67,3SqmFABFQm5Jy0rdznN2hZzdZSdZY,Physical Good
+8/12/2024,18:23:03,Beverages,Drink - Milkis,1,$2.88,-$1.70,$1.18,3SqmFABFQm5Jy0rdznN2hZzdZSdZY,Physical Good
+8/12/2024,18:10:23,None,Take-home kit,1,$2.72,$0.00,$2.72,3OONfCahMfKD5sJdJykWTFlr2DQZY,Physical Good
+8/12/2024,17:34:20,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,3szSUqqR0DSfRcleBu8a5afGbARZY,Physical Good
+8/12/2024,17:34:20,Beverages,Drink - COKE ZERO,1,$2.73,$0.00,$2.73,3szSUqqR0DSfRcleBu8a5afGbARZY,Physical Good
+8/12/2024,17:03:20,None,BuBu LaLa,1,$45.38,$0.00,$45.38,pRhCe6fm3nEpkq9hZz3nBdJnyEQZY,Physical Good
+8/12/2024,17:03:20,None,Capybara - Turtle Hat,1,$45.38,$0.00,$45.38,pRhCe6fm3nEpkq9hZz3nBdJnyEQZY,Physical Good
+8/12/2024,16:59:40,None,Gloss Varnish,1,$4.54,$0.00,$4.54,h3uGzxQQZ7ui1TcVIHfrEpzJRfIZY,Service
+8/12/2024,16:59:29,None,Gloss Varnish,1,$4.54,$0.00,$4.54,zoqGG3H5FkywxI1DD3bOdbeGpOBZY,Service
+8/12/2024,16:55:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,LAKxL8h8dPS7Aaxe6WGQAaMczBZZY,Service
+8/12/2024,16:55:16,None,Gloss Varnish,1,$4.54,$0.00,$4.54,LAKxL8h8dPS7Aaxe6WGQAaMczBZZY,Service
+8/12/2024,16:55:16,None,Gloss Varnish,1,$4.53,$0.00,$4.53,LAKxL8h8dPS7Aaxe6WGQAaMczBZZY,Service
+8/12/2024,16:36:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DwK6mM3P1mvng2uTULNbJm7pM1VZY,Service
+8/12/2024,16:36:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,DwK6mM3P1mvng2uTULNbJm7pM1VZY,Service
+8/12/2024,16:36:11,None,Gloss Varnish,1,$4.53,$0.00,$4.53,DwK6mM3P1mvng2uTULNbJm7pM1VZY,Service
+8/12/2024,16:23:36,Sanrio,Mel - Bowtied,1,$45.00,-$45.00,$0.00,dteOj35JYldSwbCUL6eQh0lEBFEZY,Physical Good
+8/12/2024,15:43:30,None,Bear - Drink,1,$36.31,$0.00,$36.31,59V3X65uNr9toElNXzOCMw5E7keZY,Physical Good
+8/12/2024,15:43:30,None,Capybara - Turtle Hat,1,$45.38,$0.00,$45.38,59V3X65uNr9toElNXzOCMw5E7keZY,Physical Good
+8/12/2024,15:39:40,None,Capybara - Turtle Hat,1,$45.38,$0.00,$45.38,Npm7EPWVfDk2auLPVzLGfIYIBoIZY,Physical Good
+8/12/2024,15:39:40,None,Piggy - Birthday,1,$36.31,$0.00,$36.31,Npm7EPWVfDk2auLPVzLGfIYIBoIZY,Physical Good
+8/12/2024,15:28:04,Beverages,Drink - Milkis,1,$2.72,$0.00,$2.72,t3nURUAmqtBdLGg3iWB0K8ruaSTZY,Physical Good
+8/12/2024,14:32:46,Couple,Couple - Asian Wedding,1,$49.92,$0.00,$49.92,3ueNhzIU0Rh0RYt5URXZxzOGzRbZY,Physical Good
+8/12/2024,14:15:28,Beverages,Drink - Milkis,2,$5.45,$0.00,$5.45,tfDYCm5fGtc7QM202lBCmv8Sn2cZY,Physical Good
+8/12/2024,14:15:28,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,tfDYCm5fGtc7QM202lBCmv8Sn2cZY,Physical Good
+8/12/2024,14:14:22,Sanrio,Cina - Princess,1,$43.24,-$25.96,$17.28,tzlGV3dv4DuwUNjK9MG4qLcJRjMZY,Physical Good
+8/12/2024,14:14:22,None,Totoro,1,$43.24,-$25.96,$17.28,tzlGV3dv4DuwUNjK9MG4qLcJRjMZY,Physical Good
+8/12/2024,14:14:22,None,Piggy – Happy,1,$38.44,-$23.08,$15.36,tzlGV3dv4DuwUNjK9MG4qLcJRjMZY,Physical Good
+8/12/2024,13:53:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,N5SZKplg5FJy5ycPB1GxUbBzOITZY,Service
+8/12/2024,13:53:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,N5SZKplg5FJy5ycPB1GxUbBzOITZY,Service
+8/12/2024,13:52:18,None,Dor - Astronaut,1,$40.84,$0.00,$40.84,r8wRoRzusVDzy3UXcc7vTdpez2eZY,Physical Good
+8/12/2024,13:47:11,Sanrio,Cina,1,$40.00,-$40.00,$0.00,L0o1EiYXjX3QggKeeBJBqd0ihbcZY,Physical Good
+8/12/2024,13:40:02,Beverages,Drink - WATER,3,$8.17,$0.00,$8.17,HYL1skySs8hIJrjDz8S6kIwnrveZY,Physical Good
+8/12/2024,13:36:26,Sanrio,Mel - Bowtied,1,$45.00,-$45.00,$0.00,5111zbStK0Wid9sjV6sd1BKqztGZY,Physical Good
+8/12/2024,13:34:18,Raws/Kaws,Raws - OG,2,$100.00,-$100.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:34:18,None,Capybara - Mother & Child,2,$120.00,-$120.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:34:18,None,Capybara - Turtle Hat,2,$100.00,-$100.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:34:18,Sanrio,Cina - Queen,4,$180.00,-$180.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:34:18,None,Cina – Magician Hat,2,$90.00,-$90.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:34:18,Sanrio,Cina,2,$80.00,-$80.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:34:18,None,Piggy - Birthday,1,$40.00,-$40.00,$0.00,XkrG1eXTWMkJZRQ96G3YUHnv48bZY,Physical Good
+8/12/2024,13:26:53,Sanrio,Cina - Queen,1,$45.00,-$45.00,$0.00,pnka2xOQIpZ1wn1RWD8M57fdoYNZY,Physical Good
+8/12/2024,13:26:53,None,Capybara - Turtle Hat,1,$50.00,-$50.00,$0.00,pnka2xOQIpZ1wn1RWD8M57fdoYNZY,Physical Good
+8/12/2024,13:21:59,None,Teddy with Tote,1,$36.31,$0.00,$36.31,xJxv3AireStlSdxosOLOl0jA6KHZY,Physical Good
+8/12/2024,13:19:24,Sanrio,Mel,1,$36.31,$0.00,$36.31,p5fryN8HC8eSS1xyPZGt7YQJflAZY,Physical Good
+8/12/2024,12:53:42,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,RTcyLd4FwaP5TcInXpSpPGj7bmUZY,Physical Good
+8/12/2024,12:53:42,None,Capybara - Turtle Hat,1,$45.38,$0.00,$45.38,RTcyLd4FwaP5TcInXpSpPGj7bmUZY,Physical Good
+8/12/2024,12:53:42,None,Larva - laughing,1,$31.77,$0.00,$31.77,RTcyLd4FwaP5TcInXpSpPGj7bmUZY,Physical Good
+8/12/2024,11:52:52,None,Capybara - Turtle Hat,1,$45.38,$0.00,$45.38,LWF5PqTgCzbIF3Y31m4axgQ0lGUZY,Physical Good
+8/12/2024,11:52:52,None,Nami,1,$45.38,$0.00,$45.38,LWF5PqTgCzbIF3Y31m4axgQ0lGUZY,Physical Good
+8/12/2024,11:24:23,Halloween,Halloween - Bubu Lala,1,$45.38,$0.00,$45.38,DMSde1YVCRYaHSw3G965Ivl1MiOZY,Physical Good
+8/12/2024,11:16:26,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,Tk0MaaAXshNorCN4kjL46HZMtODZY,Physical Good
+8/12/2024,11:10:23,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,XumRtYOvY3pNhnqHX7QvWh78QD8YY,Physical Good
+7/12/2024,22:03:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,N79CARUUHh8XrdHzv7omrycml6fZY,Service
+7/12/2024,20:39:59,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,dLBcTkYJ1zi6fc0M1iNeMPWwxdMZY,Physical Good
+7/12/2024,19:13:23,None,Teddy with Tote,1,$40.00,-$40.00,$0.00,1HBmC6q66MGJtJeJt3ItGmM2K2ZZY,Physical Good
+7/12/2024,19:13:23,None,Dor - Fal,1,$40.00,-$40.00,$0.00,1HBmC6q66MGJtJeJt3ItGmM2K2ZZY,Physical Good
+7/12/2024,18:10:45,Beverages,Drink - SPRITE,1,$2.72,$0.00,$2.72,RhBPLicm45sNTUgOj6jkzfHLbNIZY,Physical Good
+7/12/2024,18:03:32,None,Gloss Varnish,1,$4.54,$0.00,$4.54,RpFnne66pezeGpqzBTPGNzL0QVEZY,Service
+7/12/2024,17:26:30,POP MART Character,Dim Dim,1,$45.38,$0.00,$45.38,BzES8o22bY28D0jSno2eZ7Ory4DZY,Physical Good
+7/12/2024,16:58:45,Beverages,Drink - COKE,1,$2.72,$0.00,$2.72,vaOHLnvQ3BjWWnFyUGaND1S8HJdZY,Physical Good
+7/12/2024,16:22:56,None,Larva - Open Mouth B,1,$31.76,$0.00,$31.76,RlnFw364AhgriXCwD4QtGGq9tDGZY,Physical Good
+7/12/2024,16:22:56,None,Larva - laughing,1,$31.77,$0.00,$31.77,RlnFw364AhgriXCwD4QtGGq9tDGZY,Physical Good
+7/12/2024,16:15:51,None,Gloss Varnish,1,$4.55,$0.00,$4.55,lRe6YBFFrMCAMhjYoWHT4pEaldSZY,Service
+7/12/2024,15:47:36,Beverages,Drink - Lipton LEMON,1,$4.55,$0.00,$4.55,PYFLFjM31YBi5FtPSGAmgftpMJQZY,Physical Good
+7/12/2024,15:34:02,Halloween,Halloween - Bubu Lala,1,$45.38,$0.00,$45.38,L42JLCoJZM6McOKoLV6d0S9DbDIZY,Physical Good
+7/12/2024,15:34:02,None,Totoro,1,$40.85,$0.00,$40.85,L42JLCoJZM6McOKoLV6d0S9DbDIZY,Physical Good
+7/12/2024,15:27:51,None,SP - Mermaid,1,$47.95,-$27.78,$20.17,LgCt7oMOCNXCCqoSDB3EgvDSAMeZY,Physical Good
+7/12/2024,15:27:51,None,Dor - Fal,1,$38.36,-$22.22,$16.14,LgCt7oMOCNXCCqoSDB3EgvDSAMeZY,Physical Good
+7/12/2024,15:09:34,None,Astro Bear,1,$45.38,$0.00,$45.38,hlL7N58o67AcUdYVEFuJGaoLp3JZY,Physical Good
+7/12/2024,14:24:45,None,Capybara - Turtle Hat,1,$50.00,-$50.00,$0.00,1LrshRsIgINEwUCwuZwOvmpZOfPZY,Physical Good
+7/12/2024,14:18:23,None,Piggy - Peachy,1,$36.36,$0.00,$36.36,nmIKvaROGWrQKiC3nIlByTeYiraZY,Physical Good
+7/12/2024,13:53:01,None,Strawberry Bear - Balloon,1,$43.15,-$25.00,$18.15,x9j318gvK8Fr5OkJMbEMDwLLU4BZY,Physical Good
+7/12/2024,13:52:36,POP MART Character,Dim Dim,1,$47.69,-$25.00,$22.69,PEBw9GM7H89HlAYaNKWvQYAKLrOZY,Physical Good
+7/12/2024,13:49:55,None,SP - Sailor Moon,1,$47.69,-$25.00,$22.69,9twtquVZb0C5fRJMOqpoliEVoEKZY,Physical Good
+7/12/2024,13:46:57,None,Teddy with Tote,1,$38.61,-$25.00,$13.61,LIQy3SJgGXiPeweXGCro3u6vdABZY,Physical Good
+7/12/2024,13:46:15,None,Dor - Fal,1,$38.61,-$25.00,$13.61,7WfG6Zhh3DD00TeKZLVI7A5XO4cZY,Physical Good
+7/12/2024,13:45:22,Raws/Kaws,Raws - OG,1,$47.69,-$25.00,$22.69,NHZDRMSoQu5sZPQ0t9zyNdUEQ9OZY,Physical Good
+7/12/2024,13:14:17,Couple,Couple - Banana,1,$54.31,-$47.41,$6.90,xfiUEGWtEzlpMoxn2uahmpC5pUXZY,Physical Good
+7/12/2024,13:14:17,Beverages,Drink - COKE,1,$2.96,-$2.59,$0.37,xfiUEGWtEzlpMoxn2uahmpC5pUXZY,Physical Good
+7/12/2024,13:12:40,None,Dor - Astronaut,1,$45.00,-$45.00,$0.00,J9RRv7wyX0qNcSUwltLkOZRUfnNZY,Physical Good
+7/12/2024,13:12:40,None,Teddy with Tote,1,$40.00,-$40.00,$0.00,J9RRv7wyX0qNcSUwltLkOZRUfnNZY,Physical Good
+7/12/2024,13:12:40,Couple,Couple - Lucky Cat,1,$55.00,-$55.00,$0.00,J9RRv7wyX0qNcSUwltLkOZRUfnNZY,Physical Good
+7/12/2024,11:28:23,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,vuWyF5j0ilrAxFQlt1YjMb9fHkPZY,Physical Good
+7/12/2024,11:17:35,None,Capybara - Toilet,1,$45.38,$0.00,$45.38,VtoKjDyT6jhobq0k6tKUXVkxyoEZY,Physical Good
+7/12/2024,11:17:35,None,Custom Amount,1,$40.84,$0.00,$40.84,VtoKjDyT6jhobq0k6tKUXVkxyoEZY,
+7/12/2024,11:17:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VtoKjDyT6jhobq0k6tKUXVkxyoEZY,Service
+7/12/2024,11:17:35,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VtoKjDyT6jhobq0k6tKUXVkxyoEZY,Service
+7/12/2024,11:11:51,Sanrio,Cina,1,$37.41,-$12.00,$25.41,tPtv9yI1k3DJOk8NG7Fu7gFcexLZY,Physical Good
+7/12/2024,11:11:51,None,Dor - Sitting,1,$37.41,-$12.00,$25.41,tPtv9yI1k3DJOk8NG7Fu7gFcexLZY,Physical Good
+7/12/2024,11:11:51,None,Dor - Fal,1,$37.42,-$12.00,$25.42,tPtv9yI1k3DJOk8NG7Fu7gFcexLZY,Physical Good
+7/12/2024,11:11:51,None,Kuro - Princess,1,$42.09,-$13.50,$28.59,tPtv9yI1k3DJOk8NG7Fu7gFcexLZY,Physical Good
+6/12/2024,18:57:40,Sanrio,Kuro - Clown Hat,-1,-$40.84,$0.00,-$40.84,hNzvb8lSaWBwuAYHcMCYhMseV,Physical Good
+6/12/2024,18:03:11,None,Teddy with Tote,2,$72.61,$0.00,$72.61,necwKlnenRABXSRdcBNdQCFPqlMZY,Physical Good
+6/12/2024,17:28:47,Sanrio,Kuro - Clown Hat,1,$40.84,$0.00,$40.84,X2YsiCoYecTOLCoGxUmpcuysHuBZY,Physical Good
+6/12/2024,17:28:47,None,Capybara - Mother & Child,1,$54.46,$0.00,$54.46,X2YsiCoYecTOLCoGxUmpcuysHuBZY,Physical Good
+6/12/2024,17:16:17,None,Dor - Magician hat,1,$40.84,$0.00,$40.84,V9aHcKSeoNpXGkMmRGLqAnAGbNeZY,Physical Good
+6/12/2024,16:16:05,Sanrio,Purin,1,$40.84,$0.00,$40.84,tx2ZevQsf41DrZp3G9S2AsTabyHZY,Physical Good
+6/12/2024,16:16:05,Sanrio,Kuro -  King,1,$40.85,$0.00,$40.85,tx2ZevQsf41DrZp3G9S2AsTabyHZY,Physical Good
+6/12/2024,16:15:27,None,Capybara - Turtle Hat,1,$45.45,$0.00,$45.45,xF1kOFZ790msXqegwG3oy6yjmqGZY,Physical Good
+6/12/2024,15:40:00,None,Totoro,1,$40.84,$0.00,$40.84,nWwOhEF54KIqei7BU9NCa7hOPGDZY,Physical Good
+6/12/2024,15:29:57,None,Gloss Varnish,1,$4.54,$0.00,$4.54,dVYrI1QyCVLHeB0ZG7vNKO1unIdZY,Service
+6/12/2024,14:41:40,None,Capybara - TV,1,$45.38,$0.00,$45.38,b8iggrPDlB6wPwlNJoTrR3pvWmWZY,Physical Good
+6/12/2024,14:41:40,None,Bear - Sleeping,1,$36.31,$0.00,$36.31,b8iggrPDlB6wPwlNJoTrR3pvWmWZY,Physical Good
+6/12/2024,14:37:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7UeO88tbhnXBmN1AIxdXeg7ZRQDZY,Service
+6/12/2024,13:27:27,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,b6TxRlxlDSJszmQIZq6QwoJBEpTZY,Physical Good
+6/12/2024,12:53:25,None,Strawberry Bear - Balloon,1,$40.84,$0.00,$40.84,nGwmWWNmQkQIRMvPukoGNBDC5OYZY,Physical Good
+6/12/2024,12:47:00,Beverages,Drink - Lipton LEMON,1,$4.55,$0.00,$4.55,RvGOJJuWVrumMukFxcxZarfM3VPZY,Physical Good
+6/12/2024,12:22:28,None,Sleepy Sparkle,1,$36.36,$0.00,$36.36,tdWEsnF5UfOZFmlFJtu69CCmVGEZY,Physical Good
+6/12/2024,12:22:28,None,Rabbit - Happy Sleepy,1,$36.37,$0.00,$36.37,tdWEsnF5UfOZFmlFJtu69CCmVGEZY,Physical Good
+6/12/2024,12:09:15,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,fwLsNE5GTa34xtjCZ8YsHWZmUQ6YY,Physical Good
+5/12/2024,19:42:11,None,Gloss Varnish,1,$4.54,$0.00,$4.54,TObPDA6uR6anRfysqGceNAlhWDZZY,Service
+5/12/2024,19:15:05,Beverages,Drink - SPRITE,1,$2.73,$0.00,$2.73,lPHXbaqiJUqKX9uR1tsBMPTxZSCZY,Physical Good
+5/12/2024,19:12:01,None,Larva - Open Mouth B,1,$35.00,-$35.00,$0.00,XCUtW4j3mR1oIUYuXKOUU4ahSDdZY,Physical Good
+5/12/2024,18:09:01,Beverages,Drink - COKE ZERO,1,$2.72,$0.00,$2.72,T2tShWiUcxFSBYMDBN1MmNjDKqGZY,Physical Good
+5/12/2024,17:50:47,Beverages,Drink - WATER,1,$3.00,-$3.00,$0.00,xPKWrrKSyj0Wq43Ls7MVUjxDB7EZY,Physical Good
+5/12/2024,17:49:34,None,Teddy with Tote,1,$36.31,$0.00,$36.31,zgaIWRzggQV9M9e6Ye4zOrfwrkHZY,Physical Good
+5/12/2024,17:48:53,Raws/Kaws,Raws - Furry,-1,-$45.38,$0.00,-$45.38,rQQkMDMTwO2yWGFs7I0YjkweV,Physical Good
+5/12/2024,17:47:40,None,Dor - Sitting,1,$36.30,$0.00,$36.30,L65yZZtmpY5TtrWZ9pugWqXkByKZY,Physical Good
+5/12/2024,17:47:40,Sanrio,Kuro - Bowtied,1,$40.84,$0.00,$40.84,L65yZZtmpY5TtrWZ9pugWqXkByKZY,Physical Good
+5/12/2024,17:47:40,None,Custom Amount,1,$68.08,$0.00,$68.08,L65yZZtmpY5TtrWZ9pugWqXkByKZY,
+5/12/2024,17:47:40,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,L65yZZtmpY5TtrWZ9pugWqXkByKZY,Physical Good
+5/12/2024,17:45:16,Sanrio,Cina,1,$36.31,$0.00,$36.31,1hwBPKMjPDzGJ0idr2TKYfrC0uDZY,Physical Good
+5/12/2024,17:43:56,None,Custom Amount,1,$36.30,$0.00,$36.30,fKAcfUww16EeiPtWdKH64DXv5WAZY,
+5/12/2024,17:43:56,Sanrio,Mel,1,$36.31,$0.00,$36.31,fKAcfUww16EeiPtWdKH64DXv5WAZY,Physical Good
+5/12/2024,17:31:12,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,tlA37i3BdeEXCrTcgqB9XymqHVDZY,Physical Good
+5/12/2024,17:31:12,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,tlA37i3BdeEXCrTcgqB9XymqHVDZY,Physical Good
+5/12/2024,17:30:36,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,15iaKiiHLk9viEtIOcLwrHBPc6EZY,Physical Good
+5/12/2024,17:30:36,Beverages,Drink - Lipton LEMON,1,$4.54,$0.00,$4.54,15iaKiiHLk9viEtIOcLwrHBPc6EZY,Physical Good
+5/12/2024,17:19:20,Beverages,Drink - Red Bull,1,$4.54,$0.00,$4.54,5vitvL1TvpDgyeFcH1R3iubVXf6YY,Physical Good
+5/12/2024,17:19:20,Beverages,Drink - COKE,1,$2.73,$0.00,$2.73,5vitvL1TvpDgyeFcH1R3iubVXf6YY,Physical Good
+5/12/2024,17:17:55,Beverages,Drink - COKE,2,$5.45,$0.00,$5.45,DUA8dI968S4BAMKgFqfnrSiMRMfZY,Physical Good
+5/12/2024,16:34:08,None,Larva - laughing,1,$31.77,$0.00,$31.77,fATkjD4CBDjSNZ75B8DgPL3EuUaZY,Physical Good
+5/12/2024,15:53:16,None,Teddy with Tote,1,$36.31,$0.00,$36.31,t7jBGUjH8IXLVpB9RTKhUCNL0UMZY,Physical Good
+5/12/2024,15:52:15,None,Teddy with Tote,1,$36.31,$0.00,$36.31,9H7wsqvrYaZDPCOohu9IclrtdOXZY,Physical Good
+5/12/2024,15:24:42,Couple,Couple - Banana,1,$50.00,$0.00,$50.00,B3eWEEnbNSxVcM41QO0Xjmwxpj7YY,Physical Good
+5/12/2024,14:41:16,Raws/Kaws,Raws - Furry,1,$45.38,$0.00,$45.38,1zrmAIEUFSsN6pr33Ch0PP4d48MZY,Physical Good
+5/12/2024,14:41:16,None,Capybara - Turtle Hat,1,$45.38,$0.00,$45.38,1zrmAIEUFSsN6pr33Ch0PP4d48MZY,Physical Good
+5/12/2024,12:23:29,None,Nami,1,$45.38,$0.00,$45.38,JzsxDTTMnunLZ8h7lNGNbPItvZPZY,Physical Good
+5/12/2024,12:23:01,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,pdzIoFAFEL1oxQa50a8vambwGLYZY,Physical Good
+4/12/2024,20:46:26,None,Gloss Varnish,1,$4.54,$0.00,$4.54,FVcSMlsgqRWB9c0RULRWD1RejENZY,Service
+4/12/2024,18:12:28,None,Gloss Varnish,1,$4.54,$0.00,$4.54,9NYlNni62x644ItZIfGeQZzeV,Service
+4/12/2024,18:00:25,None,Capybara - Crocodile,1,$45.46,$0.00,$45.46,HQHjXEtAJ2foYit5QeDPhwZPWDGZY,Physical Good
+4/12/2024,18:00:25,None,Capybara - Holder,1,$45.45,$0.00,$45.45,HQHjXEtAJ2foYit5QeDPhwZPWDGZY,Physical Good
+4/12/2024,16:55:01,None,Astronaut - Cat Lady,1,$45.38,$0.00,$45.38,D6rGx0skVZjslSC2gmJPCYo8GWPZY,Physical Good
+4/12/2024,16:53:52,None,Bowtie Cat - School Girl,1,$40.85,$0.00,$40.85,Del8qkKbwDy7kzDTuwLxEY4C83KZY,Physical Good
+4/12/2024,16:53:52,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,Del8qkKbwDy7kzDTuwLxEY4C83KZY,Physical Good
+4/12/2024,16:38:08,Sanrio,Kuro - Clown Hat,1,$40.84,$0.00,$40.84,fyw6pBQLUGVizrPLqyNwTT63J6fZY,Physical Good
+4/12/2024,16:12:15,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7YedzeIooB0K7QFDGHQ20QP3EvBZY,Service
+4/12/2024,16:07:38,None,Teddy with Tote,1,$36.67,-$4.00,$32.67,RNTzUZy7rLZwM8MzzbDDqNf2zxfZY,Physical Good
+4/12/2024,16:07:14,Sanrio,Mel,1,$36.67,-$4.00,$32.67,RnUv530GwrxJQDwmMxOKD5rAOhSZY,Physical Good
+4/12/2024,15:54:44,None,Repeat painting,1,$9.08,$0.00,$9.08,jW9m5I9guCZEstOtLD03yHch26NZY,Service
+4/12/2024,15:52:14,Couple,Couple - Loving Bear,1,$49.92,$0.00,$49.92,tpqThtuOMgOhnGaxrMAAUeeImeLZY,Physical Good
+4/12/2024,15:29:34,None,Rabbit – Fish,1,$40.84,$0.00,$40.84,FDrAnGICLV62WD5pdgo5OrCRbuJZY,Physical Good
+4/12/2024,15:29:05,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,PmSiA95ii5NrDlN9IM4jfFj5UxCZY,Physical Good
+4/12/2024,14:20:55,None,Nami,1,$45.38,$0.00,$45.38,bGhhRgihUHRR9Ysm7bQNSZD3RjKZY,Physical Good
+4/12/2024,14:20:55,None,SP - Witch,1,$45.39,$0.00,$45.39,bGhhRgihUHRR9Ysm7bQNSZD3RjKZY,Physical Good
+4/12/2024,14:20:55,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,bGhhRgihUHRR9Ysm7bQNSZD3RjKZY,Physical Good
+4/12/2024,14:14:52,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,th8E43OGMYZAewmxtxaP1qVT5t8YY,Physical Good
+4/12/2024,13:36:43,None,Bear - Drink,1,$36.31,$0.00,$36.31,htBu17kLuVo1gFrr847YBUQZiEWZY,Physical Good
+4/12/2024,13:36:25,None,Rabbit Bowtie - Carrot,1,$36.31,$0.00,$36.31,Npw8QYj5P2eeag3McrVod6VwJd6YY,Physical Good
+4/12/2024,12:47:47,None,SP - Witch,1,$45.38,$0.00,$45.38,3sphmYNkRCgMJv6zbJSKudt7fzcZY,Physical Good
+4/12/2024,12:47:28,None,Dor - Astronaut,1,$40.84,$0.00,$40.84,XW4SeKvSB74nmQB5VsT8T09r5mTZY,Physical Good
+4/12/2024,12:47:04,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,ZZrHy9Usr8I4Tv574Hwedp5V6D9YY,Physical Good
+4/12/2024,12:46:37,Sanrio,Cina,1,$36.31,$0.00,$36.31,BLuHfeLmUL7y6sAMwqbcWHgLDlSZY,Physical Good
+4/12/2024,12:38:51,None,Larva - Open mouth A,1,$31.77,$0.00,$31.77,XSYV7m2LeJp6mh9WIWGQ09ghieXZY,Physical Good
+4/12/2024,12:38:51,None,Rabbit – Fish,1,$40.84,$0.00,$40.84,XSYV7m2LeJp6mh9WIWGQ09ghieXZY,Physical Good
+4/12/2024,12:29:48,Sanrio,Mel,1,$36.72,-$4.00,$32.72,P6AeoVOd8v5WmMOMXdeCdCstfoPZY,Physical Good
+4/12/2024,12:29:48,None,Gloss Varnish,1,$4.55,$0.00,$4.55,P6AeoVOd8v5WmMOMXdeCdCstfoPZY,Service
+3/12/2024,21:10:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,7KBIdBSpdLLrFgaOHW2hvCGKuMXZY,Service
+3/12/2024,20:44:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,lrBDkhcVZ8YKXANUpd09O9nRIIYZY,Service
+3/12/2024,20:08:01,None,Capybara - Piggy Hat,1,$45.38,$0.00,$45.38,vkNIgc32Lz0xq3SJwrZE6Eq241BZY,Physical Good
+3/12/2024,20:07:32,Halloween,Halloween - Mel,1,$40.91,$0.00,$40.91,fG0Ljtcla26GQaxQxmBcmnTNWMQZY,Physical Good
+3/12/2024,19:54:02,None,Nami,1,$45.38,$0.00,$45.38,TCjizrDjWgeqsts6milEC5U81jdZY,Physical Good
+3/12/2024,19:54:02,None,Custom Amount,1,$181.53,$0.00,$181.53,TCjizrDjWgeqsts6milEC5U81jdZY,
+3/12/2024,19:37:05,None,SP - Sailor Moon,1,$45.38,$0.00,$45.38,L2zK0mKvGh9CIwgA9GsVsxb5sEcZY,Physical Good
+3/12/2024,17:41:25,None,Bowtie Cat - School Girl,1,$40.84,$0.00,$40.84,p7cPbWrIlax3T0SyI5Pexc96tOYZY,Physical Good
+3/12/2024,17:40:52,Sanrio,Kuro - Eclipse,1,$40.84,$0.00,$40.84,pZF4WVnwuku5wbvaAUpkVzO8m3FZY,Physical Good
+3/12/2024,16:29:50,Beverages,Drink - Banana Milk,1,$3.40,$0.00,$3.40,VLh3xK1jnkcYknFtogJHEFjjwRKZY,Physical Good
+3/12/2024,16:29:50,None,Gloss Varnish,1,$4.54,$0.00,$4.54,VLh3xK1jnkcYknFtogJHEFjjwRKZY,Service
+3/12/2024,16:03:30,None,Gloss Varnish,1,$4.54,$0.00,$4.54,HSe850EwxLaXBYzjaEnmjNuhKFLZY,Service
+3/12/2024,16:03:30,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,HSe850EwxLaXBYzjaEnmjNuhKFLZY,Physical Good
+3/12/2024,15:53:10,None,Dor - Sitting,1,$36.31,$0.00,$36.31,JL2494UzuungnlLWKTCPhJoR4OWZY,Physical Good
+3/12/2024,15:52:43,None,Capybara - Piggy Hat,1,$45.45,$0.00,$45.45,Lk0LsD4NcJvAHF5BLmLy0ADt6nEZY,Physical Good
+3/12/2024,14:54:08,None,Gloss Varnish,1,$4.54,$0.00,$4.54,XaUXvZfRqNWLeNJVVZ7mNp4Yz0ZZY,Service
+3/12/2024,14:53:44,None,Gloss Varnish,1,$4.54,$0.00,$4.54,BJtvTWzr3qANikhndfHXRd0QghQZY,Service
+3/12/2024,14:53:20,None,Gloss Varnish,1,$4.54,$0.00,$4.54,vkduxzoZpnbnx6b8jrRuJhARF3GZY,Service
+3/12/2024,14:29:17,SP GIRL - SKULLPANDA,SP - Cat,1,$40.84,$0.00,$40.84,7uTG8TpKJaUekQkH3ATmAuQEU37YY,Physical Good
+3/12/2024,14:28:32,None,SP - Witch,1,$45.38,$0.00,$45.38,Nfdbt5t614zSBjLy0xOsTwIeQ7XZY,Physical Good
+3/12/2024,14:02:03,Sanrio,Cina - Bowtied,1,$40.84,$0.00,$40.84,5XMS9tKYwP48lQbyRAMU4l4UfjfZY,Physical Good
+3/12/2024,14:02:03,None,Gloss Varnish,1,$4.54,$0.00,$4.54,5XMS9tKYwP48lQbyRAMU4l4UfjfZY,Service
+3/12/2024,14:01:17,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,9lOAxRRz5H7L5sYqtFPfKFzRRZTZY,Physical Good
+3/12/2024,14:01:17,None,Gloss Varnish,1,$4.54,$0.00,$4.54,9lOAxRRz5H7L5sYqtFPfKFzRRZTZY,Service
+3/12/2024,14:00:33,None,Nami,1,$45.45,$0.00,$45.45,nSu00YT75IKlY5kopeGAzOS5KQRZY,Physical Good
+3/12/2024,14:00:06,SP GIRL - SKULLPANDA,SP - Cat,1,$40.84,$0.00,$40.84,FxCGakrBDs9kwhoaUwTJ2t9ztWGZY,Physical Good
+3/12/2024,13:59:36,Sanrio,Cina,1,$36.31,$0.00,$36.31,9VEffqGTafvRCVMTVbKSHCvYVS9YY,Physical Good
+3/12/2024,13:58:43,None,Bear Holder - B,1,$59.00,$0.00,$59.00,biL1mzPtC0glft8ZzCM6Dkvl5sXZY,Physical Good
+3/12/2024,13:56:31,None,Gloss Varnish,1,$4.54,$0.00,$4.54,1z3qGry3nmd7kIX4f5jkSj8KgMQZY,Service
+3/12/2024,13:56:20,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,x3mivvmjexMYDZgLSK7YmDMuCpQZY,Physical Good
+3/12/2024,12:57:15,Sanrio,Mel - Bowtied,1,$40.84,$0.00,$40.84,X0JjEzmuYNUSSAc6B6HsfU1ZMlcZY,Physical Good
+3/12/2024,12:56:35,None,Chicken Mama,1,$36.31,$0.00,$36.31,PGuKHaOB045fovZQz7DXtFAb10OZY,Physical Good
+3/12/2024,12:56:01,None,Chicken Mama,1,$36.31,$0.00,$36.31,bQilMqH5lS4lxsqt1Dbp75Arh88YY,Physical Good
+3/12/2024,12:13:15,Couple,Couple - Rabbit,1,$49.92,$0.00,$49.92,3MFZRNDpGwZ1AVeYT7W168XQ0bfZY,Physical Good
+2/12/2024,20:07:47,None,Gloss Varnish,1,$4.54,$0.00,$4.54,PwV5kbmXJkeUhXWsnHoG8BxOZdPZY,Service
+2/12/2024,18:42:09,Couple,Couple - Banana,1,$49.92,$0.00,$49.92,Nv1d4snSO4qQys6kByOjsFO1hqSZY,Physical Good
+2/12/2024,17:35:06,Beverages,Drink - Lipton PEACH,1,$4.54,$0.00,$4.54,veCOYIY1ngMGL1jxG1OtKmum8SMZY,Physical Good
+2/12/2024,17:34:34,None,Rabbit - Happy Sleepy,1,$38.69,-$25.81,$12.88,hTQYV4YbRF7PfZiyxGJM8tejuE8YY,Physical Good
+2/12/2024,17:34:34,None,Chicken Mama,2,$77.38,-$51.61,$25.77,hTQYV4YbRF7PfZiyxGJM8tejuE8YY,Physical Good
+2/12/2024,17:34:34,None,Larva - Open Mouth B,1,$33.85,-$22.58,$11.27,hTQYV4YbRF7PfZiyxGJM8tejuE8YY,Physical Good
+2/12/2024,17:28:54,None,Larva - Open mouth A,1,$34.21,-$26.27,$7.94,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,Sanrio,Kuro - Clown Hat,1,$43.98,-$33.77,$10.21,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,Sanrio,Kuro - Evil,1,$48.87,-$37.52,$11.35,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,Sanrio,Kuro -  King,2,$87.96,-$67.54,$20.42,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,None,Mel - Necklace,1,$43.98,-$33.77,$10.21,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,None,Piggy – Happy,1,$39.09,-$30.02,$9.07,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,None,Capybara - Lucky Wish,2,$97.73,-$75.04,$22.69,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,None,Capybara - TV,2,$97.73,-$75.05,$22.68,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,17:28:54,None,Capybara - Piggy Hat,1,$48.86,-$37.52,$11.34,3WwI1IZPL6RguyKElobMqicTs16YY,Physical Good
+2/12/2024,14:57:14,None,Larva,1,$31.77,$0.00,$31.77,hXMlEBVy6IsCyQDmMZBMIG1lp3fZY,Physical Good
+2/12/2024,14:21:35,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,B1p6tzWrRmzcMiUELHBVOmlOIJ6YY,Physical Good
+1/12/2024,17:30:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bgOdFn6oOFlm7PQgvMd1AB06KPLZY,Service
+1/12/2024,17:30:27,None,Gloss Varnish,1,$4.54,$0.00,$4.54,bgOdFn6oOFlm7PQgvMd1AB06KPLZY,Service
+1/12/2024,17:25:56,None,Capybara - On Lotus,1,$60.00,-$60.00,$0.00,97twbldQhAWIlHVJoZn9fjQbuqOZY,Physical Good
+1/12/2024,17:07:35,Sanrio,Cina - Princess,1,$43.03,-$23.68,$19.35,ZpzFxnliVM9IF7aTHT1d2Ayb91LZY,Physical Good
+1/12/2024,17:07:35,None,Capybara - Piggy Hat,1,$47.81,-$26.32,$21.49,ZpzFxnliVM9IF7aTHT1d2Ayb91LZY,Physical Good
+1/12/2024,17:03:14,None,Gloss Varnish,1,$4.55,$0.00,$4.55,V1qBlSw794ski3Y7qU8X00f8UFSZY,Service
+1/12/2024,15:09:10,Raws/Kaws,Raws - Furry,1,$50.00,-$50.00,$0.00,XGQCWocA1PEQRTF6xteUoNnRKoAZY,Physical Good
+1/12/2024,15:09:10,Couple,Couple - Loving Bear,1,$55.00,-$55.00,$0.00,XGQCWocA1PEQRTF6xteUoNnRKoAZY,Physical Good
+1/12/2024,15:04:55,Sanrio,Kuro - Bowtied,1,$40.84,$0.00,$40.84,v6YCkCCgDed64K31uPGqukUfEtKZY,Physical Good
+1/12/2024,15:04:55,Sanrio,Mel - Bowtied,1,$40.85,$0.00,$40.85,v6YCkCCgDed64K31uPGqukUfEtKZY,Physical Good
+1/12/2024,14:47:27,Halloween,Halloween - Bubu Lala,1,$45.46,$0.00,$45.46,vwv8lLcnOG2gpzPRzpvEhlOA22ZZY,Physical Good
+1/12/2024,14:47:27,Sanrio,Kuro - Evil,1,$45.45,$0.00,$45.45,vwv8lLcnOG2gpzPRzpvEhlOA22ZZY,Physical Good
+1/12/2024,14:04:16,None,Capybara - Piggy Hat,1,$47.81,-$26.32,$21.49,NloPfurMF1Qb42c7k9erEBd3b7BZY,Physical Good
+1/12/2024,14:04:16,Sanrio,Kuro - Bowtied,1,$43.03,-$23.68,$19.35,NloPfurMF1Qb42c7k9erEBd3b7BZY,Physical Good
+1/12/2024,14:02:10,None,Gloss Varnish,1,$4.55,$0.00,$4.55,Lww0wQlUYDaiVIQ3JyP3jS6eV,Service
+1/12/2024,13:37:26,None,Piggy - Queen,1,$36.31,$0.00,$36.31,5bWSBKj6J6jc6nMdhWOPsy9fFueZY,Physical Good
+1/12/2024,12:41:19,Beverages,Drink - 0 Degree Iced Tea,1,$4.09,$0.00,$4.09,XELG10L1xof0iAonVLDHKSGh8AWZY,Physical Good
+1/12/2024,12:41:19,Beverages,Drink - WATER,1,$2.72,$0.00,$2.72,XELG10L1xof0iAonVLDHKSGh8AWZY,Physical Good
+1/12/2024,12:23:40,POP MART Character,Dim Dim,1,$50.00,-$50.00,$0.00,T0ypBN6eHYLma8EI1DLoKvsBGhGZY,Physical Good
+1/12/2024,12:23:40,None,Dor - Astronaut,1,$45.00,-$45.00,$0.00,T0ypBN6eHYLma8EI1DLoKvsBGhGZY,Physical Good
+1/12/2024,12:23:40,None,Kuro - Princess,1,$45.00,-$45.00,$0.00,T0ypBN6eHYLma8EI1DLoKvsBGhGZY,Physical Good
+1/12/2024,12:23:40,None,Capybara - Turtle Hat,1,$50.00,-$50.00,$0.00,T0ypBN6eHYLma8EI1DLoKvsBGhGZY,Physical Good
+1/12/2024,11:24:38,None,Teddy with Tote,1,$36.36,$0.00,$36.36,tbJoONLnpRBAZXv9KbKJ0W0RlsIZY,Physical Good
+1/12/2024,10:57:49,Beverages,Drink - WATER,1,$2.86,-$1.50,$1.36,ZnCl5x9gcIUxU3vyfhAUNV4RwW8YY,Physical Good
