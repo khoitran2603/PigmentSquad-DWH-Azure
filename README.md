@@ -8,7 +8,6 @@ ongoing business analytics.
 **Store hours analysis** is implemented as one example feature built on top of
 the warehouse.
 
-**NOTE: Certain information has been removed to protect the business's privacy.**
 ---
 
 ## What This Project Shows
