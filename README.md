@@ -28,11 +28,35 @@ Raw POS data → structured cloud warehouse → analytics-ready data products.
 ## Repository Structure
 ```
 PigmentSquad-DWH-Azure/
-├─ sql/ # Bronze setup and raw ingestion (Azure SQL)
-├─ databricks/ # Silver & Gold transformations and analytics
-├─ docs/ # Architecture and assumptions
-└─ README.md
+│
+├─ databricks/
+│  ├─ notebooks/        # Silver-layer cleaning and modelling
+│  ├─ pipelines/        # Gold incremental dimension & fact pipelines
+│  ├─ jobs/             # Analytics jobs (e.g. store hours feature)
+│  ├─ utils/            # Shared transformation utilities
+│  └─ README.md
+│
+├─ sql/
+│  ├─ bronze/           # Warehouse setup and raw ingestion (Azure SQL)
+│  └─ README.md
+│
+├─ factory/             # Azure Data Factory (ADF) definitions
+│
+├─ source/
+│  ├─ datasets/         # Raw POS data files 
+│  ├─ cdc.json          # Incremental ingestion configuration
+│  └─ empty.json        # Placeholder for schema alignment
+│
+├─ docs/
+│  ├─ architecture.md   # Warehouse-focused architecture overview
+│  ├─ business-context.md
+│  └─ screenshots/      # UI screenshots (ADF, Databricks, results)
+│
+└─ README.md            # Project overview (entry point)
 ```
+- The sql/ folder shows how the warehouse is established at the Bronze layer.
+- The databricks/ folder contains all Silver and Gold processing logic.
+- The docs/ folder provides architectural context and assumptions.
 ---
 
 ## Branching Strategy
