@@ -19,12 +19,6 @@ the warehouse.
 
 ---
 
-## In One Sentence
-
-Raw POS data → structured cloud warehouse → analytics-ready data products.
-
----
-
 ## Repository Structure
 ```
 PigmentSquad-DWH-Azure/
