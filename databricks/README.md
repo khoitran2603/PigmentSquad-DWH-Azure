@@ -34,7 +34,7 @@ data cleaning, modelling, incremental updates, and analytics feature builds.
 
 - `utils/`  
   Shared transformation utilities reused across Silver notebooks
-  and Gold pipelines to ensure consistency.
+  to ensure consistency.
 
 ---
 
