@@ -1,56 +1,40 @@
-# Databricks Layer — Silver & Gold Warehouse Processing
+# Databricks Layer — Silver & Gold Processing
 
 This folder contains all Databricks notebooks, pipelines, and jobs used to
-transform raw POS data from the Bronze layer into a **modelled, analytics-ready
-cloud data warehouse**.
+transform raw POS data into **modelled and analytics-ready datasets**.
 
-Databricks is the primary engine for **Silver and Gold layers**, handling
-data cleaning, modelling, incremental updates, and analytics feature builds.
+Databricks is responsible for **all Silver and Gold layers** in this project.
 
 ---
 
-## Purpose
+## Responsibilities
 
-- Clean and standardise raw POS data from the Bronze layer.
-- Build reusable Silver dimension and fact tables.
-- Maintain Gold warehouse tables incrementally.
-- Produce analytics-ready data products built on top of the warehouse.
+- Clean and standardise raw POS data (Silver)
+- Build reusable dimension and fact tables
+- Maintain Gold tables incrementally
+- Generate analytics features from the warehouse
 
 ---
 
-## Structure
+## Folder Structure
 
 - `notebooks/`  
-  Silver-layer transformations that clean, standardise, and split raw data
-  into dimension and fact tables.
+  Silver-layer transformations and core data modelling.
 
 - `pipelines/`  
-  Incremental pipelines that maintain Gold dimension and fact tables,
-  including change tracking where applicable.
+  Incremental pipelines that maintain Gold dimensions and facts.
 
 - `jobs/`  
-  Batch analytics jobs that generate warehouse features such as
-  store hours performance metrics.
+  Batch analytics jobs that produce specific data products
+  (e.g. store hours performance).
 
 - `utils/`  
-  Shared transformation utilities reused across Silver notebooks
-  to ensure consistency.
+  Shared transformation utilities reused across notebooks and pipelines.
 
 ---
 
-## Design Principles
+## Key Principle
 
-- Databricks owns Silver and Gold warehouse processing.
-- Shared logic is centralised and reused across layers.
-- Core warehouse tables are built independently of any single use case.
-- Analytics features are implemented as downstream jobs, not embedded
-  in the core model.
-
----
-
-## Notes
-
-Store hours analytics is one example of a downstream feature built on
-top of the warehouse. The structure allows additional analytics use cases
-to be added without changing the underlying data model.
+The **warehouse model comes first**.  
+Analytics features are built on top of it, not embedded inside it.
 
